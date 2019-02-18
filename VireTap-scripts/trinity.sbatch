@@ -29,7 +29,7 @@ echo "Now trinity starts"
 cd $LOCAL
 # set a timer to see how long this run
 SECONDS=0
-Trinity --no_version_check --seqType fq --max_memory 16G --CPU 4 \
+Trinity --no_version_check --seqType fq --max_memory 80G --CPU 4 \
   --output $OUTDIR/$FILE\_trinity \
   --single $INDIR/$FILE.fastq \
 #
