@@ -1,0 +1,10 @@
+*_data/
+*index
+*.gi
+*.fastq
+*.fq
+*.fasta
+*.fa
+*_tophat/
+*_trinity/
+*.log
