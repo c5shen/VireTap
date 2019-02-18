@@ -64,26 +64,24 @@ sleep 2
 #
 #
 # STEP 2: run tophat alignment based on single/paired reads
-if [ "$PAIRED" == 0 ]; then
-	job=`sbatch "$script/tophat.sbatch" "$index/homo_sapien_GRCh38_index" "$PAIRED" "$A_NUM"`
-fi
+tophat_job=`sbatch "$script/tophat.sbatch" "$index/homo_sapien_GRCh38_index" "$PAIRED" "$A_NUM"`
 # the job number storage
-job=`echo $job | cut -d " " -f 4`
-echo "Tophat job number is $job"
+tophat_job=`echo $tophat_job | cut -d " " -f 4`
+echo "Tophat job number is $tophat_job"
 sleep 2
 #
 #
 # STEP 2.5: preprocess the alignment data (unmapped)
-job=`sbatch --dependency afterany:"$job" "$script/tt_preprocess.sbatch" $A_NUM $PAIRED`
-job=`echo $job | cut -d " " -f 4`
-echo "Preprocessing job number is $job"
+prep_job=`sbatch --dependency afterany:"$tophat_job" "$script/tt_preprocess.sbatch" $A_NUM $PAIRED`
+prep_job=`echo $prep_job | cut -d " " -f 4`
+echo "Preprocessing job number is $prep_job"
 sleep 2
 #
 #
 # STEP 3: run trinity on the unmapped fastq file
-job=`sbatch --dependency afterany:"$job" "$script/trinity.sbatch" $A_NUM\_unmapped`
-job=`echo $job | cut -d " " -f 4`
-echo "Trinity job number is $job"
+trinity_job=`sbatch --dependency afterany:"$prep_job" "$script/trinity.sbatch" $A_NUM\_unmapped`
+trinity_job=`echo $trinity_job | cut -d " " -f 4`
+echo "Trinity job number is $trinity_job"
 sleep 2
 #
 #
@@ -95,16 +93,17 @@ sleep 2
 #
 #
 # STEP 4: run blast on Trinity result
-job=`sbatch --dependency afterany:"$job" "$script/blastn.sbatch" $A_NUM\_unmapped\_trinity/Trinity.fasta 0 "$A_NUM"`
-job=`echo $job | cut -d " " -f 4`
-echo "Blast job number is $job"
+blast_job=`sbatch --dependency afterany:"$trinity_job" "$script/blastn.sbatch" $A_NUM\_unmapped\_trinity/Trinity.fasta 0 "$A_NUM"`
+blast_job=`echo $blast_job | cut -d " " -f 4`
+echo "Blast job number is $blast_job"
 sleep 2
 #
 #
 # STEP 5: organize the files
-job=`sbatch --dependency afterany:"$job" "$script/organizer.sbatch" $A_NUM`
-job=`echo $job | cut -d " " -f 4`
-echo "Organizer job number is $job"
+job="$tophat_job $prep_job $trinity_job $blast_job"
+organizer_job=`sbatch --dependency afterany:"$blast_job" "$script/organizer.sbatch" $A_NUM $job`
+organizer_job=`echo $organizer_job | cut -d " " -f 4`
+echo "Organizer job number is $organizer_job"
 sleep 2
 echo -e
 echo "Please check on your job status by the IDs provided above. After the last job finished (BLAST), you will get a output file at current directory, named blast_output."

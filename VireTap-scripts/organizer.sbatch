@@ -7,6 +7,7 @@
 #SBATCH --output organizer.%j.log
 #
 A_NUM=$1
+job=$2
 data=$A_NUM\_data
 # if no [accession]_data folder created, create it
 if [ ! -d $data ]; then
@@ -15,8 +16,12 @@ fi
 cd $data
 # move log files
 mkdir logs
-mv ../*.log logs
 cd ..
+for f in $job; do
+        if [ -f *.$f\.log ]; then
+                mv *.$f\.log $data/logs/
+        fi
+done
 # move all other related files to $data
 for f in `compgen -G "$A_NUM*"`; do
         if [ "$f" = "$data" ]; then
