@@ -5,15 +5,13 @@ A 03-713 Bioinformatics Practicum project. It is focused on virus detections of 
 **WARNING:** This program needs to run on computers that have `slurm` activated (i.e. on PSC server, clustering servers).
 
 ### Download
-Download the latest release to your local folder (adapted from [steinwaywhw's github blog](https://gist.github.com/steinwaywhw/a4cd19cda655b8249d908261a62687f8)).
+Download the latest release to your local folder.
 
-Using shell script to download:
+(Optional) Using shell script to download:
 ```bash
-$ curl -s https://github.com/c5shen/VireTap/releases/latest \
-| grep browser_download_url \
-| grep linux64 \
-| cut -d '"' -f 4 \
-| wget -qi -
+$ wget "https://github.com/c5shen/VireTap/releases/latest" \
+wget "https://github.com$(egrep 'archive.*tar\.gz' latest | cut -d '"' -f 2)"
+rm latest
 ```
 
 ### Installation
