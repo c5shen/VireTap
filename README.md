@@ -17,7 +17,7 @@ rm latest
 ### Installation
 To install, extract files from the downloads.
 ```bash
-$ tar -cvf [download].tar.gz
+$ tar -xvf [download].tar.gz
 ```
 Then, `cd` into the newly made directory and `make` the binary executable.
 ```bash
