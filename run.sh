@@ -9,6 +9,11 @@
 # accession number (without suffix)
 script="VireTap-scripts"
 A_NUM=$1
+if [ -z "$A_NUM" ]; then
+	echo "No accession number specified!"
+	echo "syntax: viretap [accession number]"
+	exit 1
+fi
 # by default, we consider the reads to be paired
 PAIRED=1
 # module loading
@@ -26,6 +31,11 @@ else
 	prefetch $A_NUM
 	echo -e "\033[33;5mDownloading the fastq file(s) of $A_NUM \033[0m"
 	fastq-dump --defline-seq '@$sn[_$rn]/$ri' --split-files $A_NUM
+	# check if failed to download
+	if [ ! -f $A_NUM* ]; then
+		echo "Cannot download data from the server! Please contact the server admin for details."
+		exit 1
+	fi
 	if [ ! -f $A_NUM\_2.fastq ]; then
 		PAIRED=0
 		mv $A_NUM\_1.fastq $A_NUM.fastq

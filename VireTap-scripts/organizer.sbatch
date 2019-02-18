@@ -4,11 +4,12 @@
 #SBATCH -N 1
 ##SBATCH --mem=120GB
 #SBATCH --ntasks-per-node 28
-#SBATCH --output organizer.%j.log
+##SBATCH --output organizer.%j.log
 #
 A_NUM=$1
-job=$2
+job=$*
 data=$A_NUM\_data
+#set -x
 # if no [accession]_data folder created, create it
 if [ ! -d $data ]; then
         mkdir $data
