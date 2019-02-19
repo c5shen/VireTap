@@ -9,7 +9,7 @@ Download the latest release to your local folder.
 
 (Optional) Using shell script to download:
 ```bash
-$ wget "https://github.com/c5shen/VireTap/releases/latest" \
+$ wget "https://github.com/c5shen/VireTap/releases/latest"
 wget "https://github.com$(egrep 'archive.*tar\.gz' latest | cut -d '"' -f 2)"
 rm latest
 ```
