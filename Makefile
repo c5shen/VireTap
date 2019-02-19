@@ -7,7 +7,7 @@ INSTALL_PATH = /usr/local
 all: viretap ask_for_install
 
 viretap: $(script_dir)/run.sh
-	shc -f $(script_dir)/run.sh
+	shc -v -r -T -f $(script_dir)/run.sh
 	rm $(script_dir)/run.sh.x.c
 	mv $(script_dir)/run.sh.x viretap	
 	@echo $(install_dir)
