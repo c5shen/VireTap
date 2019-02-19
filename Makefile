@@ -22,7 +22,8 @@ install:
 	@echo '*** Installing viretap on '$(INSTALL_PATH)
 	@echo -n '***	Do you want to continue? (y/n)'; read ANS; case "$$ANS" in y|Y|yes|Yes|YES) ;; *) exit 1;; esac;
 	install -c -s viretap $(INSTALL_PATH)/bin/
-	cp VireTap-scripts $(INSTALL_PATH)/etc/
+	mkdir $(INSTALL_PATH)/etc/VireTap-scripts
+	cp VireTap-scripts/* $(INSTALL_PATH)/etc/VireTap-scripts/
 
 clean:
 	echo "Removing executable..."
