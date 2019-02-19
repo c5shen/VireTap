@@ -4,7 +4,7 @@ INSTALL_PATH = /usr/local
 
 .SILENT:
 
-all: ask_for_install
+all: viretap ask_for_install
 
 viretap: $(script_dir)/run.sh
 	shc -f $(script_dir)/run.sh
