@@ -23,7 +23,10 @@ Then, `cd` into the newly made directory and `make` the binary executable.
 ```bash
 $ make
 ```
-This will output a binary executable `viretap` to the directory.
+This will output a binary executable `viretap` (if not provided) to the directory, and ask you for installation.
+
+### After Installation
+You can choose to install the package to local, so you can execute VireTap as a standalone program anywhere in the system. This may need sudo permission (ask admin for more information).
 
 ### Run VireTap
 To run the program, execute the binary with the data access number you desire to perform viral transcriptome detection (for now, we only support human cell RNA-seq data).
