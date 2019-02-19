@@ -20,5 +20,7 @@ echo "Start blast on $1 with default database nt"
 SECONDS=0
 blastn -query $QUERY -out $OUTDIR/$FILE\_blast_output.txt -outfmt $OUTFMT -gilist sequence.gi -db nt
 #
+# brief overview of all the hits
+awk '/^>/ {print $0}' $OUTDIR/$FILE\_blast_output.txt > $FILE\_blast_overview.txt
 duration=$SECONDS
 echo "overall runtime: $(($duration / 60)) minutes and $(($duration % 60)) seconds."
