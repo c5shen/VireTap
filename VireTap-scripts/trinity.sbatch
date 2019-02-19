@@ -18,8 +18,8 @@ module load blat/v35
 module load trinity/2.8.4
 #
 # define where to read in data and where to output
-INDIR=`pwd`
-OUTDIR=`pwd`
+INDIR=$2
+OUTDIR=$2
 # no suffix file name
 FILE=$1
 set -x

@@ -6,8 +6,21 @@
 #SBATCH --ntasks-per-node 28
 #SBATCH --output VireTap.%j.log
 #
-# accession number (without suffix)
+#
+# record cur directory
+DIR=`pwd`
+# check for scripts
 script="VireTap-scripts"
+if [ ! -d "$script" ]; then
+	echo "Scripts folder not found in current folder... Searching for installation..."
+	# if not found locally, check in installed directory
+	script="/usr/local/etc/VireTap-scripts"
+	if [ ! -d "$script" ]; then
+		echo "Couldn't find installation! Please redownload the latest release for scripts (namely VireTap-scripts)."
+		exit 1
+	fi
+fi
+# accession number (without suffix)
 A_NUM=$1
 if [ -z "$A_NUM" ]; then
 	echo "No accession number specified!"
@@ -74,7 +87,7 @@ sleep 2
 #
 #
 # STEP 2: run tophat alignment based on single/paired reads
-tophat_job=`sbatch "$script/tophat.sbatch" "$index/homo_sapien_GRCh38_index" "$PAIRED" "$A_NUM"`
+tophat_job=`sbatch "$script/tophat.sbatch" "$index/homo_sapien_GRCh38_index" "$PAIRED" "$A_NUM" "$DIR"`
 # the job number storage
 tophat_job=`echo $tophat_job | cut -d " " -f 4`
 echo "Tophat job number is $tophat_job"
@@ -82,14 +95,14 @@ sleep 2
 #
 #
 # STEP 2.5: preprocess the alignment data (unmapped)
-prep_job=`sbatch --dependency afterany:"$tophat_job" "$script/tt_preprocess.sbatch" $A_NUM $PAIRED`
+prep_job=`sbatch --dependency afterany:"$tophat_job" "$script/tt_preprocess.sbatch" $A_NUM $PAIRED "$DIR"`
 prep_job=`echo $prep_job | cut -d " " -f 4`
 echo "Preprocessing job number is $prep_job"
 sleep 2
 #
 #
 # STEP 3: run trinity on the unmapped fastq file
-trinity_job=`sbatch --dependency afterany:"$prep_job" "$script/trinity.sbatch" $A_NUM\_unmapped`
+trinity_job=`sbatch --dependency afterany:"$prep_job" "$script/trinity.sbatch" $A_NUM\_unmapped "$DIR"`
 trinity_job=`echo $trinity_job | cut -d " " -f 4`
 echo "Trinity job number is $trinity_job"
 sleep 2
@@ -103,7 +116,7 @@ sleep 2
 #
 #
 # STEP 4: run blast on Trinity result
-blast_job=`sbatch --dependency afterany:"$trinity_job" "$script/blastn.sbatch" $A_NUM\_unmapped\_trinity/Trinity.fasta 0 "$A_NUM"`
+blast_job=`sbatch --dependency afterany:"$trinity_job" "$script/blastn.sbatch" $A_NUM\_unmapped\_trinity/Trinity.fasta 0 "$A_NUM" "$DIR"`
 blast_job=`echo $blast_job | cut -d " " -f 4`
 echo "Blast job number is $blast_job"
 sleep 2

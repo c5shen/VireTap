@@ -10,6 +10,7 @@
 module load samtools
 module load blast
 #
+OUTDIR=$4
 QUERY=$1
 OUTFMT=$2
 FILE=$3
@@ -17,7 +18,7 @@ set -x
 date
 echo "Start blast on $1 with default database nt"
 SECONDS=0
-blastn -query $QUERY -out ./$FILE\_blast_output.txt -outfmt $OUTFMT -gilist sequence.gi -db nt
+blastn -query $QUERY -out $OUTDIR/$FILE\_blast_output.txt -outfmt $OUTFMT -gilist sequence.gi -db nt
 #
 duration=$SECONDS
 echo "overall runtime: $(($duration / 60)) minutes and $(($duration % 60)) seconds."

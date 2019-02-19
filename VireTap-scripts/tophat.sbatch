@@ -20,8 +20,8 @@ module load samtools/1.3
 #module load trinity/2.8.4
 #
 # define where to read in data and where to output
-INDIR=`pwd`
-OUTDIR=`pwd`
+INDIR=$4
+OUTDIR=$4
 # no suffix file name
 INDEX=$1
 PAIRED=$2

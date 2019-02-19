@@ -8,7 +8,7 @@
 #
 # load module
 module load samtools
-INDIR=`pwd`
+INDIR=$3
 #
 date
 #
