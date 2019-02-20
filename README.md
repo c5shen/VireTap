@@ -4,6 +4,25 @@ A 03-713 Bioinformatics Practicum project. It is focused on virus detections of 
 
 **WARNING:** This program needs to run on computers that have `slurm` activated (i.e. on PSC server, clustering servers).
 
+### Prerequisites
+```bash
+sra-toolkit/2.8.1 or above
+java
+PrgEnv-gnu/7.1
+samtools/1.3 or above
+pigz
+oracle-jdk
+gcc/5.3.0 or above
+perl/5.18.4-threads
+cufflinks/2.2.1
+tophat/2.1.0 or above
+bowtie2/2.2.7
+jellyfish2/2.2.6
+salmon/0.9.1
+blat/v35
+trinity/2.8.4
+blast/2.6.0 or above
+```
 ### Download
 Download the latest release to your local folder.
 
