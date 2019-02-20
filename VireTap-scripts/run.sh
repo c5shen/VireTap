@@ -91,7 +91,7 @@ if [ ! -d $index ]; then
 	curl -c /tmp/cookies -s "https://drive.google.com/uc?export=download&id=1s-8Mf-a4oOsDy_bmA9mSZIsM4ha66AWn" > tmp.html
 	echo -e "Downloading index files from google drive..."
 	sleep 1
-	curl --progress-bar -L -b /tmp/cookies "https://drive.google.com$(cat tmp.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')" > GRCh38_cdna_index.tar.gz
+	curl -L -b /tmp/cookies "https://drive.google.com$(cat tmp.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')" > GRCh38_cdna_index.tar.gz
 	if [ -f tmp.html ]; then
 		rm tmp.html
 	fi
