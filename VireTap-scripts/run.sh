@@ -7,6 +7,24 @@
 #SBATCH --output VireTap.%j.log
 #
 #
+# check for '-h' or '--help'
+if [ $1 = '-h' ] || [ $1 = '--help' ]; then
+	printf "\nWelcome to VireTap program. VireTap allows you to find viral transcriptomes in human RNA-seq data.\n"
+	printf "\n\tDefault syntax: ./viretap [ACCESSION #]\n"
+	printf "\tExample: ./viretap SRR5787177\n"
+	printf "\nPlease refer to README for a more detailed pipline description and software prerequisites.\n"
+	printf "\n\tDefault parameters for VireTap:\n"
+	printf "\t>Default SLURM Node\n"
+	printf "\t\tMax memory: 128GB\n\t\tMax tasks: 28\n"
+	printf "\t>Tophat\n"
+	printf "\t\tCores used: 20\n\t\tMax runtime: 48h\n"
+	printf "\t>Trinity\n"
+	printf "\t\tCores used: 24\n\t\tMax memory: 80GB\n\t\tMax runtime: 24h\n"
+	printf "\t>Blast\n"
+	printf "\t\tMax runtime: 10h\n"
+	printf "\nFor now, VireTap doesn't support parameter changes. We will be pushing updates to allow users to change these parameters to their wills.\n"
+	exit 1
+fi
 # record cur directory
 DIR=`pwd`
 # check for scripts
@@ -80,6 +98,10 @@ if [ ! -d $index ]; then
 	mkdir $index
 	tar -xvzf GRCh38_cdna_index.tar.gz -C $index
 	rm GRCh38_cdna_index.tar.gz
+	if [ `ls $index | wc -l` -eq 0 ]; then
+		echo "No indexes found in index folder!"
+		exit 1
+	fi
 else
 	echo "Index folder detected. Hopefully there are some sweet index files inside!"
 fi
@@ -87,7 +109,8 @@ sleep 2
 #
 #
 # STEP 2: run tophat alignment based on single/paired reads
-tophat_job=`sbatch "$script/tophat.sbatch" "$index/homo_sapien_GRCh38_index" "$PAIRED" "$A_NUM" "$DIR"`
+# parameters: [paired or not] [accession] [directory]
+tophat_job=`sbatch "$script/tophat.sbatch" "$index/homo_sapien_GRCh38_index" $PAIRED $A_NUM $DIR`
 # the job number storage
 tophat_job=`echo $tophat_job | cut -d " " -f 4`
 echo "Tophat job number is $tophat_job"
@@ -95,14 +118,16 @@ sleep 2
 #
 #
 # STEP 2.5: preprocess the alignment data (unmapped)
-prep_job=`sbatch --dependency afterany:"$tophat_job" "$script/tt_preprocess.sbatch" $A_NUM $PAIRED "$DIR"`
+# parameters: [accession] [paired or not] [directory] [script folder name]
+prep_job=`sbatch --dependency afterany:"$tophat_job" "$script/tt_preprocess.sbatch" $A_NUM $PAIRED $DIR $script`
 prep_job=`echo $prep_job | cut -d " " -f 4`
 echo "Preprocessing job number is $prep_job"
 sleep 2
 #
 #
 # STEP 3: run trinity on the unmapped fastq file
-trinity_job=`sbatch --dependency afterany:"$prep_job" "$script/trinity.sbatch" $A_NUM\_unmapped "$DIR"`
+# parameters: [accession]_unmapped [directory] [paired or not]
+trinity_job=`sbatch --dependency afterany:"$prep_job" "$script/trinity.sbatch" $A_NUM\_unmapped $DIR $PAIRED`
 trinity_job=`echo $trinity_job | cut -d " " -f 4`
 echo "Trinity job number is $trinity_job"
 sleep 2
@@ -116,13 +141,15 @@ sleep 2
 #
 #
 # STEP 4: run blast on Trinity result
-blast_job=`sbatch --dependency afterany:"$trinity_job" "$script/blastn.sbatch" $A_NUM\_unmapped\_trinity/Trinity.fasta 0 "$A_NUM" "$DIR"`
+# parameters: [Trinity.fasta location] [accession] [directory]
+blast_job=`sbatch --dependency afterany:"$trinity_job" "$script/blastn.sbatch" $A_NUM\_unmapped\_trinity/Trinity.fasta 0 $A_NUM $DIR`
 blast_job=`echo $blast_job | cut -d " " -f 4`
 echo "Blast job number is $blast_job"
 sleep 2
 #
 #
 # STEP 5: organize the files
+# parameters: [accession] [all job numbers]
 job="$tophat_job $prep_job $trinity_job $blast_job"
 organizer_job=`sbatch --dependency afterany:"$blast_job" "$script/organizer.sbatch" $A_NUM $job`
 organizer_job=`echo $organizer_job | cut -d " " -f 4`

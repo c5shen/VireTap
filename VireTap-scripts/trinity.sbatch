@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -t 10:00:00
+#SBATCH -t 24:00:00
 #SBATCH -p RM
 #SBATCH -N 1
 ##SBATCH --mem=20GB
@@ -22,6 +22,7 @@ INDIR=$2
 OUTDIR=$2
 # no suffix file name
 FILE=$1
+PAIRED=$3
 set -x
 #
 date
@@ -29,9 +30,16 @@ echo "Now trinity starts"
 cd $LOCAL
 # set a timer to see how long this run
 SECONDS=0
-Trinity --no_version_check --seqType fq --max_memory 80G --CPU 4 \
-  --output $OUTDIR/$FILE\_trinity \
-  --single $INDIR/$FILE.fastq \
+if [ "$PAIRED" -eq 0 ]; then
+	Trinity --no_version_check --seqType fq --max_memory 80G --CPU 24 \
+  	--output $OUTDIR/$FILE\_trinity \
+  	--single $INDIR/$FILE.fastq
+else
+	Trinity --no_version_check --seqType fq --max_memory 80G --CPU 24 \
+	--output $OUTDIR/$FILE\_trinity \
+	--left $INDIR/$FILE\_1.fastq \
+	--right $INDIR/$FILE\_2.fastq
+fi
 #
 duration=$SECONDS
 # output the runtime

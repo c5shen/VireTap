@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -t 10:00:00
+#SBATCH -t 48:00:00
 #SBATCH -p RM
 #SBATCH -N 1
 ##SBATCH --mem=120GB
@@ -26,6 +26,7 @@ OUTDIR=$4
 INDEX=$1
 PAIRED=$2
 FILE=$3
+CORE=20
 set -x
 #
 date
@@ -38,9 +39,9 @@ fi
 # set a timer to see how long this run
 SECONDS=0
 if [ "$PAIRED" == 0 ]; then
-	tophat -o $OUTDIR/$FILE\_tophat $INDIR/$INDEX "$INDIR/$FILE.fastq"
+	tophat -p $CORE -o $OUTDIR/$FILE\_tophat $INDIR/$INDEX "$INDIR/$FILE.fastq"
 else
-	tophat -o $OUTDIR/$FILE\_tophat $INDIR/$INDEX "$INDIR/$FILE\_1.fastq" "$INDIR/$FILE\_2.fastq"
+	tophat -p $CORE -o $OUTDIR/$FILE\_tophat $INDIR/$INDEX "$INDIR/$FILE\_1.fastq" "$INDIR/$FILE\_2.fastq"
 fi
 #
 duration=$SECONDS
