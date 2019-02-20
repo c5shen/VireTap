@@ -7,7 +7,7 @@ INSTALL_PATH = /usr/local
 all: viretap ask_for_install
 
 viretap: $(script_dir)/run.sh
-	shc -v -r -T -f $(script_dir)/run.sh
+	$(script_dir)/shc-3.8.7/shc -v -r -T -f $(script_dir)/run.sh
 	cp $(script_dir)/run.sh.x viretap	
 	@echo $(install_dir)
 	@echo "Finished building executable: viretap"
