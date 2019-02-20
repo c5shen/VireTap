@@ -23,6 +23,8 @@ blat/v35
 trinity/2.8.4
 blast/2.6.0 or above
 ```
+In addition, VireTap will come with [BBMap/38.38](https://sourceforge.net/projects/bbmap/).
+
 ### Download
 Download the latest release to your local folder.
 
