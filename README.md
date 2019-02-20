@@ -55,10 +55,13 @@ To run the program, execute the binary with the data access number you desire to
 $ ./viretap [ACCESSION]
 ```
 Where `[ACCESSION]` refers to the accession number from NCBI for the particular RNA-seq dataset you are using.
-
 #### Example
 ```bash
 $ ./viretap SRR5787177
+```
+Check additional information by having `-h` or `--help` as the parameter.
+```bash
+$ ./viretap -h
 ```
 
 ### Output
