@@ -11,7 +11,7 @@ module load gcc/5.3.0
 module load perl/5.18.4-threads
 module load java/jdk8u73
 module load bowtie2/2.2.7
-module load samtools/1.3
+module load samtools
 module load jellyfish2/2.2.6
 module load salmon/0.9.1
 module load blat/v35
