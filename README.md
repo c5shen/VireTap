@@ -70,3 +70,5 @@ VireTap will download the **GRCh38 homo sapien cdna index** files from shared go
 VireTap will run `tophat`, `Trinity`, and `blastn` in sequence to find viral transcriptome in provided RNA-seq data. Then, it will construct a folder named `[ACCESSION]_data`, where all intermediate files are stored. A final blast output named `[ACCESSION]_blast_output.txt` will also be in that folder.
 
 In addition, there will be a file named `[ACCESSION]_blast_overview.txt`, in which overviews of all viral hits are listed (no concentration/percentage of original RNA-seq analysis yet).
+
+After each whole iteration of a job (for one dataset), there will be a `slurm-[job].out` report, which can be safely deleted.
