@@ -55,13 +55,20 @@ To run the program, execute the binary with the data access number you desire to
 $ ./viretap [ACCESSION]
 ```
 Where `[ACCESSION]` refers to the accession number from NCBI for the particular RNA-seq dataset you are using.
-#### Example
+#### Example 1
 ```bash
 $ ./viretap SRR5787177
 ```
 Check additional information by having `-h` or `--help` as the parameter.
 ```bash
 $ ./viretap -h
+```
+Some modules can be modified by specifying them in parameters. For now we support the modification below:
+```bash
+    -i|--index <string>     Specify index folder for Tophat.
+    -a|--accession <string> Specify the accession number.
+    --num-cores <int>       Specify number of cores to use on node.
+    --mem-trinity <int>     Number of GBs memory to use for Trinity.
 ```
 
 ### Output
