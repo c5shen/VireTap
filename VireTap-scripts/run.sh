@@ -7,26 +7,74 @@
 #SBATCH --output VireTap.%j.log
 #
 #
+CORE=8
+MEM_TRINITY=60
+index="GRCh38_cdna_index" 
+#
 # check for '-h' or '--help'
-if [ $1 = '-h' ] || [ $1 = '--help' ]; then
+if [[ $1 == '-h' ]] || [[ $1 == '--help' ]]; then
 	printf "\nWelcome to VireTap program. VireTap allows you to find viral transcriptomes in human RNA-seq data.\n"
-	printf "\n\tDefault syntax: ./viretap [ACCESSION #]\n"
-	printf "\tExample: ./viretap SRR5787177\n"
-	printf "\nPlease refer to README for a more detailed pipline description and software prerequisites.\n"
+	printf "\n\tDefault syntax:\t\t./viretap [ACCESSION #]\n"
+	printf "\tExample:\t\t./viretap SRR5787177\n"
+	printf "\nPlease read the info below, and refer to README for a more detailed pipline description and software prerequisites.\n"
 	printf "\n\tDefault parameters for VireTap:\n"
-	printf "\t>Default SLURM Node\n"
-	printf "\t\tMax memory: 128GB\n\t\tMax tasks: 28\n"
-	printf "\t>Tophat\n"
-	printf "\t\tCores used: 20\n\t\tMax runtime: 48h\n"
-	printf "\t>Trinity\n"
-	printf "\t\tCores used: 24\n\t\tMax memory: 80GB\n\t\tMax runtime: 24h\n"
-	printf "\t>Blast\n"
-	printf "\t\tMax runtime: 10h\n"
-	printf "\nFor now, VireTap doesn't support parameter changes. We will be pushing updates to allow users to change these parameters to their wills.\n"
+	printf "\t>Default SLURM Node"
+	printf "\tMax memory: 128GB, Max tasks: 28\n"
+	printf "\t>Tophat"
+	printf "\t\t\tCores used: $CORE, Max runtime: 48h\n"
+	printf "\t>Trinity"
+	printf "\t\tCores used: $CORE, Max memory: "$MEM_TRINITY"GB, Max runtime: 24h\n"
+	printf "\t>Blast"
+	printf "\t\t\tMax runtime: 10h\n"
+	printf "\n\t-i|--index <string>\tSpecify index folder for Tophat.\n"
+	printf "\t-a|--accession <string>\tSpecify the accession number.\n"
+	printf "\t--num-cores <int>\tSpecify number of cores to use on node.\n"
+	printf "\t--mem-trinity <int>\tNumber of GBs memory to use for Trinity.\n"
+	printf "\nMore parameter modules will be coming soon.\n"
 	exit 1
 fi
+POSITIONAL=()
+if [[ $# == 1 ]]; then
+	A_NUM="$1"
+else
+	while [[ $# -gt 0 ]]; do
+	key="$1"
+	case $key in
+	-i|--index)
+	index="$2"
+	shift
+	shift
+	;;
+	--num-cores)
+	CORE="$2"
+	shift
+	shift
+	;;
+	--mem-trinity)
+	MEM_TRINITY="$2"
+	shift
+	shift
+	;;
+	-a|--accession)
+	A_NUM="$2"
+	shift
+	shift
+	;;
+	*)
+	POSITIONAL+=("$1")
+	shift
+	;;
+	esac
+	done
+fi
+# restore positional parameters
+set -- "${POSITIONAL[@]}"
+# readlink for index folder
+index=`readlink -f $index`
+printf "\nRunning with these parameters:\n\tAccession number: $A_NUM\n\tIndex folder: $index\n\tTrinity memory(GB): $MEM_TRINITY\n\tNumber of cores: $CORE\n\n"
 # record cur directory
 DIR=`pwd`
+printf "Working directory is $DIR\n\n"
 # check for scripts
 script="VireTap-scripts"
 if [ ! -d "$script" ]; then
@@ -39,10 +87,10 @@ if [ ! -d "$script" ]; then
 	fi
 fi
 # accession number (without suffix)
-A_NUM=$1
 if [ -z "$A_NUM" ]; then
-	echo "No accession number specified!"
-	echo "syntax: viretap [accession number]"
+	printf "No accession number specified!\n"
+	printf "syntax:\t./viretap [accession number]\n"
+	printf "\t\tor\n\t./viretap -[options] -a [accession number]\n"
 	exit 1
 fi
 # by default, we consider the reads to be paired
@@ -86,8 +134,18 @@ sleep 2
 #
 #
 # STEP 1.5: download GRCh38 cdna index files
-index="GRCh38_cdna_index"
-if [ ! -d $index ]; then
+if [[ `compgen -G "$index/*.bt2" | wc -l` == 0 ]]; then
+	echo "Did not find index files at given directory."
+	echo "Download Homo sapiens cDNA indexes? (y/n)"
+	read choice
+	case $choice in
+	y|Y|yes|Yes)
+	;;
+	*)
+	echo "Exiting program..."
+	exit 1
+	;;
+	esac
 	curl -c /tmp/cookies -s "https://drive.google.com/uc?export=download&id=1s-8Mf-a4oOsDy_bmA9mSZIsM4ha66AWn" > tmp.html
 	echo -e "Downloading index files from google drive..."
 	sleep 1
@@ -103,15 +161,22 @@ if [ ! -d $index ]; then
 		echo "No indexes found in index folder!"
 		exit 1
 	fi
+	index="$index/homo_sapien_GRCh38_index"
 else
-	echo "Index folder detected. Hopefully there are some sweet index files inside!"
+	echo "Index files detected. Hopefully they are good to use!"
+	for i in $(compgen -G "$index/*.bt2"); do
+		prefix="${i%.*.[A-Za-z0-9]*}"
+		index="$prefix"
+		echo "Index prefix is $index" 
+		break
+	done
 fi
 sleep 2
 #
 #
 # STEP 2: run tophat alignment based on single/paired reads
 # parameters: [paired or not] [accession] [directory]
-tophat_job=`sbatch "$script/tophat.sbatch" "$index/homo_sapien_GRCh38_index" $PAIRED $A_NUM $DIR`
+tophat_job=`sbatch "$script/tophat.sbatch" $index $PAIRED $A_NUM $DIR $CORE`
 # the job number storage
 tophat_job=`echo $tophat_job | cut -d " " -f 4`
 echo "Tophat job number is $tophat_job"
@@ -128,7 +193,7 @@ sleep 2
 #
 # STEP 3: run trinity on the unmapped fastq file
 # parameters: [accession]_unmapped [directory] [paired or not]
-trinity_job=`sbatch --dependency afterany:"$prep_job" "$script/trinity.sbatch" $A_NUM\_unmapped $DIR $PAIRED`
+trinity_job=`sbatch --dependency afterany:"$prep_job" "$script/trinity.sbatch" $A_NUM\_unmapped $DIR $PAIRED $CORE $MEM_TRINITY`
 trinity_job=`echo $trinity_job | cut -d " " -f 4`
 echo "Trinity job number is $trinity_job"
 sleep 2

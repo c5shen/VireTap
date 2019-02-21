@@ -23,6 +23,8 @@ OUTDIR=$2
 # no suffix file name
 FILE=$1
 PAIRED=$3
+CORE=$4
+MEM=$5
 set -x
 #
 date
@@ -31,11 +33,11 @@ cd $LOCAL
 # set a timer to see how long this run
 SECONDS=0
 if [ "$PAIRED" -eq 0 ]; then
-	Trinity --no_version_check --seqType fq --max_memory 80G --CPU 24 \
+	Trinity --no_version_check --seqType fq --max_memory "$MEM"G --CPU $CORE \
   	--output $OUTDIR/$FILE\_trinity \
   	--single $INDIR/$FILE.fastq
 else
-	Trinity --no_version_check --seqType fq --max_memory 80G --CPU 24 \
+	Trinity --no_version_check --seqType fq --max_memory "$MEM"G --CPU $CORE \
 	--output $OUTDIR/$FILE\_trinity \
 	--left $INDIR/$FILE\_1.fastq \
 	--right $INDIR/$FILE\_2.fastq

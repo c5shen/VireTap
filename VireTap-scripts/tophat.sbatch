@@ -19,14 +19,17 @@ module load samtools/1.3
 #module load blat/v35
 #module load trinity/2.8.4
 #
+# Index folder
+INDEX=$1
+# paired or not
+PAIRED=$2
+# no suffix file name
+FILE=$3
 # define where to read in data and where to output
 INDIR=$4
 OUTDIR=$4
-# no suffix file name
-INDEX=$1
-PAIRED=$2
-FILE=$3
-CORE=20
+# define how many cores to use
+CORE=$5
 set -x
 #
 date
@@ -39,9 +42,9 @@ fi
 # set a timer to see how long this run
 SECONDS=0
 if [ "$PAIRED" == 0 ]; then
-	tophat -p $CORE -o $OUTDIR/$FILE\_tophat $INDIR/$INDEX "$INDIR/$FILE.fastq"
+	tophat --keep-tmp -p $CORE -o $OUTDIR/$FILE\_tophat $INDEX "$INDIR/$FILE.fastq"
 else
-	tophat -p $CORE -o $OUTDIR/$FILE\_tophat $INDIR/$INDEX "$INDIR/$FILE\_1.fastq" "$INDIR/$FILE\_2.fastq"
+	tophat --keep-tmp -p $CORE -o $OUTDIR/$FILE\_tophat $INDEX "$INDIR/$FILE\_1.fastq" "$INDIR/$FILE\_2.fastq"
 fi
 #
 duration=$SECONDS
