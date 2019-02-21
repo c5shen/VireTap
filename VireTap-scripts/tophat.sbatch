@@ -42,9 +42,9 @@ fi
 # set a timer to see how long this run
 SECONDS=0
 if [ "$PAIRED" == 0 ]; then
-	tophat --keep-tmp -p $CORE -o $OUTDIR/$FILE\_tophat $INDEX "$INDIR/$FILE.fastq"
+	tophat -p $CORE -o $OUTDIR/$FILE\_tophat $INDEX "$INDIR/$FILE.fastq"
 else
-	tophat --keep-tmp -p $CORE -o $OUTDIR/$FILE\_tophat $INDEX "$INDIR/$FILE\_1.fastq" "$INDIR/$FILE\_2.fastq"
+	tophat -p $CORE -o $OUTDIR/$FILE\_tophat $INDEX "$INDIR/$FILE\_1.fastq" "$INDIR/$FILE\_2.fastq"
 fi
 #
 duration=$SECONDS

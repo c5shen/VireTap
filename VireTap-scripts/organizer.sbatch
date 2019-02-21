@@ -4,7 +4,7 @@
 #SBATCH -N 1
 ##SBATCH --mem=120GB
 #SBATCH --ntasks-per-node 28
-#SBATCH --output organizer.%j.log
+##SBATCH --output organizer.%j.log
 #
 A_NUM=$1
 job=$*
