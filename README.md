@@ -70,6 +70,10 @@ Some modules can be modified by specifying them in parameters. For now we suppor
     --num-cores <int>       Specify number of cores to use on node.
     --mem-trinity <int>     Number of GBs memory to use for Trinity.
 ```
+#### Example 2
+```bash
+$ ./viretap -i /some/folder/index -a SRR5787177 --num-cores 10 --mem-trinity 80
+```
 
 ### Output
 VireTap will download the **GRCh38 homo sapien cdna index** files from shared google drive, as well as a GI list of viruses for blast search.
