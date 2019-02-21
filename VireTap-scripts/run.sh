@@ -222,4 +222,4 @@ organizer_job=`echo $organizer_job | cut -d " " -f 4`
 echo "Organizer job number is $organizer_job"
 sleep 2
 echo -e
-echo "Please check on your job status by the IDs provided above. After the last job finished (BLAST), you will get a output file at current directory, named blast_output."
+echo "Please check on your job status by the IDs provided above. After the last job finished (BLAST), you will get a output directory named $A_NUM\_data, in which you can find blast output and blast overview .txt files."

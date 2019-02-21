@@ -44,7 +44,7 @@ SECONDS=0
 if [ "$PAIRED" == 0 ]; then
 	tophat -p $CORE -o $OUTDIR/$FILE\_tophat $INDEX "$INDIR/$FILE.fastq"
 else
-	tophat -p $CORE -o $OUTDIR/$FILE\_tophat $INDEX "$INDIR/$FILE\_1.fastq" "$INDIR/$FILE\_2.fastq"
+	tophat -p $CORE -o $OUTDIR/$FILE\_tophat $INDEX $INDIR/$FILE\_1.fastq $INDIR/$FILE\_2.fastq
 fi
 #
 duration=$SECONDS
