@@ -2,6 +2,8 @@
 ### A pipline for general viral transcriptome detection in homo sapien RNA-seq data
 A 03-713 Bioinformatics Practicum project. It is focused on virus detections of a given diseased model using RNA-seq data, and some further analyses including SNP analysis etc (not complete yet).
 
+#### Main contributors (A-Z last name): Ayushi Sood, Chengyang Nie, Chengze Shen, Ian Lee, Shubhakar Reddy.
+
 **WARNING:** This program needs to run on computers that have `slurm` activated (i.e. on PSC server, clustering servers).
 
 ### Prerequisites
@@ -76,7 +78,7 @@ $ ./viretap -i /some/folder/index -a SRR5787177 --num-cores 10 --mem-trinity 80
 ```
 
 ### Output
-VireTap will download the **GRCh38 homo sapien cdna index** files from shared google drive, as well as a GI list of viruses for blast search.
+VireTap will download the **GRCh38 homo sapien cdna index** files from shared google drive, as well as a GI list of viruses for blast search. If you don't want to use the index files provided above, please specify your own index folder in the parameter.
 
 VireTap will run `tophat`, `Trinity`, and `blastn` in sequence to find viral transcriptome in provided RNA-seq data. Then, it will construct a folder named `[ACCESSION]_data`, where all intermediate files are stored. A final blast output named `[ACCESSION]_blast_output.txt` will also be in that folder.
 
