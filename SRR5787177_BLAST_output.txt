@@ -1,0 +1,88 @@
+ID          NAME                                                          SCORE    EVALUE
+----------  ----------------------------------------------------------  -------  --------
+KT271460.1  Human herpesvirus 8 strain ZM114, partial genome             4927      0
+KT271468.1  Human herpesvirus 8 strain ZM130, partial genome             4927      0
+KT271458.1  Human herpesvirus 8 strain ZM106, partial genome             4927      0
+KT271464.1  Human herpesvirus 8 strain ZM121, partial genome             4927      0
+KT271457.1  Human herpesvirus 8 strain ZM102, partial genome             4927      0
+KT271454.1  Human herpesvirus 8 strain ZM027, partial genome             4922      0
+KT271459.1  Human herpesvirus 8 strain ZM108, partial genome             4922      0
+KT271462.1  Human herpesvirus 8 strain ZM117, partial genome             4922      0
+KT271455.1  Human herpesvirus 8 strain ZM091, partial genome             4922      0
+KT271466.1  Human herpesvirus 8 strain ZM124, partial genome             4872      0
+KT271453.1  Human herpesvirus 8 strain ZM004, partial genome             4872      0
+KT271461.1  Human herpesvirus 8 strain ZM116, partial genome             4867      0
+KT271463.1  Human herpesvirus 8 strain ZM118, partial genome             4867      0
+U93872.2    Kaposi's sarcoma-associated herpesvirus glycoprotein M,...   4855      0
+KF588566.1  Human herpesvirus 8 clone BrK.219#1_4, complete genome       4850      0
+GQ994935.1  Human herpesvirus 8 strain JSC-1 clone BAC16, complet...     4850      0
+AF148805.2  Human herpesvirus 8 strain GK18, complete genome             4850      0
+JX228174.1  Human herpesvirus 8 isolate KSHV-BAC36-deltaK15, part...     4846      0
+AP017458.1  Human herpesvirus 8 DNA, complete genome, strain: SPEL       4833      0
+KT271467.1  Human herpesvirus 8 strain ZM128, partial genome             4817      0
+KT271456.1  Human herpesvirus 8 strain ZM095, partial genome             4817      0
+KT271465.1  Human herpesvirus 8 strain ZM123, partial genome             4800      0
+U75698.1    Human herpesvirus 8 type M, partial genome                   4772      0
+LC200588.1  Human gammaherpesvirus 8 DNA, nearly complete genome,...     4772      0
+LC200587.1  Human gammaherpesvirus 8 DNA, nearly complete genome,...     4767      0
+LC200589.1  Human gammaherpesvirus 8 DNA, nearly complete genome,...     4767      0
+LC200586.1  Human gammaherpesvirus 8 DNA, nearly complete genome,...     4767      0
+JQ619843.1  Human herpesvirus 8 strain DG1, complete genome              4756      0
+U85269.1    Kaposi's sarcoma-associated herpesvirus UPS75/K15A regi...   1613      0
+U83349.1    Kaposi's sarcoma-associated herpesvirus IE1A gene, comp...   1419      0
+U67774.1    Kaposi's sarcoma-associated herpes-like virus vIL-6 gen...   1098      0
+KM209313.1  Dickeya phage phiDP23.1 clone pD23.contig.39_1 genomi...     1042      0
+KM209255.1  Dickeya phage phiDP10.3 clone pD10.contig.26_1 genomi...     1042      0
+AF156886.1  Kaposi's sarcoma-associated herpesvirus strain BCBL1 ...      797      0
+KM209318.1  Dickeya phage phiDP23.1 clone pD23.contig.44_1 genomi...      791      0
+KM209288.1  Dickeya phage phiDP23.1 clone pD23.contig.14_1 genomi...      686      0
+U83351.1    Kaposi's sarcoma-associated herpesvirus BCK gene, compl...    638      0
+EF109674.1  Human herpesvirus 8 strain KSHVHKS9 UPS75 locus, part...      588      1e-165
+EF109689.1  Human herpesvirus 8 strain KSHVSAKS32 UPS75 locus, pa...      582      5e-164
+EF109661.1  Human herpesvirus 8 strain KSHV431K/N UPS75 locus, pa...      582      5e-164
+EF109702.1  Human herpesvirus 8 strain KSHVHKS54 UPS75 locus, par...      582      5e-164
+EF109701.1  Human herpesvirus 8 strain KSHVHKS22 UPS75 locus, par...      582      5e-164
+EF109694.1  Human herpesvirus 8 strain KSHVAKS15 UPS75 locus, par...      582      5e-164
+EF109707.1  Human herpesvirus 8 strain KSHVSAKS29 UPS75 locus, pa...      577      2e-162
+EF109622.1  Human herpesvirus 8 strain KSHVBCBLR UPS75 locus, par...      577      2e-162
+EF109705.1  Human herpesvirus 8 strain KSHVSAKS27 UPS75 locus, pa...      577      2e-162
+EF109646.1  Human herpesvirus 8 strain KSHVRKS2/7 UPS75 locus, pa...      577      2e-162
+EF109633.1  Human herpesvirus 8 strain KSHVBKS12 UPS75 locus, par...      577      2e-162
+EF109625.1  Human herpesvirus 8 strain KSHVC282 UPS75 locus, part...      577      2e-162
+EF109704.1  Human herpesvirus 8 strain KSHVSAPB1 UPS75 locus, par...      577      2e-162
+EF109713.1  Human herpesvirus 8 strain KSHVTKS10 UPS75 locus, par...      566      5e-159
+EF109699.1  Human herpesvirus 8 strain KSHVHKS49 UPS75 locus, par...      527      8e-148
+EF109695.1  Human herpesvirus 8 strain KSHVOKS7 UPS75 locus, part...      527      8e-148
+EF109698.1  Human herpesvirus 8 strain KSHVHKS11 UPS75 locus, par...      527      8e-148
+U67775.1    Kaposi's sarcoma-associated herpes-like virus vMIP-1B g...    521      1e-145
+U74585.1    Kaposi's sarcoma-associated herpes-like virus vMIP-1A g...    521      1e-145
+KM209277.1  Dickeya phage phiDP23.1 clone pD23.contig.3_1 genomic...      516      2e-144
+EF109703.1  Human herpesvirus 8 strain KSHVHKS56 UPS75 locus, par...      516      2e-144
+LT907991.1  Bovine viral diarrhea virus 1 isolate VE/138cp/05 gen...      488      6e-136
+EF109716.1  Human herpesvirus 8 strain KSHVHBL6/BC1 UPS75 locus, ...      488      4e-136
+EF109726.1  Human herpesvirus 8 strain KSHVTKS2 UPS75 locus, part...      488      4e-136
+EF109715.1  Human herpesvirus 8 strain KSHVTKS13 UPS75 locus, par...      488      1e-135
+EF109729.1  Human herpesvirus 8 strain KSHVSAKS26 UPS75 locus, pa...      483      2e-134
+EF109737.1  Human herpesvirus 8 strain KSHVHKS35 UPS75 locus, par...      472      1e-130
+EF109734.1  Human herpesvirus 8 strain KSHVSAKS23 UPS75 locus, pa...      460      2e-127
+EF109731.1  Human herpesvirus 8 strain KSHVSALN6 UPS75 locus, par...      460      2e-127
+AF065755.1  Stealth virus 1 clone 3B43 T3                                 403      3e-110
+U83347.1    Kaposi's sarcoma-associated herpesvirus dihydrofolate r...    351      4e-95
+KR093640.1  Moraxella phage Mcat16, complete genome                       350      4e-94
+M87812.1    Bovine viral diarrhea virus mRNA sequence                     342      5e-92
+KY094066.1  BeAn 58058 virus, complete genome                             333      2e-89
+AF058699.1  Bovine viral diarrhea virus strain Rit 4350 polyprote...      307      1e-81
+AF065698.1  Stealth virus 1 clone C16128 T3                               302      5e-80
+KY766069.1  Zika virus isolate Pf13/251013-18, complete genome            285      5e-75
+AF065702.1  Stealth virus 1 clone C16130 T3                               259      3e-67
+U86599.1    Pestivirus type 1 cytopathic genomic RNA, complete genome     231      1e-58
+HQ389544.1  Hepatitis E virus strain Kernow-C1, complete genome           228      7e-58
+HQ709170.1  Hepatitis E virus strain Kernow-C1, complete genome           228      7e-58
+JQ679013.1  Hepatitis E virus clone p6, complete genome                   228      7e-58
+M87811.1    Bovine viral diarrhea virus mRNA sequence                     224      2e-56
+AF065689.1  Stealth virus 1 clone C16121 T7                               191      1e-46
+AF065756.1  Stealth virus 1 clone 3B43 T7                                 191      1e-46
+K01100.1    SV 40 variant genome ev-2102 DNA/African green monkey D...    185      6e-45
+AF065699.1  Stealth virus 1 clone C16128 T7                               172      4e-41
+JX997155.1  Acanthocystis turfacea Chlorella virus Br0604L, parti...      110      6e-22
+AF067487.1  Stealth virus 5 clone C1325 T3 genomic sequence                95.3    1e-17

@@ -1,0 +1,1697 @@
+ID          NAME                                                          SCORE    EVALUE
+----------  ----------------------------------------------------------  -------  --------
+JX661491.1  Hepatitis B virus isolate SH1222-C10, complete genome        3642      0
+KM213037.1  Hepatitis B virus isolate X15-k1, complete genome            3626      0
+JX661490.1  Hepatitis B virus isolate SH1217-C8, complete genome         3615      0
+JX661487.1  Hepatitis B virus isolate SH1207-C3, complete genome         3587      0
+JX661489.1  Hepatitis B virus isolate SH1218-C9, complete genome         3576      0
+AB206816.2  Hepatitis B virus DNA, complete genome, strain: Hiros...     3570      0
+JX661488.1  Hepatitis B virus isolate SH1212-C5, complete genome         3570      0
+JX661492.1  Hepatitis B virus isolate SH1215-C7, complete genome         3565      0
+JX661496.1  Hepatitis B virus isolate SH1208-C4, complete genome         3565      0
+JX661493.1  Hepatitis B virus isolate SH1226-C13, complete genome        3559      0
+JX661495.1  Hepatitis B virus isolate SH1223-C11, complete genome        3554      0
+JX661486.1  Hepatitis B virus isolate SH1225-C12, complete genome        3548      0
+AB206817.2  Hepatitis B virus DNA, complete genome, strain: Toran...     3542      0
+AF384371.1  Hepatitis B virus isolate G376-7, complete genome            3537      0
+JX661494.1  Hepatitis B virus isolate SH1203-C2, complete genome         3531      0
+AF363961.1  Hepatitis B virus strain G683-1, complete genome             3526      0
+AB819618.1  HBV genotype C DNA, complete genome, isolate: pBS-HBV...     3520      0
+AB819617.1  HBV genotype C DNA, complete genome, isolate: pBS-HBV...     3520      0
+JX661498.1  Hepatitis B virus isolate SH1213-C6, complete genome         3520      0
+AB819615.1  HBV genotype C DNA, complete genome, isolate: pBS-HBV...     3520      0
+AB819616.1  HBV genotype C DNA, complete genome, isolate: pBS-HBV...     3520      0
+JX661485.1  Hepatitis B virus isolate SH1201-C1, complete genome         3504      0
+AF363963.1  Hepatitis B virus strain G683-3, complete genome             3496      0
+JQ732168.1  Hepatitis B virus isolate DT2007, complete genome            3476      0
+JX661497.1  Hepatitis B virus isolate SH1228-C14, complete genome        3459      0
+AF384372.1  Hepatitis B virus isolate G376-A6, complete genome           3426      0
+KX765833.1  Hepatitis B virus isolate PID:0657, complete genome          3397      0
+AF363962.1  Hepatitis B virus strain G683-2, complete genome             3395      0
+KX765837.1  Hepatitis B virus isolate PID:0931, complete genome          3391      0
+KX765832.1  Hepatitis B virus isolate PID:0647, complete genome          3387      0
+KX765827.1  Hepatitis B virus isolate PID:0387, complete genome          3386      0
+KX765831.1  Hepatitis B virus isolate PID:0636, complete genome          3386      0
+KX765826.1  Hepatitis B virus isolate PID:0349, complete genome          3386      0
+KX765840.1  Hepatitis B virus isolate PID:1070, complete genome          3386      0
+KX765846.1  Hepatitis B virus isolate PID:1395, complete genome          3386      0
+KX765853.1  Hepatitis B virus isolate PID:9005, complete genome          3380      0
+KX765825.1  Hepatitis B virus isolate PID:0313, complete genome          3380      0
+KX765850.1  Hepatitis B virus isolate PID:1480, complete genome          3380      0
+KX765820.1  Hepatitis B virus isolate PID:0142, complete genome          3380      0
+KX765818.1  Hepatitis B virus isolate PID:0022, complete genome          3380      0
+AF233236.1  Hepatitis B virus strain adw2 isolate HBV334, complet...     3378      0
+KX765830.1  Hepatitis B virus isolate PID:0625, complete genome          3374      0
+KX765838.1  Hepatitis B virus isolate PID:0940, complete genome          3369      0
+KX765848.1  Hepatitis B virus isolate PID:1422, complete genome          3369      0
+KX765834.1  Hepatitis B virus isolate PID:0675, complete genome          3367      0
+KX765822.1  Hepatitis B virus isolate PID:0265, complete genome          3367      0
+KX765839.1  Hepatitis B virus isolate PID:1024, complete genome          3363      0
+KX765842.1  Hepatitis B virus isolate PID:1093, complete genome          3358      0
+KX765821.1  Hepatitis B virus isolate PID:0211, complete genome          3347      0
+KX765847.1  Hepatitis B virus isolate PID:1406, complete genome          3347      0
+KX765851.1  Hepatitis B virus isolate PID:1520, complete genome          3347      0
+KX765844.1  Hepatitis B virus isolate PID:1157, complete genome          3347      0
+KX765828.1  Hepatitis B virus isolate PID:0496, complete genome          3347      0
+KX765849.1  Hepatitis B virus isolate PID:1456, complete genome          3341      0
+KX765843.1  Hepatitis B virus isolate PID:1119, complete genome          3341      0
+KX765823.1  Hepatitis B virus isolate PID:0274, complete genome          3336      0
+KX765819.1  Hepatitis B virus isolate PID:0076, complete genome          3336      0
+KX765824.1  Hepatitis B virus isolate PID:0307, complete genome          3325      0
+KX765845.1  Hepatitis B virus isolate PID:1359, complete genome          3319      0
+KX765855.1  Hepatitis B virus isolate PID:9192, complete genome          3319      0
+KC774275.1  Hepatitis B virus isolate cww1126, complete genome           3260      0
+KX765852.1  Hepatitis B virus isolate PID:1550, complete genome          3249      0
+HM011489.1  Hepatitis B virus strain HB264, complete genome              3245      0
+FJ562280.1  Hepatitis B virus isolate I141, complete genome              3243      0
+KC774341.1  Hepatitis B virus isolate cxn1040, complete genome           3243      0
+KC774332.1  Hepatitis B virus isolate cxn1005, complete genome           3243      0
+KC774263.1  Hepatitis B virus isolate cww1069, complete genome           3232      0
+KC774259.1  Hepatitis B virus isolate cww1061, complete genome           3232      0
+KC774182.1  Hepatitis B virus isolate clz1013, complete genome           3232      0
+KC774257.1  Hepatitis B virus isolate cww1056, complete genome           3232      0
+KP017271.1  Hepatitis B virus isolate SEA-02, complete genome            3229      0
+KC774223.1  Hepatitis B virus isolate clz2183, complete genome           3227      0
+KC774313.1  Hepatitis B virus isolate cxa2032, complete genome           3227      0
+KJ173426.1  Hepatitis B virus isolate C2_CLP(3), complete genome         3221      0
+EU554539.1  Hepatitis B virus isolate S541-21, complete genome           3221      0
+JQ688404.1  Hepatitis B virus isolate HBVC2, complete genome             3221      0
+AB111118.1  Hepatitis B virus DNA, complete genome, clone: KM-0          3219      0
+KY022423.1  Hepatitis B virus isolate GSK0528, complete genome           3217      0
+EU939580.1  Hepatitis B virus isolate B1, complete genome                3216      0
+EU939643.1  Hepatitis B virus isolate D32, complete genome               3216      0
+EU787444.1  Hepatitis B virus isolate W41, complete genome               3216      0
+KP017269.1  Hepatitis B virus isolate JP-02, complete genome             3216      0
+EU554538.1  Hepatitis B virus isolate S541-15, complete genome           3216      0
+EU306675.1  Hepatitis B virus clone 213-21, complete genome              3212      0
+KC774252.1  Hepatitis B virus isolate cww1031, complete genome           3210      0
+KR013896.1  Hepatitis B virus strain 258.2, complete genome              3210      0
+GQ377531.1  Hepatitis B virus isolate J36, complete genome               3210      0
+GQ377523.1  Hepatitis B virus isolate J21, complete genome               3208      0
+EU306674.1  Hepatitis B virus clone 213-6, complete genome               3206      0
+EU570068.1  Hepatitis B virus isolate 26-S541, complete genome           3205      0
+KM999991.1  Hepatitis B virus isolate CH-02, complete genome             3205      0
+EU939578.1  Hepatitis B virus isolate C119, complete genome              3205      0
+KC774334.1  Hepatitis B virus isolate cxn1007, complete genome           3205      0
+KC774232.1  Hepatitis B virus isolate cur1031, complete genome           3205      0
+EU916238.1  Hepatitis B virus isolate SWT2.3, complete genome            3199      0
+EU939592.1  Hepatitis B virus isolate C141, complete genome              3199      0
+EU554537.1  Hepatitis B virus isolate S541-13, complete genome           3199      0
+DQ993693.1  Hepatitis B virus isolate 232-1125-Nature1.1-unSero, ...     3199      0
+KT284753.1  Hepatitis B virus isolate 10139, complete genome             3193      0
+KR013763.1  Hepatitis B virus strain 258.3, complete genome              3193      0
+KR013783.1  Hepatitis B virus strain 419.4, complete genome              3193      0
+JX429905.1  Hepatitis B virus isolate WY-HZ-47, complete genome          3193      0
+GQ377611.1  Hepatitis B virus isolate J179, complete genome              3192      0
+KP017272.1  Hepatitis B virus isolate TW-02, complete genome             3192      0
+GQ377522.1  Hepatitis B virus isolate J20, complete genome               3188      0
+FJ562232.1  Hepatitis B virus isolate I45, complete genome               3188      0
+KJ790199.1  Hepatitis B virus isolate N6, complete genome                3188      0
+KJ410512.1  Hepatitis B virus isolate Occult_HK8, complete genome        3188      0
+KR013782.1  Hepatitis B virus strain 419.3, complete genome              3188      0
+GQ377572.1  Hepatitis B virus isolate J113, complete genome              3188      0
+KR013924.1  Hepatitis B virus strain 419.18, complete genome             3188      0
+AY167095.1  Hepatitis B virus isolate IIc, complete genome               3188      0
+JX026880.1  Hepatitis B virus isolate WY-NJ-23, complete genome          3188      0
+LC170476.1  HBV genotype C DNA, complete genome, strain: C-Cpt_OY        3188      0
+KC774331.1  Hepatitis B virus isolate cxa2077, complete genome           3188      0
+GQ924633.1  Hepatitis B virus isolate M56, complete genome               3188      0
+KX276835.1  Hepatitis B virus strain CH126, complete genome              3184      0
+KM229703.1  Hepatitis B virus isolate 3115, complete genome              3182      0
+FJ562282.1  Hepatitis B virus isolate I144, complete genome              3182      0
+GQ377528.1  Hepatitis B virus isolate J29, complete genome               3182      0
+FJ386635.1  Hepatitis B virus isolate 2399, complete genome              3182      0
+KC774243.1  Hepatitis B virus isolate cww1007, complete genome           3182      0
+FJ386685.1  Hepatitis B virus isolate S1568, complete genome             3181      0
+FJ899766.1  Hepatitis B virus isolate C25-2, complete genome             3181      0
+FJ386588.1  Hepatitis B virus isolate 1828, complete genome              3179      0
+GQ205441.1  Hepatitis B virus isolate Cc, complete genome                3177      0
+FJ386603.1  Hepatitis B virus isolate 1949, complete genome              3177      0
+FJ562284.1  Hepatitis B virus isolate I146, complete genome              3177      0
+GQ377603.1  Hepatitis B virus isolate J166, complete genome              3175      0
+KJ173295.1  Hepatitis B virus isolate FH001C(e44), complete genome       3175      0
+KR013966.1  Hepatitis B virus strain 544.7a, complete genome             3175      0
+KJ598636.1  Hepatitis B virus isolate SHB1C4, complete genome            3175      0
+KJ598647.1  Hepatitis B virus isolate SHB2S3, complete genome            3175      0
+KR013918.1  Hepatitis B virus strain 362.33, complete genome             3175      0
+HM011502.1  Hepatitis B virus strain HB572, complete genome              3173      0
+GQ377518.1  Hepatitis B virus isolate J14, complete genome               3173      0
+GQ475314.1  Hepatitis B virus isolate KOR10CHB, complete genome          3173      0
+AB042284.1  Hepatitis B virus DNA, complete genome, isolate:NSS-3        3171      0
+HM750133.1  Hepatitis B virus isolate GSD-54, complete genome            3171      0
+GQ377517.1  Hepatitis B virus isolate J12, complete genome               3171      0
+EU939606.1  Hepatitis B virus isolate C206, complete genome              3171      0
+GQ377514.1  Hepatitis B virus isolate J8, complete genome                3171      0
+FJ386652.1  Hepatitis B virus isolate 2518, complete genome              3171      0
+KJ173296.1  Hepatitis B virus isolate FH001M(e45), complete genome       3171      0
+KJ598639.1  Hepatitis B virus isolate SHB1C9, complete genome            3169      0
+KR013921.1  Hepatitis B virus strain 362.4, complete genome              3169      0
+KJ598649.1  Hepatitis B virus isolate SHB2SA8, complete genome           3169      0
+KJ598651.1  Hepatitis B virus isolate SHB2SB4, complete genome           3169      0
+KJ598661.1  Hepatitis B virus isolate SHB2S4, complete genome            3169      0
+KR013967.1  Hepatitis B virus strain 544.9a, complete genome             3169      0
+AY220701.1  Hepatitis B virus strain WJQ310, complete genome             3169      0
+KJ598635.1  Hepatitis B virus isolate SHB1C2, complete genome            3169      0
+EU939616.1  Hepatitis B virus isolate C228, complete genome              3168      0
+HM011465.1  Hepatitis B virus strain HB056, complete genome              3168      0
+KJ410510.1  Hepatitis B virus isolate Occult_HK323, complete genome      3168      0
+EU939615.1  Hepatitis B virus isolate C226, complete genome              3168      0
+EU916222.1  Hepatitis B virus isolate S5.4, complete genome              3166      0
+KC774340.1  Hepatitis B virus isolate cxn1034, complete genome           3166      0
+KC774266.1  Hepatitis B virus isolate cww1075, complete genome           3166      0
+FJ386630.1  Hepatitis B virus isolate 2336, complete genome              3166      0
+KJ173442.1  Hepatitis B virus isolate N17-C(199B), complete genome       3166      0
+JQ040166.1  Hepatitis B virus isolate G223, complete genome              3166      0
+KC774349.1  Hepatitis B virus isolate cxn1095, complete genome           3166      0
+EU939541.1  Hepatitis B virus isolate C25, complete genome               3166      0
+GQ377617.1  Hepatitis B virus isolate J193, complete genome              3166      0
+DQ993692.1  Hepatitis B virus isolate 4007-0810-Nature2.1-unSero,...     3166      0
+JX429909.1  Hepatitis B virus isolate WY-HZ-59, complete genome          3166      0
+AB198081.1  Hepatitis B virus DNA, complete genome, note: HBeAg n...     3166      0
+KJ173441.1  Hepatitis B virus isolate N17-M(199A), complete genome       3166      0
+KP027477.1  Hepatitis B virus isolate I-3, complete genome               3166      0
+EU939566.1  Hepatitis B virus isolate C88, complete genome               3166      0
+KJ598646.1  Hepatitis B virus isolate SHB2S1, complete genome            3164      0
+KR013964.1  Hepatitis B virus strain 544.4a, complete genome             3164      0
+KJ598658.1  Hepatitis B virus isolate SHB2A8, complete genome            3164      0
+FJ386671.1  Hepatitis B virus isolate S586, complete genome              3162      0
+KM359477.1  Hepatitis B virus isolate V15, complete genome               3162      0
+FJ562330.1  Hepatitis B virus isolate I231, complete genome              3162      0
+GQ377600.1  Hepatitis B virus isolate J161, complete genome              3162      0
+FJ562318.1  Hepatitis B virus isolate I211, complete genome              3160      0
+KJ173327.1  Hepatitis B virus isolate P005_C(017), complete genome       3160      0
+FJ562225.1  Hepatitis B virus isolate I19, complete genome               3160      0
+KC774190.1  Hepatitis B virus isolate clz1031, complete genome           3160      0
+KC774250.1  Hepatitis B virus isolate cww1029, complete genome           3160      0
+FJ562218.1  Hepatitis B virus isolate I1, complete genome                3160      0
+KY470930.1  Hepatitis B virus isolate CFQ-14, complete genome            3160      0
+AB195936.1  Hepatitis B virus DNA, complete genome, strain: Ehi-M...     3160      0
+EU939569.1  Hepatitis B virus isolate C102, complete genome              3160      0
+KC774255.1  Hepatitis B virus isolate cww1050, complete genome           3160      0
+FJ386627.1  Hepatitis B virus isolate 2242, complete genome              3160      0
+EU939654.1  Hepatitis B virus isolate D115, complete genome              3160      0
+KY470933.1  Hepatitis B virus isolate CFQ-22, complete genome            3160      0
+DQ993691.1  Hepatitis B virus isolate 4007-0803-Nature2.2-unSero,...     3160      0
+FJ386576.1  Hepatitis B virus isolate 1746, complete genome              3160      0
+KJ803765.1  Hepatitis B virus isolate MY5205, complete genome            3160      0
+KY470926.1  Hepatitis B virus isolate CFQ-117, complete genome           3160      0
+KJ173439.1  Hepatitis B virus isolate N12-M(6600A), complete genome      3160      0
+KJ598652.1  Hepatitis B virus isolate SHB25, complete genome             3158      0
+EU717212.1  Hepatitis B virus isolate D26K-7, complete genome            3158      0
+KJ598656.1  Hepatitis B virus isolate SHB214, complete genome            3158      0
+KR014075.1  Hepatitis B virus strain 1463.42, complete genome            3157      0
+JQ040165.1  Hepatitis B virus isolate G222, complete genome              3157      0
+DQ377159.1  Hepatitis B virus isolate WJT15, complete genome             3157      0
+EU916226.1  Hepatitis B virus isolate S7.1, complete genome              3155      0
+KJ173287.1  Hepatitis B virus isolate CX028C(e244), complete genome      3155      0
+FJ386587.1  Hepatitis B virus isolate 1812, complete genome              3155      0
+HM750131.1  Hepatitis B virus isolate QHN-57, complete genome            3155      0
+AB198084.1  Hepatitis B virus DNA, complete genome, note: HBeAg n...     3155      0
+KJ173328.1  Hepatitis B virus isolate P005-M(327), complete genome       3155      0
+KR013794.1  Hepatitis B virus strain 513.30a, complete genome            3155      0
+KF485390.1  Hepatitis B virus isolate FF11, complete genome              3155      0
+KY470934.1  Hepatitis B virus isolate CFQ-3, complete genome             3155      0
+EU306714.1  Hepatitis B virus clone 602-77, complete genome              3155      0
+EU916219.1  Hepatitis B virus isolate S5.1, complete genome              3155      0
+KC774299.1  Hepatitis B virus isolate cxa1601, complete genome           3155      0
+EU939549.1  Hepatitis B virus isolate C49, complete genome               3155      0
+AP011098.1  Hepatitis B virus DNA, complete genome, strain: C0714...     3155      0
+EU306719.1  Hepatitis B virus clone 602(son)-23, complete genome         3155      0
+KC774181.1  Hepatitis B virus isolate clz1012, complete genome           3155      0
+KJ598769.1  Hepatitis B virus isolate SHB85, complete genome             3155      0
+FJ562244.1  Hepatitis B virus isolate I72, complete genome               3155      0
+KC774251.1  Hepatitis B virus isolate cww1030, complete genome           3155      0
+EU939577.1  Hepatitis B virus isolate C116, complete genome              3155      0
+EU306720.1  Hepatitis B virus clone 602(son)-68, complete genome         3155      0
+FJ562233.1  Hepatitis B virus isolate I48, complete genome               3155      0
+EU939573.1  Hepatitis B virus isolate C106, complete genome              3155      0
+KR013793.1  Hepatitis B virus strain 513.29a, complete genome            3155      0
+KC774233.1  Hepatitis B virus isolate cur1035, complete genome           3155      0
+FJ562274.1  Hepatitis B virus isolate I128, complete genome              3155      0
+KJ598638.1  Hepatitis B virus isolate SHB1C6, complete genome            3153      0
+KJ598659.1  Hepatitis B virus isolate SHB2S2, complete genome            3153      0
+KR013960.1  Hepatitis B virus strain 544.10a, complete genome            3153      0
+KP017270.1  Hepatitis B virus isolate SK-02, complete genome             3153      0
+DQ089793.1  Hepatitis B virus isolate HK343, complete genome             3151      0
+GQ377631.1  Hepatitis B virus isolate J239, complete genome              3151      0
+KR013956.1  Hepatitis B virus strain 513.23a, complete genome            3149      0
+JX026888.1  Hepatitis B virus isolate WY-NJ-3, complete genome           3149      0
+AB367404.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...     3149      0
+EU306718.1  Hepatitis B virus clone 602(son)-24, complete genome         3149      0
+EU560439.1  Hepatitis B virus isolate 7-B74, complete genome             3149      0
+FJ562314.1  Hepatitis B virus isolate I206, complete genome              3149      0
+KR013796.1  Hepatitis B virus strain 513.8a, complete genome             3149      0
+KJ173332.1  Hepatitis B virus isolate YY002M(e102), complete genome      3149      0
+GQ475330.1  Hepatitis B virus isolate KOR26LC, complete genome           3149      0
+GQ377594.1  Hepatitis B virus isolate J152, complete genome              3149      0
+EU570072.1  Hepatitis B virus isolate 1-B74, complete genome             3149      0
+KY470925.1  Hepatitis B virus isolate CFQ-116, complete genome           3149      0
+AB367417.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...     3149      0
+FJ386686.1  Hepatitis B virus isolate S1572, complete genome             3149      0
+KC774208.1  Hepatitis B virus isolate clz2086, complete genome           3149      0
+KC774305.1  Hepatitis B virus isolate cxa1672, complete genome           3149      0
+EU939538.1  Hepatitis B virus isolate C9, complete genome                3149      0
+KR013795.1  Hepatitis B virus strain 513.7, complete genome              3149      0
+DQ377162.1  Hepatitis B virus isolate WJT20, complete genome             3149      0
+HM750138.1  Hepatitis B virus isolate Tibet-100, complete genome         3149      0
+KJ598768.1  Hepatitis B virus isolate SHB84, complete genome             3149      0
+KJ173391.1  Hepatitis B virus isolate Vac01-M(m601), complete genome     3149      0
+HM750137.1  Hepatitis B virus isolate QHN-6, complete genome             3149      0
+KY470881.1  Hepatitis B virus isolate 23-3, complete genome              3149      0
+EU939595.1  Hepatitis B virus isolate C147, complete genome              3149      0
+EU939613.1  Hepatitis B virus isolate C214, complete genome              3149      0
+FJ032359.1  Hepatitis B virus isolate S1634-1 from China, complet...     3149      0
+KJ598644.1  Hepatitis B virus isolate SHB114, complete genome            3147      0
+GQ377556.1  Hepatitis B virus isolate J87, complete genome               3147      0
+AY206382.1  Hepatitis B virus strain FMU011 complete genome              3147      0
+AY596108.1  Hepatitis B virus isolate Ib-2, complete genome              3147      0
+KR013963.1  Hepatitis B virus strain 544.4, complete genome              3147      0
+HM750134.1  Hepatitis B virus isolate QHX-5, complete genome             3147      0
+KC774309.1  Hepatitis B virus isolate cxa2020, complete genome           3147      0
+JQ040151.1  Hepatitis B virus isolate G79, complete genome               3147      0
+KR013916.1  Hepatitis B virus strain 362.2, complete genome              3147      0
+GQ377552.1  Hepatitis B virus isolate J83, complete genome               3145      0
+JQ027323.1  Hepatitis B virus strain HB534, complete genome              3145      0
+EU939540.1  Hepatitis B virus isolate C24, complete genome               3145      0
+JQ040127.1  Hepatitis B virus isolate 50, complete genome                3144      0
+DQ377161.1  Hepatitis B virus isolate WJT14, complete genome             3144      0
+DQ377163.1  Hepatitis B virus isolate WJT32, complete genome             3144      0
+KJ173331.1  Hepatitis B virus isolate YY002C(e101), complete genome      3144      0
+KJ173446.1  Hepatitis B virus isolate N208C(e416), complete genome       3144      0
+GU357845.1  Hepatitis B virus isolate Y1021, complete genome             3144      0
+KC774355.1  Hepatitis B virus isolate cyc1070, complete genome           3144      0
+EU306725.1  Hepatitis B virus clone 6022-17, complete genome             3144      0
+JX560520.1  Hepatitis B virus isolate CHH139, complete genome            3144      0
+KY470884.1  Hepatitis B virus isolate 23-7, complete genome              3144      0
+KC774209.1  Hepatitis B virus isolate clz2087, complete genome           3144      0
+KJ173437.1  Hepatitis B virus isolate N08-M(6615A), complete genome      3144      0
+KC774195.1  Hepatitis B virus isolate clz1046, complete genome           3144      0
+FJ386679.1  Hepatitis B virus isolate S1217, complete genome             3144      0
+EU562217.1  Hepatitis B virus isolate 16, complete genome                3144      0
+AB195955.1  Hepatitis B virus DNA, complete genome, strain: Ehi-I...     3144      0
+GQ377605.1  Hepatitis B virus isolate J169, complete genome              3144      0
+KT284759.1  Hepatitis B virus isolate 313, complete genome               3144      0
+KT284755.1  Hepatitis B virus isolate 19168, complete genome             3144      0
+KR013849.1  Hepatitis B virus strain 1263.9, complete genome             3144      0
+EU306721.1  Hepatitis B virus clone 602(son)-1, complete genome          3144      0
+AB198079.1  Hepatitis B virus DNA, complete genome, note: HBeAg p...     3144      0
+AY206393.1  Hepatitis B virus strain FMU022 complete genome              3144      0
+EU306717.1  Hepatitis B virus clone 602(son)-22, complete genome         3144      0
+EU306728.1  Hepatitis B virus clone 6022-43, complete genome             3144      0
+JX429907.1  Hepatitis B virus isolate WY-HZ-50, complete genome          3144      0
+GQ377553.1  Hepatitis B virus isolate J84, complete genome               3144      0
+KC774206.1  Hepatitis B virus isolate clz2079, complete genome           3144      0
+KY470877.1  Hepatitis B virus isolate 23-19, complete genome             3144      0
+FJ562275.1  Hepatitis B virus isolate I129, complete genome              3144      0
+AB426467.1  Hepatitis B virus DNA, complete genome, clone: HBVFH0204     3144      0
+FJ562327.1  Hepatitis B virus isolate I228, complete genome              3144      0
+EU306722.1  Hepatitis B virus clone 6022-28-, complete genome            3144      0
+KJ173393.1  Hepatitis B virus isolate Vac04-M(m611), complete genome     3144      0
+EU881995.1  Hepatitis B virus isolate patient17, complete genome         3144      0
+GQ377576.1  Hepatitis B virus isolate J117, complete genome              3144      0
+KJ173394.1  Hepatitis B virus isolate Vac04-C(m612), complete genome     3144      0
+KR013958.1  Hepatitis B virus strain 513.27a, complete genome            3144      0
+GQ475312.1  Hepatitis B virus isolate KOR8CHB, complete genome           3144      0
+LC155815.1  HBV genotype C DNA, complete genome, isolate: C1_mo          3144      0
+KY470876.1  Hepatitis B virus isolate 23-15, complete genome             3144      0
+KY470878.1  Hepatitis B virus isolate 23-2, complete genome              3144      0
+JX560519.1  Hepatitis B virus isolate CHH76, complete genome             3144      0
+EU939599.1  Hepatitis B virus isolate C172, complete genome              3144      0
+X04615.1    Hepatitis B virus genome, subtype ayr                        3144      0
+GQ377535.1  Hepatitis B virus isolate J45, complete genome               3144      0
+GQ377527.1  Hepatitis B virus isolate J28, complete genome               3144      0
+JQ040141.1  Hepatitis B virus isolate 260, complete genome               3142      0
+KY470928.1  Hepatitis B virus isolate CFQ-120, complete genome           3142      0
+FJ562332.1  Hepatitis B virus isolate I42, complete genome               3142      0
+KJ173317.1  Hepatitis B virus isolate NH25C(e38), complete genome        3142      0
+EU939653.1  Hepatitis B virus isolate D109, complete genome              3142      0
+GQ377575.1  Hepatitis B virus isolate J116, complete genome              3142      0
+FJ386639.1  Hepatitis B virus isolate 1929, complete genome              3140      0
+HM011500.1  Hepatitis B virus strain HB448, complete genome              3140      0
+LC155814.1  HBV genotype C DNA, complete genome, isolate: C1_ch          3140      0
+AY167096.1  Hepatitis B virus isolate IIIa, complete genome              3140      0
+FJ787457.1  Hepatitis B virus isolate S1248-4, complete genome           3138      0
+FJ386665.1  Hepatitis B virus isolate S359, complete genome              3138      0
+KR013788.1  Hepatitis B virus strain 494.16, complete genome             3138      0
+EU939588.1  Hepatitis B virus isolate C173, complete genome              3138      0
+FJ899789.1  Hepatitis B virus isolate C226-3, complete genome            3138      0
+KJ173283.1  Hepatitis B virus isolate CX022C(e230), complete genome      3138      0
+KC774339.1  Hepatitis B virus isolate cxn1029, complete genome           3138      0
+FJ386577.1  Hepatitis B virus isolate 1747, complete genome              3138      0
+EU306723.1  Hepatitis B virus clone 6022-19, complete genome             3138      0
+KR013807.1  Hepatitis B virus strain 574.6, complete genome              3138      0
+EU939649.1  Hepatitis B virus isolate D98, complete genome               3138      0
+KC774310.1  Hepatitis B virus isolate cxa2022, complete genome           3138      0
+DQ377160.1  Hepatitis B virus isolate WJT16, complete genome             3138      0
+FJ562285.1  Hepatitis B virus isolate I147, complete genome              3138      0
+FJ562290.1  Hepatitis B virus isolate I162, complete genome              3138      0
+KC774240.1  Hepatitis B virus isolate cur1066, complete genome           3138      0
+KC774276.1  Hepatitis B virus isolate cww1128, complete genome           3138      0
+GQ377554.1  Hepatitis B virus isolate J85, complete genome               3138      0
+KC774353.1  Hepatitis B virus isolate cyc1043, complete genome           3138      0
+EU939647.1  Hepatitis B virus isolate D90, complete genome               3138      0
+KX276838.1  Hepatitis B virus strain CH015, complete genome              3138      0
+KC774247.1  Hepatitis B virus isolate cww1021, complete genome           3138      0
+EU919163.1  Hepatitis B virus isolate patient24 clone 1, complete...     3138      0
+EU916225.1  Hepatitis B virus isolate S6.3, complete genome              3138      0
+EU881996.1  Hepatitis B virus isolate patient17, complete genome         3138      0
+EU306726.1  Hepatitis B virus clone 6022-12-, complete genome            3138      0
+EU439007.1  Hepatitis B virus clone 602(S)-39 from China, complet...     3138      0
+FJ562295.1  Hepatitis B virus isolate I169, complete genome              3138      0
+GQ377551.1  Hepatitis B virus isolate J82, complete genome               3138      0
+FJ386637.1  Hepatitis B virus isolate 2151, complete genome              3138      0
+GQ377545.1  Hepatitis B virus isolate J76, complete genome               3138      0
+FJ386574.1  Hepatitis B virus isolate 1743, complete genome              3138      0
+GQ475311.1  Hepatitis B virus isolate KOR7CHB, complete genome           3138      0
+KC774222.1  Hepatitis B virus isolate clz2166, complete genome           3138      0
+KR013792.1  Hepatitis B virus strain 513.16a, complete genome            3138      0
+EU560438.1  Hepatitis B virus isolate 2-B74, complete genome             3138      0
+FJ386672.1  Hepatitis B virus isolate S606, complete genome              3138      0
+GQ377637.1  Hepatitis B virus isolate J249, complete genome              3138      0
+FJ562243.1  Hepatitis B virus isolate I71, complete genome               3138      0
+GQ475342.1  Hepatitis B virus isolate KOR38HCC, complete genome          3138      0
+KC774249.1  Hepatitis B virus isolate cww1027, complete genome           3138      0
+FJ386596.1  Hepatitis B virus isolate 1887, complete genome              3138      0
+AB198078.1  Hepatitis B virus DNA, complete genome, note: HBeAg p...     3138      0
+EU871982.1  Hepatitis B virus isolate 318-96-2, complete genome          3138      0
+EU939652.1  Hepatitis B virus isolate D107, complete genome              3138      0
+JN315779.1  Hepatitis B virus genotype C2, complete genome               3138      0
+EU916224.1  Hepatitis B virus isolate S6.2, complete genome              3138      0
+AB300360.1  Hepatitis B virus DNA, complete genome, isolate: pati...     3138      0
+GQ377574.1  Hepatitis B virus isolate J115, complete genome              3138      0
+FJ386575.1  Hepatitis B virus isolate 1745, complete genome              3138      0
+DQ478900.1  Hepatitis B virus isolate CHN-H172, complete genome          3138      0
+KC774245.1  Hepatitis B virus isolate cww1013, complete genome           3138      0
+AF458664.1  Hepatitis B virus isolate C84, complete genome               3136      0
+KJ410520.1  Hepatitis B virus isolate Occult_HK4869, complete genome     3136      0
+FJ386605.1  Hepatitis B virus isolate 1965, complete genome              3136      0
+FJ787473.1  Hepatitis B virus isolate S1732-2, complete genome           3136      0
+KJ598641.1  Hepatitis B virus isolate SHB113, complete genome            3136      0
+KJ598660.1  Hepatitis B virus isolate SHB213, complete genome            3136      0
+JQ040152.1  Hepatitis B virus isolate G172, complete genome              3136      0
+AY206389.1  Hepatitis B virus strain FMU018 complete genome              3136      0
+GQ475309.1  Hepatitis B virus isolate KOR5CHB, complete genome           3136      0
+JQ040130.1  Hepatitis B virus isolate 95, complete genome                3136      0
+KR014097.1  Hepatitis B virus strain #1958.21, complete genome           3134      0
+FJ562308.1  Hepatitis B virus isolate I199, complete genome              3134      0
+FJ562268.1  Hepatitis B virus isolate I121, complete genome              3134      0
+FJ386663.1  Hepatitis B virus isolate S307, complete genome              3134      0
+FJ386687.1  Hepatitis B virus isolate S1600, complete genome             3134      0
+FJ386609.1  Hepatitis B virus isolate 1999, complete genome              3133      0
+AB642099.1  Hepatitis B virus DNA, complete genome, isolate: BFJT...     3133      0
+KC774268.1  Hepatitis B virus isolate cww1085, complete genome           3133      0
+EU939648.1  Hepatitis B virus isolate D96, complete genome               3133      0
+GQ377540.1  Hepatitis B virus isolate J57, complete genome               3133      0
+GQ377570.1  Hepatitis B virus isolate J110, complete genome              3133      0
+EU306727.1  Hepatitis B virus clone 6022-5-, complete genome             3133      0
+KJ598762.1  Hepatitis B virus isolate SLC1A0, complete genome            3133      0
+EU306729.1  Hepatitis B virus clone 6022-33, complete genome             3133      0
+DQ089796.1  Hepatitis B virus isolate HK751, complete genome             3133      0
+EU939645.1  Hepatitis B virus isolate D38, complete genome               3133      0
+GQ377586.1  Hepatitis B virus isolate J135, complete genome              3133      0
+AB485810.1  Hepatitis B virus DNA, complete genome, isolate: FEP2        3133      0
+EU939551.1  Hepatitis B virus isolate C56, complete genome               3133      0
+KR013790.1  Hepatitis B virus strain 494.8, complete genome              3133      0
+EU939612.1  Hepatitis B virus isolate C213, complete genome              3133      0
+AB246345.1  Hepatitis B virus DNA, complete genome, clone: C_JPNAT       3133      0
+GQ475345.1  Hepatitis B virus isolate KOR41HCC, complete genome          3133      0
+KY470889.1  Hepatitis B virus isolate 23-H03, complete genome            3133      0
+KC774343.1  Hepatitis B virus isolate cxn1046, complete genome           3133      0
+EU562216.1  Hepatitis B virus isolate 13, complete genome                3133      0
+KC774295.1  Hepatitis B virus isolate cxa1207, complete genome           3133      0
+FJ562238.1  Hepatitis B virus isolate I62, complete genome               3133      0
+KJ598699.1  Hepatitis B virus isolate SSC129, complete genome            3133      0
+EU939571.1  Hepatitis B virus isolate C104, complete genome              3133      0
+GQ377559.1  Hepatitis B virus isolate J92, complete genome               3133      0
+KY470882.1  Hepatitis B virus isolate 23-5, complete genome              3133      0
+AB971714.1  Hepatitis B virus DNA, complete genome, isolate: HB11...     3133      0
+DQ993689.1  Hepatitis B virus isolate 209-1119-Nature1.1-unSero, ...     3133      0
+GQ475307.1  Hepatitis B virus isolate KOR3CHB, complete genome           3133      0
+AB205124.1  Hepatitis B virus DNA, complete genome, isolate: HBV-...     3133      0
+KY470883.1  Hepatitis B virus isolate 23-6, complete genome              3133      0
+AY247031.1  Hepatitis B virus isolate KUHB84, complete genome            3133      0
+FJ562258.1  Hepatitis B virus isolate I97, complete genome               3133      0
+FJ787458.1  Hepatitis B virus isolate S1248-9, complete genome           3133      0
+JX504536.1  Hepatitis B virus isolate WY-HZ-44, complete genome          3133      0
+KJ173294.1  Hepatitis B virus isolate CX063M(e308), complete genome      3133      0
+KC774326.1  Hepatitis B virus isolate cxa2067, complete genome           3133      0
+AB367423.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...     3133      0
+HM750132.1  Hepatitis B virus isolate Tibet-165, complete genome         3133      0
+KY470929.1  Hepatitis B virus isolate CFQ-122, complete genome           3133      0
+GQ377583.1  Hepatitis B virus isolate J132, complete genome              3133      0
+GQ475319.1  Hepatitis B virus isolate KOR15CHB, complete genome          3133      0
+LC170474.1  HBV genotype C DNA, complete genome, strain: C-A1_YM         3133      0
+HM750135.1  Hepatitis B virus isolate QHX-14, complete genome            3133      0
+KC774184.1  Hepatitis B virus isolate clz1022, complete genome           3133      0
+KY470874.1  Hepatitis B virus isolate 23-12, complete genome             3133      0
+AB900116.1  Hepatitis B virus DNA, complete genome, strain: 004          3133      0
+KJ173310.1  Hepatitis B virus isolate NB045M(m45), complete genome       3133      0
+EU871977.1  Hepatitis B virus isolate 252-2, complete genome             3133      0
+FJ562264.1  Hepatitis B virus isolate I114, complete genome              3133      0
+KJ173427.1  Hepatitis B virus isolate N01-M(011A), complete genome       3133      0
+KR013959.1  Hepatitis B virus strain 513.4a, complete genome             3131      0
+DQ922650.1  Hepatitis B virus strain C0955, complete genome              3131      0
+KR013868.1  Hepatitis B virus strain 1463.31, complete genome            3131      0
+FJ386670.1  Hepatitis B virus isolate S454, complete genome              3131      0
+KJ173318.1  Hepatitis B virus isolate NH25M1(e39), complete genome       3131      0
+FJ386631.1  Hepatitis B virus isolate 2359, complete genome              3131      0
+EU939550.1  Hepatitis B virus isolate C55, complete genome               3129      0
+FJ562281.1  Hepatitis B virus isolate I143, complete genome              3129      0
+DQ377165.1  Hepatitis B virus isolate WJT35, complete genome             3129      0
+JQ040154.1  Hepatitis B virus isolate G181, complete genome              3129      0
+EU919164.1  Hepatitis B virus isolate patient24 clone 2, complete...     3127      0
+EU919166.1  Hepatitis B virus isolate patient25, complete genome         3127      0
+EU562215.1  Hepatitis B virus isolate 11, complete genome                3127      0
+KC774294.1  Hepatitis B virus isolate cxa1205, complete genome           3127      0
+FJ562310.1  Hepatitis B virus isolate I201, complete genome              3127      0
+FJ562239.1  Hepatitis B virus isolate I64, complete genome               3127      0
+FJ899762.1  Hepatitis B virus isolate C9-3, complete genome              3127      0
+FJ562288.1  Hepatitis B virus isolate I153, complete genome              3127      0
+EU939572.1  Hepatitis B virus isolate C105, complete genome              3127      0
+AB367414.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...     3127      0
+EU439012.1  Hepatitis B virus clone 6023-43 from China, complete ...     3127      0
+EU872004.1  Hepatitis B virus isolate 530-97-3, complete genome          3127      0
+KC774314.1  Hepatitis B virus isolate cxa2033, complete genome           3127      0
+GQ475308.1  Hepatitis B virus isolate KOR4CHB, complete genome           3127      0
+EU560440.1  Hepatitis B virus isolate 1-S869, complete genome            3127      0
+FJ386657.1  Hepatitis B virus isolate S165, complete genome              3127      0
+EU871978.1  Hepatitis B virus isolate 252-95-2, complete genome          3127      0
+GQ377640.1  Hepatitis B virus isolate J253, complete genome              3127      0
+KR013954.1  Hepatitis B virus strain 513.1, complete genome              3127      0
+FJ899761.1  Hepatitis B virus isolate C9-1, complete genome              3127      0
+GQ475324.1  Hepatitis B virus isolate KOR20LC, complete genome           3127      0
+EU872001.1  Hepatitis B virus isolate 530-92-8, complete genome          3127      0
+FJ562293.1  Hepatitis B virus isolate I167, complete genome              3127      0
+EU939658.1  Hepatitis B virus isolate D142, complete genome              3127      0
+GQ475313.1  Hepatitis B virus isolate KOR9CHB, complete genome           3127      0
+FJ032332.1  Hepatitis B virus isolate S265-10 from China, complet...     3127      0
+EU919167.1  Hepatitis B virus isolate patient25, complete genome         3127      0
+FJ386602.1  Hepatitis B virus isolate 1914, complete genome              3127      0
+FJ562315.1  Hepatitis B virus isolate I207, complete genome              3127      0
+KC774279.1  Hepatitis B virus isolate cww2157, complete genome           3127      0
+FJ899788.1  Hepatitis B virus isolate C226-1, complete genome            3127      0
+KT284756.1  Hepatitis B virus isolate 21316, complete genome             3127      0
+KR013938.1  Hepatitis B virus strain 494.2, complete genome              3127      0
+EU939593.1  Hepatitis B virus isolate C144, complete genome              3127      0
+EU939587.1  Hepatitis B virus isolate C2, complete genome                3127      0
+KY470927.1  Hepatitis B virus isolate CFQ-119, complete genome           3127      0
+AB367407.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...     3127      0
+KJ803769.1  Hepatitis B virus isolate MY630304, complete genome          3127      0
+KC774316.1  Hepatitis B virus isolate cxa2041, complete genome           3127      0
+FJ562333.1  Hepatitis B virus isolate I78, complete genome               3127      0
+EU939585.1  Hepatitis B virus isolate B126, complete genome              3127      0
+KY470890.1  Hepatitis B virus isolate 23-H07, complete genome            3127      0
+KJ173429.1  Hepatitis B virus isolate N02-M(085A), complete genome       3127      0
+GQ475356.1  Hepatitis B virus isolate KOR52HCC, complete genome          3099      0
+AB111124.1  Hepatitis B virus DNA, complete genome, clone: KH-0          3096      0
+AB111125.1  Hepatitis B virus DNA, complete genome, clone: KH-12         3096      0
+AB246344.1  Hepatitis B virus DNA, complete genome, clone: C_JPN22       3096      0
+KR013779.1  Hepatitis B virus strain 419.1, complete genome              3090      0
+GQ377538.1  Hepatitis B virus isolate J52, complete genome               3090      0
+DQ478899.1  Hepatitis B virus isolate CHN-D20, complete genome           3090      0
+KR013762.1  Hepatitis B virus strain 258.20a, complete genome            3090      0
+EU570067.1  Hepatitis B virus isolate 18-S541, complete genome           3090      0
+KR013765.1  Hepatitis B virus strain 258.4a, complete genome             3085      0
+KR013785.1  Hepatitis B virus strain 419.8, complete genome              3085      0
+KR013766.1  Hepatitis B virus strain 258.4b, complete genome             3085      0
+KM359441.1  Hepatitis B virus isolate FF6, complete genome               3085      0
+EU306673.1  Hepatitis B virus clone 213-10, complete genome              3085      0
+KR013780.1  Hepatitis B virus strain 419.12, complete genome             3085      0
+EU916220.1  Hepatitis B virus isolate S5.2, complete genome              3083      0
+V00867.1    Hepatitis B virus complete DNA sequence (subtype adr)        3083      0
+KR013768.1  Hepatitis B virus strain 258.7a, complete genome             3079      0
+KR013784.1  Hepatitis B virus strain 419.5, complete genome              3079      0
+EU916237.1  Hepatitis B virus isolate SWT2.2, complete genome            3079      0
+KC774346.1  Hepatitis B virus isolate cxn1078, complete genome           3079      0
+KR013781.1  Hepatitis B virus strain 419.2, complete genome              3079      0
+KR013925.1  Hepatitis B virus strain 419.7, complete genome              3077      0
+DQ478885.1  Hepatitis B virus isolate CHN-D12, complete genome           3073      0
+EU916221.1  Hepatitis B virus isolate S5.3, complete genome              3073      0
+FJ386606.1  Hepatitis B virus isolate 1966, complete genome              3073      0
+KC774311.1  Hepatitis B virus isolate cxa2026, complete genome           3073      0
+KR013897.1  Hepatitis B virus strain 258.9a, complete genome             3072      0
+FJ562297.1  Hepatitis B virus isolate I172, complete genome              3068      0
+KR013798.1  Hepatitis B virus strain 544.8, complete genome              3068      0
+KR013786.1  Hepatitis B virus strain 419.9, complete genome              3068      0
+KR013761.1  Hepatitis B virus strain 258.1b, complete genome             3068      0
+FJ386678.1  Hepatitis B virus isolate S1147, complete genome             3068      0
+KC774272.1  Hepatitis B virus isolate cww1107, complete genome           3062      0
+KR013894.1  Hepatitis B virus strain 258.14a, complete genome            3062      0
+KY470924.1  Hepatitis B virus isolate CFQ-111, complete genome           3062      0
+EU916236.1  Hepatitis B virus isolate SWT2.1, complete genome            3062      0
+GQ377563.1  Hepatitis B virus isolate J98, complete genome               3062      0
+EU916223.1  Hepatitis B virus isolate S6.1, complete genome              3062      0
+KR013797.1  Hepatitis B virus strain 544.16, complete genome             3062      0
+KR013961.1  Hepatitis B virus strain 544.11a, complete genome            3062      0
+KR013893.1  Hepatitis B virus strain 258.13a, complete genome            3057      0
+KC774220.1  Hepatitis B virus isolate clz2152, complete genome           3057      0
+KR013769.1  Hepatitis B virus strain 258.8a, complete genome             3057      0
+KR013767.1  Hepatitis B virus strain 258.6b, complete genome             3057      0
+KR014032.1  Hepatitis B virus strain 1303.31, complete genome            3057      0
+FJ562291.1  Hepatitis B virus isolate I163, complete genome              3057      0
+KY470923.1  Hepatitis B virus isolate CFQ-11, complete genome            3057      0
+KR013962.1  Hepatitis B virus strain 544.14a, complete genome            3057      0
+KC774274.1  Hepatitis B virus isolate cww1124, complete genome           3051      0
+KC774354.1  Hepatitis B virus isolate cyc1048, complete genome           3051      0
+GQ377533.1  Hepatitis B virus isolate J39, complete genome               3051      0
+KC774262.1  Hepatitis B virus isolate cww1068, complete genome           3051      0
+KR014031.1  Hepatitis B virus strain 1303.3, complete genome             3051      0
+KR013764.1  Hepatitis B virus strain 258.4, complete genome              3046      0
+KY470922.1  Hepatitis B virus isolate CFQ-107, complete genome           3046      0
+JX429916.1  Hepatitis B virus isolate WY-SD-35, complete genome          3046      0
+KC774185.1  Hepatitis B virus isolate clz1023, complete genome           3046      0
+KY470932.1  Hepatitis B virus isolate CFQ-19, complete genome            3046      0
+GQ377598.1  Hepatitis B virus isolate J158, complete genome              3046      0
+KC774356.1  Hepatitis B virus isolate cyc1080, complete genome           3046      0
+KC774258.1  Hepatitis B virus isolate cww1060, complete genome           3046      0
+EU916239.1  Hepatitis B virus isolate SWT3.1, complete genome            3046      0
+FJ562329.1  Hepatitis B virus isolate I230, complete genome              3046      0
+GQ377616.1  Hepatitis B virus isolate J192, complete genome              3046      0
+KJ173316.1  Hepatitis B virus isolate NH017M(e37), complete genome       3046      0
+EU660228.1  Hepatitis B virus isolate HBV-15T, complete genome           3046      0
+KY470931.1  Hepatitis B virus isolate CFQ-17, complete genome            3046      0
+KY470921.1  Hepatitis B virus isolate CFQ-104, complete genome           3046      0
+KR013923.1  Hepatitis B virus strain 362.8, complete genome              3040      0
+JX026878.1  Hepatitis B virus isolate WY-NJ-14, complete genome          3040      0
+KC774278.1  Hepatitis B virus isolate cww2155, complete genome           3040      0
+KC774242.1  Hepatitis B virus isolate cur1070, complete genome           3040      0
+AY057947.1  Hepatitis B virus isolate Tibet705, complete genome          3040      0
+KC774287.1  Hepatitis B virus isolate cxa1087, complete genome           3040      0
+KC774261.1  Hepatitis B virus isolate cww1067, complete genome           3040      0
+KC774192.1  Hepatitis B virus isolate clz1034, complete genome           3040      0
+GQ377623.1  Hepatitis B virus isolate J208, complete genome              3040      0
+EU939548.1  Hepatitis B virus isolate C46, complete genome               3040      0
+KC774230.1  Hepatitis B virus isolate cur1027, complete genome           3040      0
+EU872010.1  Hepatitis B virus isolate 252-92-3, complete genome          3040      0
+KR014033.1  Hepatitis B virus strain 1303.6, complete genome             3040      0
+EF536065.1  Hepatitis B virus strain XZK pre-t, complete genome          3038      0
+KR014034.1  Hepatitis B virus strain 1303.7, complete genome             3038      0
+KY881887.1  Hepatitis B virus isolate patient-05 clone 18, comple...     3035      0
+KR014029.1  Hepatitis B virus strain 1303.23, complete genome            3035      0
+KY742649.2  Proteus phage vB_PmiS-TH, complete genome                    1005      0
+Y17832.2    Human endogenous retrovirus K (HERV-K) elements, clone C7     957      0
+Y17833.1    Human endogenous retrovirus K (HERV-K) elements, clone ...    952      0
+Y17834.1    Human endogenous retrovirus K (HERV-K) elements, clone ...    948      0
+AY037929.1  Human endogenous retrovirus K115 complete genome              935      0
+AY037928.1  Human endogenous retrovirus K113 complete genome              918      0
+Y18890.1    Human endogenous retrovirus type K (HERV-K), gag, pol a...    900      0
+KU746283.1  Guanarito mammarenavirus isolate CVH-960201 segment L...      736      0
+M38454.1    Hepatitis B virus, complete genome                            647      0
+LT907991.1  Bovine viral diarrhea virus 1 isolate VE/138cp/05 gen...      562      5e-158
+KU746280.1  Guanarito mammarenavirus isolate CVH-950801 segment S...      558      2e-156
+X00255.1    Gardner-Rasheed feline sarcoma virus (GR-FeSV) proviral...    551      3e-154
+AF090842.1  Hepatitis B virus strain G5.27295, complete genome            532      2e-149
+KX765835.1  Hepatitis B virus isolate PID:0725, complete genome           521      5e-146
+KU605527.1  Hepatitis B virus isolate ZADGM1163F2 large S protein...      516      2e-144
+AY033073.1  Hepatitis B virus serotype ayw1, complete genome              516      2e-144
+KU605524.1  Hepatitis B virus isolate ZADGM8787F1 large S protein...      516      2e-144
+KU605526.1  Hepatitis B virus isolate ZADGM1163F1 large S protein...      516      2e-144
+AJ131572.1  Hepatitis B virus complete genome, isolate gib160             514      9e-144
+GQ414522.1  Hepatitis B virus strain GTA_CT, complete genome              510      1e-142
+AY033072.1  Hepatitis B virus serotype ayw1, complete genome              510      1e-142
+JQ040219.1  Hepatitis B virus isolate 19110(0414) PreS protein (S...      508      4e-142
+JQ040188.1  Hepatitis B virus isolate G173 PreS protein (S) gene,...      507      1e-141
+JX661483.1  Hepatitis B virus isolate SH1205-B3, complete genome          505      5e-141
+AY293309.1  Hepatitis B virus strain Whutj-37, complete genome            505      5e-141
+KX765856.1  Hepatitis B virus isolate PID:9231, complete genome           505      5e-141
+EF134946.1  Hepatitis B virus isolate G247-B5, complete genome            505      5e-141
+JQ040187.1  Hepatitis B virus isolate 83 PreS protein (S) gene, p...      501      7e-140
+JX661481.1  Hepatitis B virus isolate SH1214-B8, complete genome          499      2e-139
+JX661478.1  Hepatitis B virus isolate SH1211-B7, complete genome          499      2e-139
+JX661470.1  Hepatitis B virus isolate SH1221-B12, complete genome         499      2e-139
+AF143298.1  Hepatitis B virus clone 7720-G8, complete genome              499      2e-139
+KU605523.1  Hepatitis B virus isolate ZADGM1486F2 large S protein...      499      2e-139
+JX978431.1  Hepatitis B virus isolate X02, complete genome                499      2e-139
+JX661473.1  Hepatitis B virus isolate SH1220-B11, complete genome         499      2e-139
+AF090840.1  Hepatitis B virus strain G3.27270, complete genome            499      2e-139
+JX661479.1  Hepatitis B virus isolate SH1219-B10, complete genome         499      2e-139
+JX661477.1  Hepatitis B virus isolate SH1209-B5, complete genome          499      2e-139
+AF090839.1  Hepatitis B virus strain G2.27246, complete genome            499      2e-139
+JX661482.1  Hepatitis B virus isolate SH1204-B2, complete genome          499      2e-139
+JX661484.1  Hepatitis B virus isolate SH1206-B4, complete genome          499      2e-139
+X02763.1    Hepatitis b virus genome (serotype adw2)                      499      2e-139
+KC774345.1  Hepatitis B virus isolate cxn1076, complete genome            497      5e-139
+GQ377584.1  Hepatitis B virus isolate J133, complete genome               497      5e-139
+KC875261.1  Hepatitis B virus isolate HBV26 genotype C, complete ...      497      5e-139
+KC774336.1  Hepatitis B virus isolate cxn1015, complete genome            497      5e-139
+KC774196.1  Hepatitis B virus isolate clz2015, complete genome            497      5e-139
+FJ562294.1  Hepatitis B virus isolate I168, complete genome               497      5e-139
+KC875262.1  Hepatitis B virus isolate HBV36 genotype C, complete ...      497      5e-139
+KC774324.1  Hepatitis B virus isolate cxa2060, complete genome            497      5e-139
+KT991435.1  Hepatitis B virus isolate I113-8, complete genome             497      5e-139
+KR013852.1  Hepatitis B virus strain 1303.32, complete genome             497      5e-139
+JX661474.1  Hepatitis B virus isolate SH1229-B15, complete genome         494      1e-137
+JX661476.1  Hepatitis B virus isolate SH1227-B14, complete genome         494      1e-137
+AJ131567.1  Hepatitis B virus complete genome, isolate gor97              494      1e-137
+JX661475.1  Hepatitis B virus isolate SH1216-B9, complete genome          494      1e-137
+JX661472.1  Hepatitis B virus isolate SH1224-B13, complete genome         494      1e-137
+GQ475346.1  Hepatitis B virus isolate KOR42HCC, complete genome           492      3e-137
+KC774344.1  Hepatitis B virus isolate cxn1049, complete genome            492      3e-137
+KC774433.1  Hepatitis B virus isolate dlz2143, complete genome            492      3e-137
+AB195947.1  Hepatitis B virus DNA, complete genome, strain: Ehi-S...      492      3e-137
+KJ173321.1  Hepatitis B virus isolate NH30C(e43), complete genome         492      3e-137
+KC774337.1  Hepatitis B virus isolate cxn1019, complete genome            492      3e-137
+KJ410519.1  Hepatitis B virus isolate Occult_HK514, complete genome       492      3e-137
+AB111120.1  Hepatitis B virus DNA, complete genome, clone: KM-12          492      3e-137
+KC774180.1  Hepatitis B virus isolate clz1002, complete genome            492      3e-137
+KC774472.1  Hepatitis B virus isolate dxn1020, complete genome            492      3e-137
+KR013827.1  Hepatitis B virus strain 1130.5a, complete genome             492      3e-137
+AB042283.1  Hepatitis B virus DNA, complete genome, isolate:NSS-2         492      3e-137
+GQ475316.1  Hepatitis B virus isolate KOR12CHB, complete genome           492      3e-137
+KC774219.1  Hepatitis B virus isolate clz2144, complete genome            492      3e-137
+KY470886.1  Hepatitis B virus isolate 23-G07, complete genome             492      3e-137
+KJ173349.1  Hepatitis B virus isolate CX017C(e226), complete genome       492      3e-137
+AJ131570.1  Hepatitis B virus complete genome, isolate gib731             492      4e-137
+FJ787463.1  Hepatitis B virus isolate S1357-6, complete genome            492      3e-137
+KY470888.1  Hepatitis B virus isolate 23-G10, complete genome             492      3e-137
+KJ173305.1  Hepatitis B virus isolate NB023C(m24), complete genome        492      3e-137
+KY470873.1  Hepatitis B virus isolate 23-1, complete genome               492      3e-137
+AB033550.1  Hepatitis B virus DNA, complete genome                        492      3e-137
+GQ377524.1  Hepatitis B virus isolate J23, complete genome                492      3e-137
+AB367394.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      492      3e-137
+KC774448.1  Hepatitis B virus isolate dww1058, complete genome            492      3e-137
+GQ377632.1  Hepatitis B virus isolate J240, complete genome               492      3e-137
+KC875263.1  Hepatitis B virus isolate HBV61 genotype C, complete ...      492      3e-137
+DQ478887.1  Hepatitis B virus isolate CHN-QH8, complete genome            492      3e-137
+JF491448.1  Hepatitis B virus isolate QH-29, complete genome              492      3e-137
+KC774424.1  Hepatitis B virus isolate dlz2021, complete genome            492      3e-137
+DQ298161.1  Hepatitis B virus isolate LT3.12AM clone 1, complete ...      492      4e-137
+DQ298163.1  Hepatitis B virus isolate LT3.12AM clone 3, complete ...      492      4e-137
+AF241410.1  Hepatitis B virus isolate 3270, complete genome               492      3e-137
+FJ899763.1  Hepatitis B virus isolate C9-4, complete genome               492      3e-137
+KR014003.1  Hepatitis B virus strain 1130.22a, complete genome            492      3e-137
+KJ173288.1  Hepatitis B virus isolate CX028M(e245n), complete genome      492      3e-137
+EU916215.1  Hepatitis B virus isolate S4.1, complete genome               492      3e-137
+LC170475.1  HBV genotype C DNA, complete genome, strain: C-B1_TK          492      3e-137
+LC155816.1  HBV genotype C DNA, complete genome, isolate: C2_ch-1M        492      3e-137
+AB111119.1  Hepatitis B virus DNA, complete genome, clone: KM-10          492      3e-137
+JX504545.1  Hepatitis B virus isolate WY-SD-37, complete genome           492      3e-137
+KC774244.1  Hepatitis B virus isolate cww1012, complete genome            492      3e-137
+LC155818.1  HBV genotype C DNA, complete genome, isolate: C2_ch-10M       492      3e-137
+KY470875.1  Hepatitis B virus isolate 23-13, complete genome              492      3e-137
+KY470879.1  Hepatitis B virus isolate 23-21, complete genome              492      3e-137
+KY470891.1  Hepatitis B virus isolate 23-H09, complete genome             492      3e-137
+JF436920.1  Hepatitis B virus isolate SZ6, complete genome                492      3e-137
+FJ787462.1  Hepatitis B virus isolate S1357-3, complete genome            492      3e-137
+KR014096.1  Hepatitis B virus strain #1958.14, complete genome            492      3e-137
+KR013873.1  Hepatitis B virus strain #1958.16, complete genome            492      3e-137
+AY817512.1  Hepatitis B virus isolate CHN-L53 from China, complet...      492      3e-137
+EU916229.1  Hepatitis B virus isolate S7.4, complete genome               492      3e-137
+KJ173350.1  Hepatitis B virus isolate CX017M(e227), complete genome       492      3e-137
+AB195948.1  Hepatitis B virus DNA, complete genome, strain: Ehi-S...      492      3e-137
+KJ173320.1  Hepatitis B virus isolate NH29M(e41), complete genome         492      3e-137
+KC774267.1  Hepatitis B virus isolate cww1084, complete genome            492      3e-137
+KC774423.1  Hepatitis B virus isolate dlz2018, complete genome            492      3e-137
+AB485808.1  Hepatitis B virus DNA, complete genome, isolate: HBV-IT       492      3e-137
+KU519422.1  Hepatitis B virus isolate TibetLinzhi-1, complete genome      492      3e-137
+KR013808.1  Hepatitis B virus strain 574.9, complete genome               492      3e-137
+AB640730.1  Hepatitis B virus DNA, complete genome, isolate: Ehim...      492      3e-137
+EU554542.1  Hepatitis B virus isolate S696-4, complete genome             492      3e-137
+KC774260.1  Hepatitis B virus isolate cww1065, complete genome            492      3e-137
+GQ475305.1  Hepatitis B virus isolate KOR1CHB, complete genome            492      3e-137
+GQ475317.1  Hepatitis B virus isolate KOR13CHB, complete genome           492      3e-137
+KR013984.1  Hepatitis B virus strain 574.4, complete genome               492      3e-137
+GQ475333.1  Hepatitis B virus isolate KOR29LC, complete genome            492      3e-137
+GQ377548.1  Hepatitis B virus isolate J79, complete genome                492      3e-137
+KC774468.1  Hepatitis B virus isolate dxn1012, complete genome            492      3e-137
+KR013877.1  Hepatitis B virus strain #1958.8, complete genome             492      3e-137
+JF491456.1  Hepatitis B virus isolate Tibet-53, complete genome           492      3e-137
+LC155819.1  HBV genotype C DNA, complete genome, isolate: C2_mo           492      3e-137
+LC155817.1  HBV genotype C DNA, complete genome, isolate: C2_ch-8M        492      3e-137
+AY817510.1  Hepatitis B virus isolate CHN-L45 from China, complet...      492      3e-137
+KC774318.1  Hepatitis B virus isolate cxa2043, complete genome            492      3e-137
+KJ173306.1  Hepatitis B virus isolate NB023M(M23), complete genome        492      3e-137
+KY470892.1  Hepatitis B virus isolate 23-H12, complete genome             492      3e-137
+GQ377624.1  Hepatitis B virus isolate J221, complete genome               492      3e-137
+JQ040178.1  Hepatitis B virus isolate G20262k PreS protein (S) ge...      490      1e-136
+JQ040189.1  Hepatitis B virus isolate G212 PreS protein (S) gene,...      490      1e-136
+JQ040177.1  Hepatitis B virus isolate G20252k PreS protein (S) ge...      490      1e-136
+KX765854.1  Hepatitis B virus isolate PID:9149, complete genome           488      5e-136
+KU605525.1  Hepatitis B virus isolate ZADGM8787F3 large S protein...      488      5e-136
+EU939557.1  Hepatitis B virus isolate C65, complete genome                488      3e-136
+JX661471.1  Hepatitis B virus isolate SH1202-B1, complete genome          488      5e-136
+KF767450.1  Hepatitis B virus isolate patient_23, complete genome         488      5e-136
+KX765841.1  Hepatitis B virus isolate PID:1074, complete genome           488      5e-136
+DQ486025.1  Hepatitis B virus isolate LT12, complete genome               488      5e-136
+AY034878.1  Hepatitis B virus isolate HBVKL, complete genome              488      5e-136
+AB298720.1  Hepatitis B virus DNA, complete genome, isolate: BAJT...      486      1e-135
+GQ475348.1  Hepatitis B virus isolate KOR44HCC, complete genome           486      1e-135
+FJ032361.1  Hepatitis B virus isolate S1634-7 from China, complet...      486      1e-135
+FJ386613.1  Hepatitis B virus isolate 2039, complete genome               486      1e-135
+KR013848.1  Hepatitis B virus strain 1263.5, complete genome              486      1e-135
+FJ032345.1  Hepatitis B virus isolate S696-3 from China, complete...      486      1e-135
+JF491453.1  Hepatitis B virus isolate QH-90, complete genome              486      1e-135
+FJ032341.1  Hepatitis B virus isolate S529-6 from China, complete...      486      1e-135
+HQ638218.1  Hepatitis B virus isolate A64-1 from China, complete ...      486      1e-135
+KR013828.1  Hepatitis B virus strain 1149.11, complete genome             486      1e-135
+AB471851.1  Hepatitis B virus DNA, complete genome, isolate: F2NK-F       486      1e-135
+KR013844.1  Hepatitis B virus strain 1263.15, complete genome             486      1e-135
+DQ089801.1  Hepatitis B virus isolate HK2100, complete genome             486      1e-135
+FJ386667.1  Hepatitis B virus isolate S379, complete genome               486      1e-135
+AB697500.1  Hepatitis B virus DNA, complete genome, isolate: No17         486      1e-135
+FJ386619.1  Hepatitis B virus isolate 2119, complete genome               486      1e-135
+JQ040145.1  Hepatitis B virus isolate 277, complete genome                486      1e-135
+LC360507.1  HBV genotype C WT03 DNA, complete genome                      486      1e-135
+JF828930.1  Hepatitis B virus isolate ES71-11, complete genome            486      1e-135
+JF828920.1  Hepatitis B virus isolate ES70-14, complete genome            486      1e-135
+JF828922.1  Hepatitis B virus isolate ES71-2, complete genome             486      1e-135
+JF828924.1  Hepatitis B virus isolate ES71-4, complete genome             486      1e-135
+FJ787453.1  Hepatitis B virus isolate S1049-3, complete genome            486      1e-135
+GQ377615.1  Hepatitis B virus isolate J186, complete genome               486      1e-135
+KJ598690.1  Hepatitis B virus isolate SSC18, complete genome              486      1e-135
+DQ478884.1  Hepatitis B virus isolate CHN-QH4, complete genome            486      1e-135
+KR013774.1  Hepatitis B virus strain 327.4, complete genome               486      1e-135
+KT284757.1  Hepatitis B virus isolate 23329, complete genome              486      1e-135
+FJ787484.1  Hepatitis B virus isolate S1348-3, complete genome            486      1e-135
+AB050018.1  Hepatitis B virus DNA, complete genome                        486      1e-135
+EU410079.1  Hepatitis B virus isolate ph109, complete genome              486      1e-135
+GQ475341.1  Hepatitis B virus isolate KOR37HCC, complete genome           486      1e-135
+KR013998.1  Hepatitis B virus strain 1130.13a, complete genome            486      1e-135
+HM750149.1  Hepatitis B virus isolate Tibet-60, complete genome           486      1e-135
+KJ173297.1  Hepatitis B virus isolate FH008C(e46n), complete genome       486      1e-135
+JX429917.1  Hepatitis B virus isolate WY-SD-36, complete genome           486      1e-135
+KJ173289.1  Hepatitis B virus isolate CX038C(e252), complete genome       486      1e-135
+KC774327.1  Hepatitis B virus isolate cxa2069, complete genome            486      1e-135
+KR013803.1  Hepatitis B virus strain 574.12, complete genome              486      1e-135
+EF137802.1  Hepatitis B virus strain JH4-1896-G, complete genome          486      1e-135
+KC774478.1  Hepatitis B virus isolate dxn1035, complete genome            486      1e-135
+AP011100.1  Hepatitis B virus DNA, complete genome, strain: C0607...      486      1e-135
+HM750147.1  Hepatitis B virus isolate Tibet-29, complete genome           486      1e-135
+KC774426.1  Hepatitis B virus isolate dlz2091, complete genome            486      1e-135
+JX429904.1  Hepatitis B virus isolate WY-HZ-46, complete genome           486      1e-135
+AP011099.1  Hepatitis B virus DNA, complete genome, strain: C0503...      486      1e-135
+HM750143.1  Hepatitis B virus isolate tibet-116, complete genome          486      1e-135
+KC774474.1  Hepatitis B virus isolate dxn1025, complete genome            486      1e-135
+KC774416.1  Hepatitis B virus isolate bxn1016, complete genome            486      1e-135
+AB675677.1  Hepatitis B virus DNA, complete genome, isolate: 10A39        486      1e-135
+AB367396.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      486      1e-135
+KC774312.1  Hepatitis B virus isolate cxa2029, complete genome            486      1e-135
+GQ475338.1  Hepatitis B virus isolate KOR34LC, complete genome            486      1e-135
+GQ475334.1  Hepatitis B virus isolate KOR30LC, complete genome            486      1e-135
+EU554535.1  Hepatitis B virus isolate S472-20, complete genome            486      1e-135
+GQ475306.1  Hepatitis B virus isolate KOR2CHB, complete genome            486      1e-135
+KY881811.1  Hepatitis B virus isolate patient-02 clone 10, comple...      486      1e-135
+AY800249.1  Hepatitis B virus isolate CHN-L2, complete genome             486      1e-135
+KJ173282.1  Hepatitis B virus isolate CX009M(e217), complete genome       486      1e-135
+AB026814.1  Hepatitis B virus DNA, complete genome, isolate:Donor...      486      1e-135
+KC774441.1  Hepatitis B virus isolate dww1034, complete genome            486      1e-135
+KC774205.1  Hepatitis B virus isolate clz2058, complete genome            486      1e-135
+FJ562283.1  Hepatitis B virus isolate I145, complete genome               486      1e-135
+AB033551.1  Hepatitis B virus DNA, complete genome, isolate:SK300         486      1e-135
+FJ562230.1  Hepatitis B virus isolate I38, complete genome                486      1e-135
+EU678473.1  Hepatitis B virus isolate S4, complete genome                 486      1e-135
+AB241109.1  Hepatitis B virus DNA, complete genome, isolate:PhCH24        486      1e-135
+KC774471.1  Hepatitis B virus isolate dxn1018, complete genome            486      1e-135
+KC774193.1  Hepatitis B virus isolate clz1035, complete genome            486      1e-135
+GQ377579.1  Hepatitis B virus isolate J126, complete genome               486      1e-135
+FJ518813.1  Hepatitis B virus strain 6945, complete genome                486      1e-135
+FJ386649.1  Hepatitis B virus isolate 2422, complete genome               486      1e-135
+KR014020.1  Hepatitis B virus strain 1149.3, complete genome              486      1e-135
+EU939618.1  Hepatitis B virus isolate C230, complete genome               486      1e-135
+KT991430.1  Hepatitis B virus isolate S1716-2-16, complete genome         486      1e-135
+AB195943.1  Hepatitis B virus DNA, complete genome, strain: Ehi-I...      486      1e-135
+JF828928.1  Hepatitis B virus isolate ES71-8, complete genome             486      1e-135
+AY862861.1  Hepatitis B virus clone Q17, complete genome                  486      1e-135
+AB106895.1  Hepatitis B virus DNA, complete genome, isolate:pHB4-4        486      1e-135
+AY862865.1  Hepatitis B virus clone Q311, complete genome                 486      1e-135
+KC774480.1  Hepatitis B virus isolate dxn1038, complete genome            486      1e-135
+DQ478883.1  Hepatitis B virus isolate CHN-QH33, complete genome           486      1e-135
+JF828926.1  Hepatitis B virus isolate ES71-6, complete genome             486      1e-135
+AY817513.1  Hepatitis B virus isolate CHN-L66 from China, complet...      486      1e-135
+GQ377619.1  Hepatitis B virus isolate J195, complete genome               486      1e-135
+KJ173329.1  Hepatitis B virus isolate P011-C(b168), complete genome       486      1e-135
+DQ478892.1  Hepatitis B virus isolate CHN-QH28, complete genome           486      1e-135
+HM750141.1  Hepatitis B virus isolate QHX-115, complete genome            486      1e-135
+KC774270.1  Hepatitis B virus isolate cww1093, complete genome            486      1e-135
+GQ475347.1  Hepatitis B virus isolate KOR43HCC, complete genome           486      1e-135
+KJ598753.1  Hepatitis B virus isolate SHB721, complete genome             486      1e-135
+KR014050.1  Hepatitis B virus strain 1368.44, complete genome             486      1e-135
+AB176643.1  Hepatitis B virus DNA, complete genome, isolate:HBV-NK1       486      1e-135
+FJ032340.1  Hepatitis B virus isolate S529-1 from China, complete...      486      1e-135
+KY470885.1  Hepatitis B virus isolate 23-G06, complete genome             486      1e-135
+GQ377642.1  Hepatitis B virus isolate J256, complete genome               486      1e-135
+KJ598688.1  Hepatitis B virus isolate SSC110, complete genome             486      1e-135
+AF286594.1  Hepatitis B virus subtype adr, complete genome                486      1e-135
+DQ478896.1  Hepatitis B virus isolate CHN-QH32, complete genome           486      1e-135
+KR013829.1  Hepatitis B virus strain 1149.12, complete genome             486      1e-135
+KR013845.1  Hepatitis B virus strain 1263.2, complete genome              486      1e-135
+AY862866.1  Hepatitis B virus clone Q312, complete genome                 486      1e-135
+KC774438.1  Hepatitis B virus isolate dww1016, complete genome            486      1e-135
+EU410080.1  Hepatitis B virus isolate ph76, complete genome               486      1e-135
+KC774430.1  Hepatitis B virus isolate dlz2121, complete genome            486      1e-135
+AB471848.1  Hepatitis B virus DNA, complete genome, isolate: F1S-F        486      1e-135
+DQ993690.1  Hepatitis B virus isolate 204-1113-Nature1.1-unSero, ...      486      1e-135
+JF828921.1  Hepatitis B virus isolate ES71-1, complete genome             486      1e-135
+AB367400.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      486      1e-135
+KR013853.1  Hepatitis B virus strain 1303.33, complete genome             486      1e-135
+JF828925.1  Hepatitis B virus isolate ES71-5, complete genome             486      1e-135
+EU717216.1  Hepatitis B virus isolate 65-2/C8, complete genome            486      1e-135
+AB026811.1  Hepatitis B virus DNA, complete genome, isolate:Recip...      486      1e-135
+AB981580.1  HBV genotype C DNA, complete genome, isolate: P1-090725       486      1e-135
+KC774283.1  Hepatitis B virus isolate cxa1062, complete genome            486      1e-135
+JF828917.1  Hepatitis B virus isolate ES70-11, complete genome            486      1e-135
+AB026812.1  Hepatitis B virus DNA, complete genome, isolate:Recip...      486      1e-135
+KR013831.1  Hepatitis B virus strain 1149.17, complete genome             486      1e-135
+JF828913.1  Hepatitis B virus isolate ES70-1, complete genome             486      1e-135
+JF828915.1  Hepatitis B virus isolate ES70-4, complete genome             486      1e-135
+JF828919.1  Hepatitis B virus isolate ES70-13, complete genome            486      1e-135
+KJ173330.1  Hepatitis B virus isolate P011-M2(170), complete genome       486      1e-135
+KC774289.1  Hepatitis B virus isolate cxa1180, complete genome            486      1e-135
+GQ475322.1  Hepatitis B virus isolate KOR18LC, complete genome            486      1e-135
+AB697490.1  Hepatitis B virus DNA, complete genome, isolate: No5          486      1e-135
+KX660683.1  Hepatitis B virus isolate TibetShannan-4, complete ge...      486      1e-135
+KC774463.1  Hepatitis B virus isolate dxa2066, complete genome            486      1e-135
+DQ478891.1  Hepatitis B virus isolate CHN-QH19, complete genome           486      1e-135
+KJ598689.1  Hepatitis B virus isolate SSC140, complete genome             486      1e-135
+KJ173292.1  Hepatitis B virus isolate CX050M(e276n), complete genome      486      1e-135
+HM750144.1  Hepatitis B virus isolate QHX-2, complete genome              486      1e-135
+AB111121.1  Hepatitis B virus DNA, complete genome, clone: K4-0           486      1e-135
+HM750146.1  Hepatitis B virus isolate Tibet-26, complete genome           486      1e-135
+KC774183.1  Hepatitis B virus isolate clz1020, complete genome            486      1e-135
+KJ598716.1  Hepatitis B virus isolate SHB5101, complete genome            486      1e-135
+KJ598710.1  Hepatitis B virus isolate SHB513, complete genome             486      1e-135
+AB300365.1  Hepatitis B virus DNA, complete genome, isolate: pati...      486      1e-135
+AB026813.1  Hepatitis B virus DNA, complete genome, isolate:Recip...      486      1e-135
+LC170477.1  HBV genotype C DNA, complete genome, strain: C-D1_ST          486      1e-135
+JX429915.1  Hepatitis B virus isolate WY-SD-19, complete genome           486      1e-135
+AB367409.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      486      1e-135
+FJ386629.1  Hepatitis B virus isolate 2286, complete genome               486      1e-135
+DQ478897.1  Hepatitis B virus isolate CHN-QH37, complete genome           486      1e-135
+KJ173341.1  Hepatitis B virus isolate CX003C(e204), complete genome       486      1e-135
+KR013830.1  Hepatitis B virus strain 1149.13, complete genome             486      1e-135
+AB675678.1  Hepatitis B virus DNA, complete genome, isolate: 10B16        486      1e-135
+AF461043.1  Hepatitis B virus, complete genome                            486      1e-135
+GQ377541.1  Hepatitis B virus isolate J58, complete genome                486      1e-135
+KR014028.1  Hepatitis B virus strain 1303.2, complete genome              486      1e-135
+AB222714.1  Hepatitis B virus DNA, complete genome, isolate: UZNVC7       486      1e-135
+KR014006.1  Hepatitis B virus strain 1130.6, complete genome              486      1e-135
+GQ475315.1  Hepatitis B virus isolate KOR11CHB, complete genome           486      1e-135
+MF674405.1  Hepatitis B virus isolate HBV040038, complete genome          486      1e-135
+KC774494.1  Hepatitis B virus isolate dxn1090, complete genome            486      1e-135
+KR014054.1  Hepatitis B virus strain 1368.5, complete genome              486      1e-135
+GQ377628.1  Hepatitis B virus isolate J232, complete genome               486      1e-135
+EU564821.1  Hepatitis B virus isolate HBV-9N, complete genome             486      1e-135
+KY470887.1  Hepatitis B virus isolate 23-G09, complete genome             486      1e-135
+KJ173301.1  Hepatitis B virus isolate NB129C(m130), complete genome       486      1e-135
+KJ173303.1  Hepatitis B virus isolate NB215C(m216), complete genome       486      1e-135
+AY167090.1  Hepatitis B virus isolate Ib, complete genome                 486      1e-135
+EU678470.1  Hepatitis B virus isolate S1, complete genome                 486      1e-135
+GQ475331.1  Hepatitis B virus isolate KOR27LC, complete genome            486      1e-135
+EU939604.1  Hepatitis B virus isolate C192, complete genome               486      1e-135
+FJ787454.1  Hepatitis B virus isolate S1049-4, complete genome            486      1e-135
+EU678472.1  Hepatitis B virus isolate S3, complete genome                 486      1e-135
+KC774317.1  Hepatitis B virus isolate cxa2042, complete genome            486      1e-135
+KJ173342.1  Hepatitis B virus isolate CX003M(e205), complete genome       486      1e-135
+KJ598749.1  Hepatitis B virus isolate SHB715, complete genome             486      1e-135
+AB033552.1  Hepatitis B virus DNA, complete genome, isolate:SK494         486      1e-135
+FJ032336.1  Hepatitis B virus isolate S462-4 from China, complete...      486      1e-135
+EU916231.1  Hepatitis B virus isolate S8.2, complete genome               486      1e-135
+KX660675.1  Hepatitis B virus isolate TibetAli-3, complete genome         486      1e-135
+LC155820.1  HBV genotype C DNA, complete genome, isolate: C3_mo           486      1e-135
+KT991433.1  Hepatitis B virus isolate S1716-6, complete genome            486      1e-135
+AY862860.1  Hepatitis B virus clone Q11, complete genome                  486      1e-135
+KF917451.1  Hepatitis B virus isolate YN.071, complete genome             486      1e-135
+AY862864.1  Hepatitis B virus clone Q34, complete genome                  486      1e-135
+JF828927.1  Hepatitis B virus isolate ES71-7, complete genome             486      1e-135
+AB367424.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      486      1e-135
+JF828929.1  Hepatitis B virus isolate ES71-9, complete genome             486      1e-135
+KR013875.1  Hepatitis B virus strain #1958.4, complete genome             486      1e-135
+JF828931.1  Hepatitis B virus isolate ES71-15, complete genome            486      1e-135
+KR013799.1  Hepatitis B virus strain 551.26, complete genome              486      1e-135
+KJ598695.1  Hepatitis B virus isolate SSC116, complete genome             486      1e-135
+EU939607.1  Hepatitis B virus isolate C207, complete genome               486      1e-135
+KJ598681.1  Hepatitis B virus isolate SHB43, complete genome              486      1e-135
+GQ475354.1  Hepatitis B virus isolate KOR50HCC, complete genome           486      1e-135
+KJ598691.1  Hepatitis B virus isolate SSC19, complete genome              486      1e-135
+HM750140.1  Hepatitis B virus isolate GSD-56, complete genome             486      1e-135
+KC774328.1  Hepatitis B virus isolate cxa2073, complete genome            486      1e-135
+KJ598740.1  Hepatitis B virus isolate SHB71, complete genome              486      1e-135
+KR013858.1  Hepatitis B virus strain 1368.1, complete genome              486      1e-135
+GQ377521.1  Hepatitis B virus isolate J19, complete genome                486      1e-135
+DQ478895.1  Hepatitis B virus isolate CHN-QH31, complete genome           486      1e-135
+AB367399.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      486      1e-135
+KR013965.1  Hepatitis B virus strain 544.5a, complete genome              486      1e-135
+DQ478889.1  Hepatitis B virus isolate CHN-QH14, complete genome           486      1e-135
+AB471849.1  Hepatitis B virus DNA, complete genome, isolate: F1S-C2       486      1e-135
+KC774431.1  Hepatitis B virus isolate dlz2122, complete genome            486      1e-135
+AB367403.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      486      1e-135
+KC774421.1  Hepatitis B virus isolate dlz1025, complete genome            486      1e-135
+KC774427.1  Hepatitis B virus isolate dlz2093, complete genome            486      1e-135
+KJ173395.1  Hepatitis B virus isolate Vac06-M(m619), complete genome      486      1e-135
+AB471853.1  Hepatitis B virus DNA, complete genome, isolate: F2S-C3       486      1e-135
+DQ089800.1  Hepatitis B virus isolate HK741, complete genome              486      1e-135
+AY247032.1  Hepatitis B virus isolate KUHB95, complete genome             486      1e-135
+JF828916.1  Hepatitis B virus isolate ES70-10, complete genome            486      1e-135
+HM750136.1  Hepatitis B virus isolate GSDC-53, complete genome            486      1e-135
+AY123041.1  Hepatitis B virus serotype adr, complete genome               486      1e-135
+KY881818.1  Hepatitis B virus isolate patient-02 clone 17, comple...      486      1e-135
+KR013834.1  Hepatitis B virus strain 1149.9, complete genome              486      1e-135
+KP276254.1  Hepatitis B virus isolate Tibet-1887, complete genome         486      1e-135
+JF828918.1  Hepatitis B virus isolate ES70-12, complete genome            486      1e-135
+JN400087.1  Hepatitis B virus isolate HBV-75-Mother, complete genome      486      1e-135
+KC774315.1  Hepatitis B virus isolate cxa2039, complete genome            486      1e-135
+GQ475325.1  Hepatitis B virus isolate KOR21LC, complete genome            486      1e-135
+GQ475327.1  Hepatitis B virus isolate KOR23LC, complete genome            486      1e-135
+GQ475329.1  Hepatitis B virus isolate KOR25LC, complete genome            486      1e-135
+KJ173279.1  Hepatitis B virus isolate CX004C(e207), complete genome       486      1e-135
+KF214655.1  Hepatitis B virus isolate IND-1963-11, complete genome        486      1e-135
+KJ173291.1  Hepatitis B virus isolate CX050C(e275n), complete genome      486      1e-135
+KJ598698.1  Hepatitis B virus isolate SSC128, complete genome             486      1e-135
+KC774200.1  Hepatitis B virus isolate clz2044, complete genome            486      1e-135
+KJ173281.1  Hepatitis B virus isolate CX009C(e216), complete genome       486      1e-135
+EU678474.1  Hepatitis B virus isolate S5, complete genome                 486      1e-135
+KC774210.1  Hepatitis B virus isolate clz2098, complete genome            486      1e-135
+FJ386595.1  Hepatitis B virus isolate 1879, complete genome               486      1e-135
+KJ598696.1  Hepatitis B virus isolate SSC121, complete genome             486      1e-135
+KJ598701.1  Hepatitis B virus isolate SSC132, complete genome             486      1e-135
+AB367416.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      486      1e-135
+KJ173396.1  Hepatitis B virus isolate Vac06-C(m620), complete genome      486      1e-135
+AB471852.1  Hepatitis B virus DNA, complete genome, isolate: F2S-C2       486      1e-135
+AB300362.1  Hepatitis B virus DNA, complete genome, isolate: pati...      486      1e-135
+EU564820.1  Hepatitis B virus isolate HBV-9T, complete genome             486      1e-135
+DQ993688.1  Hepatitis B virus isolate 209-0519-Nature1.2-unSero, ...      486      1e-135
+AB222715.1  Hepatitis B virus DNA, complete genome, isolate: UZNVC7M      486      1e-135
+AB675683.1  Hepatitis B virus DNA, complete genome, isolate: 11B35        486      1e-135
+KC774499.1  Hepatitis B virus isolate dyc1018, complete genome            486      1e-135
+EU554541.1  Hepatitis B virus isolate S696-1, complete genome             486      1e-135
+JF491454.1  Hepatitis B virus isolate QH-79, complete genome              486      1e-135
+JX504544.1  Hepatitis B virus isolate WY-SD-14, complete genome           486      1e-135
+EU939619.1  Hepatitis B virus isolate C233, complete genome               486      1e-135
+AB195942.1  Hepatitis B virus DNA, complete genome, strain: Ehi-I...      486      1e-135
+GQ475310.1  Hepatitis B virus isolate KOR6CHB, complete genome            486      1e-135
+KM999992.1  Hepatitis B virus isolate SEA-05, complete genome             486      1e-135
+DQ478893.1  Hepatitis B virus isolate CHN-QH29, complete genome           486      1e-135
+KJ173304.1  Hepatitis B virus isolate NB215M(m215), complete genome       486      1e-135
+KC774237.1  Hepatitis B virus isolate cur1051, complete genome            486      1e-135
+GQ377515.1  Hepatitis B virus isolate J9, complete genome                 486      1e-135
+EU835240.1  Hepatitis B virus isolate IND-DIB112, complete genome         486      1e-135
+FJ562249.1  Hepatitis B virus isolate I79, complete genome                486      1e-135
+KJ173445.1  Hepatitis B virus isolate N208M(e415), complete genome        484      4e-135
+KJ598713.1  Hepatitis B virus isolate SHB518, complete genome             484      4e-135
+KJ598705.1  Hepatitis B virus isolate SHB51, complete genome              484      4e-135
+KC774420.1  Hepatitis B virus isolate dlz1003, complete genome            484      4e-135
+JQ040190.1  Hepatitis B virus isolate 185 PreS protein (S) gene, ...      484      7e-135
+KR014027.1  Hepatitis B virus strain 1303.14, complete genome             484      4e-135
+KJ598708.1  Hepatitis B virus isolate SHB58, complete genome              484      4e-135
+KJ598718.1  Hepatitis B virus isolate SHB5103, complete genome            484      4e-135
+KJ598714.1  Hepatitis B virus isolate SHB520, complete genome             484      4e-135
+KJ598712.1  Hepatitis B virus isolate SHB517, complete genome             484      4e-135
+KJ598719.1  Hepatitis B virus isolate SHB5105, complete genome            484      4e-135
+KJ598709.1  Hepatitis B virus isolate SHB511, complete genome             484      4e-135
+KJ598711.1  Hepatitis B virus isolate SHB515, complete genome             484      4e-135
+KJ598707.1  Hepatitis B virus isolate SHB56, complete genome              484      4e-135
+KJ598715.1  Hepatitis B virus isolate SHB521, complete genome             484      4e-135
+AJ131571.1  Hepatitis B virus complete genome, isolate gib645             484      7e-135
+KJ598706.1  Hepatitis B virus isolate SHB54, complete genome              484      4e-135
+AY236162.1  Hepatitis B virus isolate 23 A, complete genome               483      2e-134
+AJ131568.1  Hepatitis B virus complete genome, isolate gib824             483      2e-134
+DQ399006.1  Hepatitis B virus isolate G1, complete genome                 483      2e-134
+AJ131575.1  Hepatitis B virus complete genome, isolate chimp82            483      2e-134
+DQ304547.1  Hepatitis B virus isolate LT4 clone 1, complete genome        483      2e-134
+JX661480.1  Hepatitis B virus isolate SH1210-B6, complete genome          483      2e-134
+AJ131574.1  Hepatitis B virus complete genome, isolate gib151             483      2e-134
+DQ298162.1  Hepatitis B virus isolate LT3.12AM clone 2, complete ...      481      9e-134
+AB819614.1  HBV genotype B DNA, complete genome, isolate: pBS-HBV...      481      9e-134
+DQ298165.1  Hepatitis B virus isolate LT3.12AM clone 5, complete ...      481      9e-134
+AB819611.1  HBV genotype B DNA, complete genome, isolate: pBS-HBV...      481      9e-134
+AB819613.1  HBV genotype B DNA, complete genome, isolate: pBS-HBV...      481      9e-134
+KM213034.1  Hepatitis B virus isolate LYG-k1, complete genome             481      9e-134
+AB819612.1  HBV genotype B DNA, complete genome, isolate: pBS-HBV...      481      9e-134
+AY208746.1  Human endogenous retrovirus HCML-ARV, complete genome         477      1e-132
+AJ131569.1  Hepatitis B virus complete genome, isolate gib759             477      1e-132
+DQ298164.1  Hepatitis B virus isolate LT3.12AM clone 4, complete ...      475      4e-132
+Y10390.1    Human endogenous retrovirus HERV-K, LTR R and U5 region...    475      3e-132
+JQ040179.1  Hepatitis B virus isolate G202122k PreS protein (S) g...      475      4e-132
+JQ040201.1  Hepatitis B virus isolate G2201 PreS protein (S) gene...      473      1e-131
+DQ304548.1  Hepatitis B virus isolate LT4 clone 2, complete genome        472      5e-131
+AF090841.1  Hepatitis B virus strain G4.27241, complete genome            472      5e-131
+DQ304549.1  Hepatitis B virus isolate LT4 clone 3, complete genome        472      5e-131
+AJ131573.1  Hepatitis B virus complete genome, isolate gib153             472      5e-131
+DQ304551.1  Hepatitis B virus isolate LT4 clone 5, complete genome        472      5e-131
+JQ040203.1  Hepatitis B virus isolate G722c12 PreS protein (S) ge...      470      2e-130
+KF767451.1  Hepatitis B virus isolate patient_27, complete genome         468      7e-130
+JQ040209.1  Hepatitis B virus isolate 243(0313) PreS protein (S) ...      468      7e-130
+JQ040222.1  Hepatitis B virus isolate 2387(0213) PreS protein (S)...      468      7e-130
+JF440007.1  Hepatitis B virus isolate FEN64, complete genome              466      2e-129
+AY236164.1  Hepatitis B virus isolate 30, complete genome                 466      2e-129
+DQ304550.1  Hepatitis B virus isolate LT4 clone 4, complete genome        466      2e-129
+AJ851168.1  Hepatitis B virus partial env gene for envelope prote...      466      2e-129
+AJ851166.1  Hepatitis B virus partial env gene for envelope prote...      466      2e-129
+AM396407.1  Hepatitis B virus strain cpz partial S gene for surfa...      466      2e-129
+MF967563.1  Hepatitis B virus strain AD38, complete genome                466      2e-129
+AY236160.1  Hepatitis B virus isolate 1A, complete genome                 466      2e-129
+AM396402.1  Hepatitis B virus strain cpz partial S gene for surfa...      466      2e-129
+AF090838.1  Hepatitis B virus strain P1.27239, complete genome            466      2e-129
+DQ486022.1  Hepatitis B virus isolate LT11, complete genome               466      2e-129
+JQ040202.1  Hepatitis B virus isolate 2172del PreS protein (S) ge...      462      3e-128
+KF767452.1  Hepatitis B virus isolate patient_7, complete genome          462      3e-128
+JF440009.1  Hepatitis B virus isolate FEN72, complete genome              460      1e-127
+JF440002.1  Hepatitis B virus isolate FEN43, complete genome              460      1e-127
+JF439999.1  Hepatitis B virus isolate FEN36, complete genome              460      1e-127
+JF439997.1  Hepatitis B virus isolate FEN34, complete genome              460      1e-127
+JF439995.1  Hepatitis B virus isolate FEN17, complete genome              460      1e-127
+JF440012.1  Hepatitis B virus isolate FEN82, complete genome              460      1e-127
+AM396406.1  Hepatitis B virus strain cpz partial S gene for surfa...      460      1e-127
+JF440014.1  Hepatitis B virus isolate FEN86, complete genome              460      1e-127
+JF439996.1  Hepatitis B virus isolate FEN31, complete genome              460      1e-127
+JF440011.1  Hepatitis B virus isolate FEN78, complete genome              460      1e-127
+JF440017.1  Hepatitis B virus isolate FOL496, complete genome             460      1e-127
+JF440003.1  Hepatitis B virus isolate FEN44, complete genome              460      1e-127
+AM396403.1  Hepatitis B virus strain cpz partial S gene for surfa...      460      1e-127
+DQ329356.1  Hepatitis B virus isolate LT1 clone 1, complete genome        460      1e-127
+JF440015.1  Hepatitis B virus isolate FEN94, complete genome              460      1e-127
+JF440004.1  Hepatitis B virus isolate FEN52, complete genome              455      5e-126
+JF440000.1  Hepatitis B virus isolate FEN37, complete genome              455      5e-126
+JF439994.1  Hepatitis B virus isolate FEN1, complete genome               455      5e-126
+DQ329357.1  Hepatitis B virus isolate LT1 clone 2, complete genome        455      5e-126
+JF440006.1  Hepatitis B virus isolate FEN60, complete genome              455      5e-126
+JF439998.1  Hepatitis B virus isolate FEN35, complete genome              455      5e-126
+JF440013.1  Hepatitis B virus isolate FEN84, complete genome              455      5e-126
+JF440001.1  Hepatitis B virus isolate FEN42, complete genome              455      5e-126
+AY236163.1  Hepatitis B virus isolate 29, complete genome                 455      5e-126
+JQ040224.1  Hepatitis B virus isolate 2424(0302) PreS protein (S)...      453      2e-125
+JQ040185.1  Hepatitis B virus isolate G200 PreS protein (S) gene,...      453      2e-125
+JQ040206.1  Hepatitis B virus isolate 2613c5_3 PreS protein (S) g...      451      7e-125
+JF440010.1  Hepatitis B virus isolate FEN77, complete genome              449      2e-124
+D12980.1    Hepatitis B virus subtype adr(SRADR) DNA, complete genome     449      2e-124
+JQ040234.1  Hepatitis B virus isolate 3495(0120) nonfunctional Pr...      449      2e-124
+KY355755.1  Hepatitis B virus isolate BR32_45 large S protein (S)...      449      2e-124
+JQ040207.1  Hepatitis B virus isolate 242(0313) PreS protein (S) ...      448      9e-124
+AJ851167.1  Hepatitis B virus partial env gene for envelope prote...      444      1e-122
+JX429913.1  Hepatitis B virus isolate WY-SD-10, complete genome           444      1e-122
+JQ040204.1  Hepatitis B virus isolate 241del PreS protein (S) gen...      442      4e-122
+AF143301.1  Hepatitis B virus clone BW1903, complete genome               440      1e-121
+AF143308.1  Hepatitis B virus clone WB1254, complete genome               440      1e-121
+KJ410508.1  Hepatitis B virus isolate Occult_HK346, complete genome       438      5e-121
+JQ040135.1  Hepatitis B virus isolate 213, complete genome                438      5e-121
+FJ562306.1  Hepatitis B virus isolate I196, complete genome               438      5e-121
+KC774264.1  Hepatitis B virus isolate cww1072, complete genome            438      5e-121
+AY641562.1  Hepatitis B virus isolate He82, complete genome               438      5e-121
+AB111114.1  Hepatitis B virus DNA, complete genome, clone: HS-12          438      5e-121
+Y18856.1    Hepatitis B virus complete genome, isolate HBV-C5             438      5e-121
+GQ227695.1  Hepatitis B virus isolate Z31-5, complete genome              438      5e-121
+GQ227697.1  Hepatitis B virus isolate Z3-2, complete genome               438      5e-121
+AB195939.1  Hepatitis B virus DNA, complete genome, strain: Ehi-Y...      438      5e-121
+GQ227693.1  Hepatitis B virus isolate Z31-1, complete genome              438      5e-121
+GQ259588.1  Hepatitis B virus isolate Z31-22, complete genome             438      5e-121
+JQ040205.1  Hepatitis B virus isolate 391del PreS protein (S) gen...      438      5e-121
+FJ787442.1  Hepatitis B virus isolate S171-4, complete genome             438      5e-121
+AB971715.1  Hepatitis B virus DNA, complete genome, isolate: HB11...      438      5e-121
+KC774338.1  Hepatitis B virus isolate cxn1027, complete genome            438      5e-121
+Y18857.1    Hepatitis B virus complete genome, isolate HBV-C6             438      5e-121
+GQ227694.1  Hepatitis B virus isolate Z31-2, complete genome              438      5e-121
+GQ227696.1  Hepatitis B virus isolate Z31-6, complete genome              438      5e-121
+JX504542.1  Hepatitis B virus isolate WY-NNJ-17, complete genome          438      5e-121
+Y18855.1    Hepatitis B virus complete genome, isolate HBV-C4             438      5e-121
+KY881816.1  Hepatitis B virus isolate patient-02 clone 15, comple...      438      5e-121
+KC774188.1  Hepatitis B virus isolate clz1028, complete genome            438      5e-121
+JQ027322.1  Hepatitis B virus strain HB522, complete genome               436      2e-120
+EU939668.1  Hepatitis B virus isolate C182, complete genome               436      2e-120
+GQ377630.1  Hepatitis B virus isolate J236, complete genome               435      7e-120
+FJ787443.1  Hepatitis B virus isolate S171-5, complete genome             433      2e-119
+GQ377585.1  Hepatitis B virus isolate J134, complete genome               433      2e-119
+KC774342.1  Hepatitis B virus isolate cxn1044, complete genome            433      2e-119
+GQ377593.1  Hepatitis B virus isolate J150, complete genome               433      2e-119
+KC774246.1  Hepatitis B virus isolate cww1014, complete genome            433      2e-119
+KC774329.1  Hepatitis B virus isolate cxa2074, complete genome            433      2e-119
+KY881804.1  Hepatitis B virus isolate patient-02 clone 03, comple...      433      2e-119
+FJ032346.1  Hepatitis B virus isolate S732-3 from China, complete...      433      2e-119
+GQ475349.1  Hepatitis B virus isolate KOR45HCC, complete genome           433      2e-119
+KR014015.1  Hepatitis B virus strain 1134.26a, complete genome            433      2e-119
+GQ872210.1  Hepatitis B virus, complete genome                            433      2e-119
+GQ475336.1  Hepatitis B virus isolate KOR32LC, complete genome            433      2e-119
+FJ032331.1  Hepatitis B virus isolate S193-1 from China, complete...      433      2e-119
+FJ562340.1  Hepatitis B virus isolate I220, complete genome               433      2e-119
+GQ377607.1  Hepatitis B virus isolate J172, complete genome               433      2e-119
+AB642096.1  Hepatitis B virus DNA, complete genome, isolate: BFJT...      433      2e-119
+KC774273.1  Hepatitis B virus isolate cww1117, complete genome            433      2e-119
+KY881805.1  Hepatitis B virus isolate patient-02 clone 04, comple...      433      2e-119
+KJ173311.1  Hepatitis B virus isolate NH005C(e49), complete genome        433      2e-119
+KR013851.1  Hepatitis B virus strain 1303.30, complete genome             433      2e-119
+KC774269.1  Hepatitis B virus isolate cww1086, complete genome            433      2e-119
+FJ562325.1  Hepatitis B virus isolate I223, complete genome               433      2e-119
+KJ173312.1  Hepatitis B virus isolate NH005M(e50), complete genome        433      2e-119
+JX026887.1  Hepatitis B virus isolate WY-NJ-79, complete genome           433      2e-119
+FJ386621.1  Hepatitis B virus isolate 2123, complete genome               433      2e-119
+JQ040153.1  Hepatitis B virus isolate G177, complete genome               433      2e-119
+AB642100.1  Hepatitis B virus DNA, complete genome, isolate: BFJT...      433      2e-119
+KC774348.1  Hepatitis B virus isolate cxn1093, complete genome            433      2e-119
+AB367411.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      433      2e-119
+AB367415.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      433      2e-119
+KR014012.1  Hepatitis B virus strain 1134.21a, complete genome            433      2e-119
+FJ562221.1  Hepatitis B virus isolate I13, complete genome                433      2e-119
+KR014030.1  Hepatitis B virus strain 1303.29, complete genome             433      2e-119
+GQ872211.1  Hepatitis B virus, complete genome                            433      2e-119
+GQ475339.1  Hepatitis B virus isolate KOR35HCC, complete genome           433      2e-119
+GQ227692.1  Hepatitis B virus isolate Z3-1, complete genome               433      2e-119
+FJ787469.1  Hepatitis B virus isolate S1426-3, complete genome            433      2e-119
+KY355756.1  Hepatitis B virus isolate BR32_27 large S protein (S)...      433      2e-119
+KC774229.1  Hepatitis B virus isolate cur1024, complete genome            433      2e-119
+FJ899780.1  Hepatitis B virus isolate C185-2, complete genome             433      2e-119
+M87812.1    Bovine viral diarrhea virus mRNA sequence                     427      3e-117
+KY094066.1  BeAn 58058 virus, complete genome                             418      5e-115
+KC774394.1  Hepatitis B virus isolate bxa1070, complete genome            416      1e-114
+KC774449.1  Hepatitis B virus isolate dww1071, complete genome            416      1e-114
+KR014095.1  Hepatitis B virus strain #1958.13, complete genome            416      1e-114
+KR014018.1  Hepatitis B virus strain 1134.8, complete genome              416      1e-114
+KR014016.1  Hepatitis B virus strain 1134.4b, complete genome             416      1e-114
+KJ803763.1  Hepatitis B virus isolate MY790800, complete genome           416      1e-114
+GQ475323.1  Hepatitis B virus isolate KOR19LC, complete genome            416      1e-114
+AB368297.1  Hepatitis B virus DNA, complete genome, Genotype C, S...      416      1e-114
+LC064370.1  HBV genotype B DNA, complete genome, isolate: 298-Viet13      416      1e-114
+KC774408.1  Hepatitis B virus isolate bxa2012, complete genome            416      1e-114
+MF674477.1  Hepatitis B virus isolate VN04A0023, complete genome          416      1e-114
+MF674447.1  Hepatitis B virus isolate HBV050057, complete genome          416      1e-114
+DQ536412.1  Hepatitis B virus isolate JeF339 clone JeF339U-2, com...      416      1e-114
+MF674480.1  Hepatitis B virus isolate VN04A0313, complete genome          416      1e-114
+EU872002.1  Hepatitis B virus isolate 530-97-1, complete genome           416      1e-114
+KR014011.1  Hepatitis B virus strain 1134.20a, complete genome            416      1e-114
+KR014013.1  Hepatitis B virus strain 1134.24a, complete genome            416      1e-114
+KR014009.1  Hepatitis B virus strain 1134.1b, complete genome             416      1e-114
+EU916207.1  Hepatitis B virus isolate S2.1, complete genome               416      1e-114
+JF491449.1  Hepatitis B virus isolate QH-32, complete genome              416      1e-114
+JF491451.1  Hepatitis B virus isolate QH-35, complete genome              416      1e-114
+EU916230.1  Hepatitis B virus isolate S8.1, complete genome               416      1e-114
+KJ173325.1  Hepatitis B virus isolate P004-C(012), complete genome        416      1e-114
+KC774254.1  Hepatitis B virus isolate cww1046, complete genome            416      1e-114
+FJ349241.1  Hepatitis B virus isolate C115, complete genome               416      1e-114
+AB367398.1  Hepatitis B virus DNA, complete genome, isolate: LAMr...      416      1e-114
+FJ386626.1  Hepatitis B virus isolate 2205, complete genome               416      1e-114
+KR014017.1  Hepatitis B virus strain 1134.7, complete genome              416      1e-114
+KC774470.1  Hepatitis B virus isolate dxn1017, complete genome            416      1e-114
+FJ899773.1  Hepatitis B virus isolate C113-6, complete genome             416      1e-114
+KF214678.1  Hepatitis B virus isolate IND-1963-9, partial genome          416      1e-114
+GQ377571.1  Hepatitis B virus isolate J112, complete genome               416      1e-114
+EU678475.1  Hepatitis B virus isolate S6, complete genome                 416      1e-114
+EU872003.1  Hepatitis B virus isolate 530-97-2, complete genome           416      1e-114
+EU916208.1  Hepatitis B virus isolate S2.2, complete genome               416      1e-114
+AF461357.1  Hepatitis B virus isolate FH5, complete genome                416      1e-114
+KC774284.1  Hepatitis B virus isolate cxa1065, complete genome            416      1e-114
+EU939602.1  Hepatitis B virus isolate C179, complete genome               416      1e-114
+DQ922651.1  Hepatitis B virus strain F0691, complete genome               416      1e-114
+KC774454.1  Hepatitis B virus isolate dww1087, complete genome            416      1e-114
+MF674493.1  Hepatitis B virus isolate VN05T0131, complete genome          416      1e-114
+KC774399.1  Hepatitis B virus isolate bxa1556, complete genome            416      1e-114
+JF491452.1  Hepatitis B virus isolate QH-53, complete genome              416      1e-114
+MF674383.1  Hepatitis B virus isolate HBV040005, complete genome          416      1e-114
+KJ173326.1  Hepatitis B virus isolate P004-M(014), complete genome        416      1e-114
+KF485389.1  Hepatitis B virus isolate FF7, complete genome                416      1e-114
+KJ803764.1  Hepatitis B virus isolate MY043147, complete genome           416      1e-114
+AY641561.1  Hepatitis B virus isolate He127, complete genome              416      1e-114
+KR013977.1  Hepatitis B virus strain 551.33, complete genome              416      1e-114
+EU939581.1  Hepatitis B virus isolate B16, complete genome                416      1e-114
+KC774409.1  Hepatitis B virus isolate bxa2013, complete genome            416      1e-114
+KC774350.1  Hepatitis B virus isolate cyc1020, complete genome            416      1e-114
+KX660676.1  Hepatitis B virus isolate TibetAli-4, complete genome         416      1e-114
+JQ040163.1  Hepatitis B virus isolate G217, complete genome               416      1e-114
+KR014014.1  Hepatitis B virus strain 1134.25a, complete genome            416      1e-114
+AB042282.1  Hepatitis B virus DNA, complete genome, isolate:NSS-1         416      1e-114
+KC774452.1  Hepatitis B virus isolate dww1080, complete genome            416      1e-114
+MF674437.1  Hepatitis B virus isolate HBV050008, complete genome          416      1e-114
+MF674455.1  Hepatitis B virus isolate HBV050077, complete genome          416      1e-114
+KR014010.1  Hepatitis B virus strain 1134.2, complete genome              416      1e-114
+DQ536410.1  Hepatitis B virus isolate JeF339 clone JeF339U-3, com...      416      1e-114
+GQ377578.1  Hepatitis B virus isolate J125, complete genome               416      1e-114
+JF491450.1  Hepatitis B virus isolate QH-33, complete genome              416      1e-114
+MF674404.1  Hepatitis B virus isolate HBV040037, complete genome          416      1e-114
+MF674400.1  Hepatitis B virus isolate HBV040031, complete genome          416      1e-114
+EU939641.1  Hepatitis B virus isolate D18, complete genome                414      5e-114
+MF674414.1  Hepatitis B virus isolate HBV040060, complete genome          412      2e-113
+GQ924606.1  Hepatitis B virus isolate M12, complete genome                412      2e-113
+KX660680.1  Hepatitis B virus isolate TibetAli-2, complete genome         412      2e-113
+KX660674.1  Hepatitis B virus isolate TibetAli-1, complete genome         412      2e-113
+EU522068.1  Hepatitis B virus isolate patient 5N, complete genome         412      2e-113
+KC774455.1  Hepatitis B virus isolate dww1100, complete genome            411      6e-113
+KC774360.1  Hepatitis B virus isolate cyc1105, complete genome            411      6e-113
+KC774398.1  Hepatitis B virus isolate bxa1202, complete genome            411      6e-113
+MF674482.1  Hepatitis B virus isolate VN04A0321, complete genome          411      6e-113
+KC774364.1  Hepatitis B virus isolate blz2088, complete genome            411      6e-113
+MF674490.1  Hepatitis B virus isolate VN05A0515, complete genome          411      6e-113
+KC774465.1  Hepatitis B virus isolate dxn1003, complete genome            411      6e-113
+MF674511.1  Hepatitis B virus isolate VN05T0240, complete genome          411      6e-113
+KJ803761.1  Hepatitis B virus isolate MY761182, complete genome           411      6e-113
+KR184665.1  Hepatitis B virus isolate SS_9_43, complete genome            411      6e-113
+MF674449.1  Hepatitis B virus isolate HBV050060, complete genome          411      6e-113
+KY470958.1  Hepatitis B virus isolate LYL-D5, complete genome             411      6e-113
+KJ803759.1  Hepatitis B virus isolate MY114622, complete genome           411      6e-113
+KY470906.1  Hepatitis B virus isolate 7-10, complete genome               411      6e-113
+MF674479.1  Hepatitis B virus isolate VN04A0296, complete genome          411      6e-113
+KJ410517.1  Hepatitis B virus isolate Occult_HK4901, complete genome      411      6e-113
+MF674453.1  Hepatitis B virus isolate HBV050074, complete genome          411      6e-113
+KJ173414.1  Hepatitis B virus isolate N16_C(FY137B), complete genome      411      6e-113
+KJ173399.1  Hepatitis B virus isolate N07-M(4161A), complete genome       411      6e-113
+KP276255.1  Hepatitis B virus isolate Tibet-1888, complete genome         411      6e-113
+KR013970.1  Hepatitis B virus strain 551.11, complete genome              411      6e-113
+KR013833.1  Hepatitis B virus strain 1149.8, complete genome              411      6e-113
+KP017268.1  Hepatitis B virus isolate CH-01, complete genome              411      6e-113
+KC774293.1  Hepatitis B virus isolate cxa1204, complete genome            411      6e-113
+KP017266.1  Hepatitis B virus isolate IN-01, complete genome              411      6e-113
+MF674416.1  Hepatitis B virus isolate HBV040063, complete genome          411      6e-113
+KC774457.1  Hepatitis B virus isolate dww1105, complete genome            411      6e-113
+LC064375.1  HBV genotype B DNA, complete genome, isolate: 446-Viet12      411      6e-113
+MF674426.1  Hepatitis B virus isolate HBV040083, complete genome          411      6e-113
+MF674424.1  Hepatitis B virus isolate HBV040080, complete genome          411      6e-113
+KY470963.1  Hepatitis B virus isolate LYL-F3, complete genome             411      6e-113
+KP341013.1  Hepatitis B virus isolate bba12, complete genome              411      6e-113
+MF674410.1  Hepatitis B virus isolate HBV040048, complete genome          411      6e-113
+KR013933.1  Hepatitis B virus strain 468.2, complete genome               411      6e-113
+KJ598702.1  Hepatitis B virus isolate SSC133, complete genome             411      6e-113
+KJ173431.1  Hepatitis B virus isolate N04-M(158A), complete genome        411      6e-113
+MF674509.1  Hepatitis B virus isolate VN05T0226, complete genome          411      6e-113
+MF674382.1  Hepatitis B virus isolate HBV040003, complete genome          411      6e-113
+KJ173401.1  Hepatitis B virus isolate N09-M(6720A), complete genome       411      6e-113
+KY629631.1  Hepatitis B virus isolate TYM03015, complete genome           411      6e-113
+KT991422.1  Hepatitis B virus isolate I137-7, complete genome             411      6e-113
+KR184661.1  Hepatitis B virus isolate SS_4_7, complete genome             411      6e-113
+KJ410507.1  Hepatitis B virus isolate Occult_HK6840, complete genome      411      6e-113
+KR013974.1  Hepatitis B virus strain 551.25, complete genome              411      6e-113
+LC063767.1  HBV genotype B DNA, complete genome, isolate: 3770-Vi...      411      6e-113
+MF674407.1  Hepatitis B virus isolate HBV040043, complete genome          411      6e-113
+KC774446.1  Hepatitis B virus isolate dww1054, complete genome            411      6e-113
+KJ173388.1  Hepatitis B virus isolate Vac03-C(m608), complete genome      411      6e-113
+KR014088.1  Hepatitis B virus strain 1491.16, complete genome             411      6e-113
+KR152339.1  Hepatitis B virus strain HBV6, complete genome                411      6e-113
+MF674495.1  Hepatitis B virus isolate VN05T0139, complete genome          411      6e-113
+KY470916.1  Hepatitis B virus isolate 7-6, complete genome                411      6e-113
+KY470910.1  Hepatitis B virus isolate 7-20, complete genome               411      6e-113
+MF674485.1  Hepatitis B virus isolate VN04A0438, complete genome          411      6e-113
+KR014086.1  Hepatitis B virus strain 1491.13, complete genome             411      6e-113
+KX660677.1  Hepatitis B virus isolate TibetAli-5, complete genome         411      6e-113
+MF674510.1  Hepatitis B virus isolate VN05T0230, complete genome          411      6e-113
+KX660679.1  Hepatitis B virus isolate TibetShannan-2, complete ge...      411      6e-113
+KY470914.1  Hepatitis B virus isolate 7-3, complete genome                411      6e-113
+KR013978.1  Hepatitis B virus strain 551.5, complete genome               411      6e-113
+KJ803804.1  Hepatitis B virus isolate MY590465, complete genome           411      6e-113
+KR014019.1  Hepatitis B virus strain 1149.1, complete genome              411      6e-113
+KJ803756.1  Hepatitis B virus isolate MY727495, complete genome           411      6e-113
+KR014067.1  Hepatitis B virus strain 1463.13, complete genome             411      6e-113
+KP341009.1  Hepatitis B virus isolate bba8, complete genome               411      6e-113
+KJ803778.1  Hepatitis B virus isolate MY753983, complete genome           411      6e-113
+KJ803766.1  Hepatitis B virus isolate MY5113, complete genome             411      6e-113
+KY470959.1  Hepatitis B virus isolate LYL-E06, complete genome            411      6e-113
+KX660681.1  Hepatitis B virus isolate TibetShannan-3, complete ge...      411      6e-113
+KJ803782.1  Hepatitis B virus isolate MY34118, complete genome            411      6e-113
+KX276851.1  Hepatitis B virus strain CH080, complete genome               411      6e-113
+MF674438.1  Hepatitis B virus isolate HBV050023, complete genome          411      6e-113
+KJ410516.1  Hepatitis B virus isolate Occult_HK4777, complete genome      411      6e-113
+MF674460.1  Hepatitis B virus isolate HBV050083, complete genome          411      6e-113
+KJ173409.1  Hepatitis B virus isolate N14-M(6692A), complete genome       411      6e-113
+KY470957.1  Hepatitis B virus isolate LYL-D4, complete genome             411      6e-113
+MF674462.1  Hepatitis B virus isolate HBV050085, complete genome          411      6e-113
+KY470953.1  Hepatitis B virus isolate LYL-2-1, complete genome            411      6e-113
+MF674432.1  Hepatitis B virus isolate HBV040093, complete genome          411      6e-113
+KJ173405.1  Hepatitis B virus isolate N11-M(6642A), complete genome       411      6e-113
+KC774382.1  Hepatitis B virus isolate bww1063, complete genome            411      6e-113
+MF925401.1  Hepatitis B virus isolate BD-HBV47, complete genome           411      6e-113
+KR014026.1  Hepatitis B virus strain 1263.6, complete genome              411      6e-113
+KP276256.1  Hepatitis B virus isolate Tibet-1925, complete genome         411      6e-113
+KR014008.1  Hepatitis B virus strain 1134.12, complete genome             411      6e-113
+KY470964.1  Hepatitis B virus isolate LYL-F5, complete genome             411      6e-113
+KJ173425.1  Hepatitis B virus isolate N205C(e410), complete genome        411      6e-113
+KY470962.1  Hepatitis B virus isolate LYL-F10, complete genome            411      6e-113
+KM392076.1  Hepatitis B virus isolate V20, complete genome                411      6e-113
+KJ410496.1  Hepatitis B virus isolate HK1095, complete genome             411      6e-113
+KP341012.1  Hepatitis B virus isolate bba11, complete genome              411      6e-113
+MF674413.1  Hepatitis B virus isolate HBV040058, complete genome          411      6e-113
+MF674401.1  Hepatitis B virus isolate HBV040033, complete genome          411      6e-113
+HQ700546.1  Hepatitis B virus isolate BC_NC_AM263, complete genome        411      6e-113
+MF674512.1  Hepatitis B virus isolate VN05T0250, complete genome          411      6e-113
+MF674387.1  Hepatitis B virus isolate HBV040013, complete genome          411      6e-113
+KJ173422.1  Hepatitis B virus isolate N204M(e407), complete genome        411      6e-113
+MF674395.1  Hepatitis B virus isolate HBV040026, complete genome          411      6e-113
+KJ173424.1  Hepatitis B virus isolate N205M(e409), complete genome        411      6e-113
+MF674397.1  Hepatitis B virus isolate HBV040028, complete genome          411      6e-113
+KJ803787.1  Hepatitis B virus isolate MY853571, complete genome           411      6e-113
+MF674431.1  Hepatitis B virus isolate HBV040090, complete genome          411      6e-113
+KR013843.1  Hepatitis B virus strain 1263.14, complete genome             411      6e-113
+KR013802.1  Hepatitis B virus strain 574.1, complete genome               411      6e-113
+MF674421.1  Hepatitis B virus isolate HBV040075, complete genome          411      6e-113
+KY470912.1  Hepatitis B virus isolate 7-23, complete genome               411      6e-113
+KR184662.1  Hepatitis B virus isolate SS_4_15, complete genome            411      6e-113
+MF674500.1  Hepatitis B virus isolate VN05T0168, complete genome          411      6e-113
+KT991421.1  Hepatitis B virus isolate I137-6, complete genome             411      6e-113
+KR184660.1  Hepatitis B virus isolate SS_3_22, complete genome            411      6e-113
+KR014098.1  Hepatitis B virus strain #1958.3, complete genome             411      6e-113
+KC774277.1  Hepatitis B virus isolate cww2151, complete genome            411      6e-113
+MF674408.1  Hepatitis B virus isolate HBV040044, complete genome          411      6e-113
+KJ598693.1  Hepatitis B virus isolate SSC114, complete genome             411      6e-113
+KR014053.1  Hepatitis B virus strain 1368.48, complete genome             411      6e-113
+KC774370.1  Hepatitis B virus isolate bur1014, complete genome            411      6e-113
+KX660689.1  Hepatitis B virus isolate TibetRikaze-5, complete genome      411      6e-113
+KC774376.1  Hepatitis B virus isolate bur1056, complete genome            411      6e-113
+KY470919.1  Hepatitis B virus isolate 7-G07, complete genome              411      6e-113
+KJ173389.1  Hepatitis B virus isolate Vac05-M(m617), complete genome      411      6e-113
+KY470909.1  Hepatitis B virus isolate 7-18, complete genome               411      6e-113
+KY470915.1  Hepatitis B virus isolate 7-5, complete genome                411      6e-113
+KT284758.1  Hepatitis B virus isolate 303, complete genome                411      6e-113
+MF674488.1  Hepatitis B virus isolate VN05A0034, complete genome          411      6e-113
+KR013955.1  Hepatitis B virus strain 513.2, complete genome               411      6e-113
+KM392081.1  Hepatitis B virus isolate V36, complete genome                411      6e-113
+MF674452.1  Hepatitis B virus isolate HBV050071, complete genome          411      6e-113
+KC774413.1  Hepatitis B virus isolate bxa2037, complete genome            411      6e-113
+KC774411.1  Hepatitis B virus isolate bxa2025, complete genome            411      6e-113
+KC774403.1  Hepatitis B virus isolate bxa2001, complete genome            411      6e-113
+KJ803781.1  Hepatitis B virus isolate MY799421, complete genome           411      6e-113
+KC774292.1  Hepatitis B virus isolate cxa1196, complete genome            411      6e-113
+MF674427.1  Hepatitis B virus isolate HBV040084, complete genome          411      6e-113
+MF674393.1  Hepatitis B virus isolate HBV040024, complete genome          411      6e-113
+KR013895.1  Hepatitis B virus strain 258.19a, complete genome             411      6e-113
+KJ598703.1  Hepatitis B virus isolate SSC137, complete genome             411      6e-113
+MF674429.1  Hepatitis B virus isolate HBV040086, complete genome          411      6e-113
+KC774404.1  Hepatitis B virus isolate bxa2004, complete genome            411      6e-113
+KJ803817.1  Hepatitis B virus isolate MY241913, complete genome           411      6e-113
+KM392073.1  Hepatitis B virus isolate V14, complete genome                411      6e-113
+HQ700549.1  Hepatitis B virus isolate I_WA1098A, complete genome          411      6e-113
+FR714500.1  Hepatitis B virus complete genome, isolate TX164, X/C...      407      8e-112
+HQ700532.1  Hepatitis B virus isolate C_PNG_T114_1994, complete g...      407      8e-112
+KU679941.1  Hepatitis B virus isolate 087_WA_Jab, complete genome         407      8e-112
+KF873523.1  Hepatitis B virus isolate 055_WA_Oen, complete genome         407      8e-112
+KF425557.1  Hepatitis B virus isolate M-5, complete genome                407      8e-112
+KC774330.1  Hepatitis B virus isolate cxa2075, complete genome            407      8e-112
+KY471006.1  Hepatitis B virus isolate lmx-7, complete genome              407      8e-112
+KY471004.1  Hepatitis B virus isolate lmx-14, complete genome             407      8e-112
+GQ377609.1  Hepatitis B virus isolate J176, complete genome               407      8e-112
+HQ700531.1  Hepatitis B virus isolate C_PNG_T107_1994, complete g...      407      8e-112
+FR714490.1  Hepatitis B virus complete genome, isolate DL706, X/C...      407      8e-112
+FJ562226.1  Hepatitis B virus isolate I20, complete genome                407      8e-112
+KF873522.1  Hepatitis B virus isolate 015_WA_Gou, complete genome         407      8e-112
+FR714502.1  Hepatitis B virus complete genome, isolate TZ087, X/C...      407      8e-112
+KF425556.1  Hepatitis B virus isolate M-4, complete genome                407      8e-112
+KY470997.1  Hepatitis B virus isolate LMX-C4, complete genome             407      8e-112
+GU357844.1  Hepatitis B virus isolate W29, complete genome                407      8e-112
+AF241409.1  Hepatitis B virus isolate 6871, complete genome               407      8e-112
+KF425554.1  Hepatitis B virus isolate M-2, complete genome                407      8e-112
+KF873524.1  Hepatitis B virus isolate 039_WA_Oen, complete genome         407      8e-112
+KY471007.1  Hepatitis B virus isolate lmx-1, complete genome              407      8e-112
+KY471003.1  Hepatitis B virus isolate lmx-15, complete genome             407      8e-112
+KY471005.1  Hepatitis B virus isolate lmx-11, complete genome             407      8e-112
+KF425553.1  Hepatitis B virus isolate M-1, complete genome                405      3e-111
+KY471000.1  Hepatitis B virus isolate LMX-6, complete genome              401      4e-110
+KY471002.1  Hepatitis B virus isolate lmx-6-1, complete genome            401      4e-110
+GQ377529.1  Hepatitis B virus isolate J34, complete genome                401      4e-110
+KC774482.1  Hepatitis B virus isolate dxn1043, complete genome            401      4e-110
+EU939640.1  Hepatitis B virus isolate C239, complete genome               401      4e-110
+KC774296.1  Hepatitis B virus isolate cxa1210, complete genome            401      4e-110
+HQ231878.1  Hepatitis B virus isolate B3-2, complete genome               401      4e-110
+KR013909.1  Hepatitis B virus strain 327.3, complete genome               401      4e-110
+KR013776.1  Hepatitis B virus strain 327.7, complete genome               401      4e-110
+HQ700518.1  Hepatitis B virus isolate C_PNG_D071A_2005, complete ...      401      4e-110
+FJ023664.1  Hepatitis B virus isolate I2_M04-0026, complete genome        401      4e-110
+KY470993.1  Hepatitis B virus isolate LMX-2, complete genome              401      4e-110
+KY470999.1  Hepatitis B virus isolate LMX4-7, complete genome             401      4e-110
+FR714498.1  Hepatitis B virus complete genome, isolate QQB36, X/C...      401      4e-110
+KC774285.1  Hepatitis B virus isolate cxa1067, complete genome            401      4e-110
+FR714496.1  Hepatitis B virus complete genome, isolate QL523, X/C...      401      4e-110
+KC774207.1  Hepatitis B virus isolate clz2084, complete genome            401      4e-110
+KC774304.1  Hepatitis B virus isolate cxa1662, complete genome            401      4e-110
+KJ598752.1  Hepatitis B virus isolate SHB720, complete genome             401      4e-110
+FR714503.1  Hepatitis B virus complete genome, isolate TZ306, X/C...      401      4e-110
+KC172106.1  Hepatitis B virus isolate BTO3048, complete genome            401      4e-110
+FJ023668.1  Hepatitis B virus isolate I2_M04-3223, complete genome        401      4e-110
+KF214667.1  Hepatitis B virus isolate IND-2009-19, complete genome        401      4e-110
+GQ377620.1  Hepatitis B virus isolate J197, complete genome               401      4e-110
+KC774351.1  Hepatitis B virus isolate cyc1031, complete genome            401      4e-110
+KF425555.1  Hepatitis B virus isolate M-3, complete genome                401      4e-110
+KC774291.1  Hepatitis B virus isolate cxa1194, complete genome            401      4e-110
+FR714506.1  Hepatitis B virus complete genome, isolate YL204, X/C...      401      4e-110
+FR714493.1  Hepatitis B virus complete genome, isolate NA167, X/C...      401      4e-110
+FJ023671.1  Hepatitis B virus isolate I2_M04-3733, complete genome        401      4e-110
+FJ023673.1  Hepatitis B virus isolate I2_M04-4997, complete genome        401      4e-110
+KR013775.1  Hepatitis B virus strain 327.6, complete genome               401      4e-110
+KY470994.1  Hepatitis B virus isolate lmx-5-1, complete genome            401      4e-110
+KC774306.1  Hepatitis B virus isolate cxa2006, complete genome            401      4e-110
+KC774271.1  Hepatitis B virus isolate cww1094, complete genome            401      4e-110
+KR013907.1  Hepatitis B virus strain 327.11, complete genome              401      4e-110
+HQ231882.1  Hepatitis B virus isolate B3-7, complete genome               401      4e-110
+HQ231880.1  Hepatitis B virus isolate B3-5, complete genome               401      4e-110
+AB111117.1  Hepatitis B virus DNA, complete genome, clone: K5-13          401      4e-110
+KJ598697.1  Hepatitis B virus isolate SSC123, complete genome             401      4e-110
+AB644281.1  HBV genotype C DNA, complete genome, isolate: NAB9            401      4e-110
+KR013832.1  Hepatitis B virus strain 1149.5, complete genome              401      4e-110
+FR714499.1  Hepatitis B virus complete genome, isolate TF051, X/C...      401      4e-110
+FR714495.1  Hepatitis B virus complete genome, isolate QB062, X/C...      401      4e-110
+KC774298.1  Hepatitis B virus isolate cxa1586, complete genome            401      4e-110
+FR714497.1  Hepatitis B virus complete genome, isolate QP046, X/C...      401      4e-110
+KY470995.1  Hepatitis B virus isolate lmx-18, complete genome             401      4e-110
+EU939626.1  Hepatitis B virus isolate D158, complete genome               401      4e-110
+KY471001.1  Hepatitis B virus isolate lmx-7-1, complete genome            401      4e-110
+FJ023667.1  Hepatitis B virus isolate I2_M04-2742, complete genome        401      4e-110
+FJ562319.1  Hepatitis B virus isolate I212, complete genome               401      4e-110
+KR013773.1  Hepatitis B virus strain 327.2, complete genome               401      4e-110
+KT364752.1  Hepatitis B virus isolate HN-44, complete genome              401      4e-110
+HQ231879.1  Hepatitis B virus isolate B3-4, complete genome               401      4e-110
+HQ231885.1  Hepatitis B virus isolate B3-10, complete genome              401      4e-110
+KX660687.1  Hepatitis B virus isolate TibetRikaze-2, complete genome      401      4e-110
+FJ386623.1  Hepatitis B virus isolate 2165, complete genome               401      4e-110
+KJ173298.1  Hepatitis B virus isolate FH008M(e47), complete genome        401      4e-110
+HQ231884.1  Hepatitis B virus isolate B3-9, complete genome               401      4e-110
+KC774280.1  Hepatitis B virus isolate cxa1053, complete genome            401      4e-110
+FJ023670.1  Hepatitis B virus isolate I2_M04-3724, complete genome        401      4e-110
+FJ023672.1  Hepatitis B virus isolate I2_M04-2305, complete genome        401      4e-110
+KC774307.1  Hepatitis B virus isolate cxa2016, complete genome            401      4e-110
+KY470998.1  Hepatitis B virus isolate lmx-9-1, complete genome            401      4e-110
+HQ231883.1  Hepatitis B virus isolate B3-8, complete genome               401      4e-110
+AB560662.1  HBV genotype C DNA, complete genome, isolate: 60PU            401      4e-110
+HQ231881.1  Hepatitis B virus isolate B3-6, complete genome               401      4e-110
+AB111116.1  Hepatitis B virus DNA, complete genome, clone: K5-7           401      4e-110
+HQ231877.1  Hepatitis B virus isolate B3-1, complete genome               401      4e-110
+KY470992.1  Hepatitis B virus isolate LMX-5, complete genome              401      4e-110
+DQ890380.1  Hepatitis B virus strain S40D, complete genome                401      4e-110
+AB300373.1  Hepatitis B virus DNA, complete genome, isolate: pati...      398      5e-109
+LC064754.1  HBV genotype C DNA, complete genome, isolate: BRJT201...      396      2e-108
+KY470905.1  Hepatitis B virus isolate 24-D12, complete genome             396      2e-108
+KT991428.1  Hepatitis B virus isolate I113-10, complete genome            396      2e-108
+KU519423.1  Hepatitis B virus isolate TibetLinzhi-2, complete genome      396      2e-108
+HQ700516.1  Hepatitis B virus isolate C_PNG_D029_2005, complete g...      396      2e-108
+FJ787468.1  Hepatitis B virus isolate S1426-1, complete genome            396      2e-108
+JF899337.1  Hepatitis B virus isolate 10B4, complete genome               396      2e-108
+JQ040129.1  Hepatitis B virus isolate 88, complete genome                 396      2e-108
+KR013816.1  Hepatitis B virus strain 580.8a, complete genome              396      2e-108
+KC774333.1  Hepatitis B virus isolate cxn1006, complete genome            396      2e-108
+FJ787480.1  Hepatitis B virus isolate S425-16, complete genome            396      2e-108
+KR184663.1  Hepatitis B virus isolate SS_4_19, complete genome            396      2e-108
+FJ899764.1  Hepatitis B virus isolate C9-12, complete genome              396      2e-108
+KR014044.1  Hepatitis B virus strain 1368.2, complete genome              396      2e-108
+AB562463.1  Hepatitis B virus DNA, complete genome, isolate: HPC0...      396      2e-108
+GQ475351.1  Hepatitis B virus isolate KOR47HCC, complete genome           396      2e-108
+KC774248.1  Hepatitis B virus isolate cww1026, complete genome            396      2e-108
+KX660682.1  Hepatitis B virus isolate TibetLahsa, complete genome         396      2e-108
+KY470900.1  Hepatitis B virus isolate 24-C2, complete genome              396      2e-108
+HM750139.1  Hepatitis B virus isolate GSD-17, complete genome             396      2e-108
+KC774347.1  Hepatitis B virus isolate cxn1092, complete genome            396      2e-108
+KY470902.1  Hepatitis B virus isolate 24-D05, complete genome             396      2e-108
+HM750145.1  Hepatitis B virus isolate Tibet-18, complete genome           396      2e-108
+KR013811.1  Hepatitis B virus strain 580.1a, complete genome              396      2e-108
+JQ040168.1  Hepatitis B virus isolate G233, complete genome               396      2e-108
+AB644286.1  HBV genotype C DNA, complete genome, isolate: NAB47           396      2e-108
+JF828911.1  Hepatitis B virus isolate ES69-9, complete genome             396      2e-108
+GQ475318.1  Hepatitis B virus isolate KOR14CHB, complete genome           396      2e-108
+GQ475332.1  Hepatitis B virus isolate KOR28LC, complete genome            396      2e-108
+KR013810.1  Hepatitis B virus strain 580.11a, complete genome             396      2e-108
+KY470860.1  Hepatitis B virus isolate 2-A12, complete genome              396      2e-108
+AB697494.1  Hepatitis B virus DNA, complete genome, isolate: No9          396      2e-108
+KJ173300.1  Hepatitis B virus isolate HS005M(e23), complete genome        396      2e-108
+KR013905.1  Hepatitis B virus strain 274.7, complete genome               396      2e-108
+KU679958.1  Hepatitis B virus isolate 125_WA_War, complete genome         396      2e-108
+KC774197.1  Hepatitis B virus isolate clz2035, complete genome            396      2e-108
+FR714492.1  Hepatitis B virus complete genome, isolate GY235, X/C...      396      2e-108
+JQ040131.1  Hepatitis B virus isolate 125, complete genome                396      2e-108
+JF491447.1  Hepatitis B virus isolate QH-13, complete genome              396      2e-108
+JX504541.1  Hepatitis B virus isolate WY-NNJ-14, complete genome          396      2e-108
+GQ377636.1  Hepatitis B virus isolate J248, complete genome               396      2e-108
+KY470859.1  Hepatitis B virus isolate 2-A08, complete genome              396      2e-108
+KC774290.1  Hepatitis B virus isolate cxa1183, complete genome            396      2e-108
+KY470857.1  Hepatitis B virus isolate 2-22, complete genome               396      2e-108
+KT364751.1  Hepatitis B virus isolate HN-47, complete genome              396      2e-108
+KJ410515.1  Hepatitis B virus isolate Occult_HK319, complete genome       396      2e-108
+KJ173337.1  Hepatitis B virus isolate YY028C(e133), complete genome       396      2e-108
+KJ173319.1  Hepatitis B virus isolate NH29C(e40), complete genome         396      2e-108
+KR014058.1  Hepatitis B virus strain 1385.5, complete genome              396      2e-108
+KJ173315.1  Hepatitis B virus isolate NH017C(e36), complete genome        396      2e-108
+KJ173313.1  Hepatitis B virus isolate NH006C(e34), complete genome        396      2e-108
+HQ700506.1  Hepatitis B virus isolate C_NC_TA32_2003, complete ge...      396      2e-108
+KJ173309.1  Hepatitis B virus isolate NB045C(m46), complete genome        396      2e-108
+KC774359.1  Hepatitis B virus isolate cyc1099, complete genome            396      2e-108
+LC064755.1  HBV genotype C DNA, complete genome, isolate: BRJT201...      396      2e-108
+JQ040160.1  Hepatitis B virus isolate G211, complete genome               396      2e-108
+KR014052.1  Hepatitis B virus strain 1368.46, complete genome             396      2e-108
+KX660688.1  Hepatitis B virus isolate TibetRikaze-3, complete genome      396      2e-108
+KY470904.1  Hepatitis B virus isolate 24-D07, complete genome             396      2e-108
+KR013859.1  Hepatitis B virus strain 1385.1, complete genome              396      2e-108
+KY470899.1  Hepatitis B virus isolate 24-C10, complete genome             396      2e-108
+KC774357.1  Hepatitis B virus isolate cyc1081, complete genome            396      2e-108
+KY470897.1  Hepatitis B virus isolate 24-C04, complete genome             396      2e-108
+FR714504.1  Hepatitis B virus complete genome, isolate WL339, X/C...      396      2e-108
+JF828923.1  Hepatitis B virus isolate ES71-3, complete genome             396      2e-108
+KC774281.1  Hepatitis B virus isolate cxa1058, complete genome            396      2e-108
+JF828907.1  Hepatitis B virus isolate ES69-3, complete genome             396      2e-108
+GQ377618.1  Hepatitis B virus isolate J194, complete genome               396      2e-108
+KR184664.1  Hepatitis B virus isolate SS_7_5, complete genome             396      2e-108
+MF925408.1  Hepatitis B virus isolate BD-HBV55, complete genome           396      2e-108
+JF828909.1  Hepatitis B virus isolate ES69-7, complete genome             396      2e-108
+KF214674.1  Hepatitis B virus isolate IND-2010-21, complete genome        396      2e-108
+AB562462.1  Hepatitis B virus DNA, complete genome, isolate: HPA1...      396      2e-108
+HM750148.1  Hepatitis B virus isolate Tibet-37, complete genome           396      2e-108
+KC774300.1  Hepatitis B virus isolate cxa1602, complete genome            396      2e-108
+KR013985.1  Hepatitis B virus strain 580.1, complete genome               396      2e-108
+GQ475328.1  Hepatitis B virus isolate KOR24LC, complete genome            396      2e-108
+FR714501.1  Hepatitis B virus complete genome, isolate TX327, X/C...      396      2e-108
+HQ700523.1  Hepatitis B virus isolate C_PNG_P032C_2004, complete ...      396      2e-108
+HQ700528.1  Hepatitis B virus isolate C_PNG_W034A_2004, complete ...      396      2e-108
+JX026885.1  Hepatitis B virus isolate WY-NJ-64, complete genome           396      2e-108
+KR013862.1  Hepatitis B virus strain 1385.9, complete genome              396      2e-108
+JF899338.1  Hepatitis B virus isolate 10B6, complete genome               396      2e-108
+KR013806.1  Hepatitis B virus strain 574.3, complete genome               396      2e-108
+KJ173335.1  Hepatitis B virus isolate YY010C(e112), complete genome       396      2e-108
+KR013818.1  Hepatitis B virus strain 593.2, complete genome               396      2e-108
+KY470880.1  Hepatitis B virus isolate 23-23, complete genome              396      2e-108
+JF828910.1  Hepatitis B virus isolate ES69-8, complete genome             396      2e-108
+JF828912.1  Hepatitis B virus isolate ES69-11, complete genome            396      2e-108
+KC774189.1  Hepatitis B virus isolate clz1030, complete genome            396      2e-108
+EU882005.1  Hepatitis B virus isolate patient22, complete genome          396      2e-108
+KC774217.1  Hepatitis B virus isolate clz2129, complete genome            396      2e-108
+KR013980.1  Hepatitis B virus strain 574.1, complete genome               396      2e-108
+MF674411.1  Hepatitis B virus isolate HBV040049, complete genome          396      2e-108
+KC774204.1  Hepatitis B virus isolate clz2056, complete genome            396      2e-108
+KY470895.1  Hepatitis B virus isolate 24-B5, complete genome              396      2e-108
+KY881840.1  Hepatitis B virus isolate patient-03 clone 21, comple...      396      2e-108
+KY470893.1  Hepatitis B virus isolate 24-B1, complete genome              396      2e-108
+FJ882610.1  Hepatitis B virus isolate H2252/01, complete genome           396      2e-108
+GQ377555.1  Hepatitis B virus isolate J86, complete genome                396      2e-108
+AB900099.1  Hepatitis B virus DNA, complete genome, strain: 027           396      2e-108
+KJ173336.1  Hepatitis B virus isolate YY010M(e113), complete genome       396      2e-108
+KJ173338.1  Hepatitis B virus isolate YY028M2(e134-B), complete g...      396      2e-108
+KR014059.1  Hepatitis B virus strain 1385.6, complete genome              396      2e-108
+KJ173314.1  Hepatitis B virus isolate NH006M(e35), complete genome        396      2e-108
+KR014049.1  Hepatitis B virus strain 1368.37, complete genome             396      2e-108
+KC774265.1  Hepatitis B virus isolate cww1074, complete genome            396      2e-108
+KR013910.1  Hepatitis B virus strain 327.5, complete genome               396      2e-108
+GQ475344.1  Hepatitis B virus isolate KOR40HCC, complete genome           396      2e-108
+GQ475320.1  Hepatitis B virus isolate KOR16CHB, complete genome           396      2e-108
+KY470898.1  Hepatitis B virus isolate 24-C08, complete genome             396      2e-108
+FJ882614.1  Hepatitis B virus isolate H1099/02, complete genome           396      2e-108
+KX660678.1  Hepatitis B virus isolate TibetShannan-1, complete ge...      396      2e-108
+KY470896.1  Hepatitis B virus isolate 24-B9, complete genome              396      2e-108
+KY470901.1  Hepatitis B virus isolate 24-D02, complete genome             396      2e-108
+KJ410504.1  Hepatitis B virus isolate Occult_HK315, complete genome       396      2e-108
+JQ040175.1  Hepatitis B virus isolate G250, complete genome               396      2e-108
+KY470903.1  Hepatitis B virus isolate 24-D06, complete genome             396      2e-108
+JQ040167.1  Hepatitis B virus isolate G225, complete genome               396      2e-108
+KR013943.1  Hepatitis B virus strain 497.1, complete genome               396      2e-108
+GQ924618.1  Hepatitis B virus isolate M35, complete genome                396      2e-108
+KF214673.1  Hepatitis B virus isolate IND-2009-17, complete genome        396      2e-108
+GQ924614.1  Hepatitis B virus isolate M31, complete genome                396      2e-108
+GQ377560.1  Hepatitis B virus isolate J93, complete genome                396      2e-108
+KC774303.1  Hepatitis B virus isolate cxa1659, complete genome            396      2e-108
+KR013986.1  Hepatitis B virus strain 580.7a, complete genome              396      2e-108
+KR013982.1  Hepatitis B virus strain 574.15, complete genome              396      2e-108
+KX660690.1  Hepatitis B virus isolate TibetRikaze-4, complete genome      396      2e-108
+KJ173293.1  Hepatitis B virus isolate CX063C(e307), complete genome       396      2e-108
+GQ475337.1  Hepatitis B virus isolate KOR33LC, complete genome            396      2e-108
+KC774456.1  Hepatitis B virus isolate dww1102, complete genome            396      2e-108
+JF828914.1  Hepatitis B virus isolate ES70-2, complete genome             396      2e-108
+KJ598717.1  Hepatitis B virus isolate SHB5102, complete genome            396      2e-108
+KR013908.1  Hepatitis B virus strain 327.13, complete genome              396      2e-108
+KR013861.1  Hepatitis B virus strain 1385.8, complete genome              396      2e-108
+JX429906.1  Hepatitis B virus isolate WY-HZ-48, complete genome           396      2e-108
+KJ173436.1  Hepatitis B virus isolate N06-C(166B), complete genome        396      2e-108
+JF436922.1  Hepatitis B virus isolate SZ16, complete genome               396      2e-108
+EU882006.1  Hepatitis B virus isolate patient22, complete genome          396      2e-108
+KR013813.1  Hepatitis B virus strain 580.3a, complete genome              396      2e-108
+MF674502.1  Hepatitis B virus isolate VN05T0190, complete genome          396      2e-108
+KR013815.1  Hepatitis B virus strain 580.5a, complete genome              396      2e-108
+KR013814.1  Hepatitis B virus strain 580.4, complete genome               396      2e-108
+KC774178.1  Hepatitis B virus isolate GS12lz2088, complete genome         396      2e-108
+JX504546.1  Hepatitis B virus isolate WY-SD-40, complete genome           396      2e-108
+KR013817.1  Hepatitis B virus strain 593.10, complete genome              396      2e-108
+GQ377633.1  Hepatitis B virus isolate J241, complete genome               396      2e-108
+KC774485.1  Hepatitis B virus isolate dxn1058, complete genome            396      2e-108
+HQ700547.1  Hepatitis B virus isolate I_WA1034A, complete genome          396      2e-108
+KR013791.1  Hepatitis B virus strain 497.6, complete genome               396      2e-108
+KC774239.1  Hepatitis B virus isolate cur1063, complete genome            396      2e-108
+KR014055.1  Hepatitis B virus strain 1385.10, complete genome             396      2e-108
+KY470894.1  Hepatitis B virus isolate 24-B3, complete genome              396      2e-108
+FR714491.1  Hepatitis B virus complete genome, isolate GM012, X/C...      396      2e-108
+LC090200.1  Hepatitis B virus genomic DNA, complete genome, strai...      396      2e-108
+KJ173435.1  Hepatitis B virus isolate N06-M(166A), complete genome        396      2e-108
+KJ173299.1  Hepatitis B virus isolate HS005C(e22), complete genome        396      2e-108
+KY470996.1  Hepatitis B virus isolate lmx-31, complete genome             396      2e-108
+AF065698.1  Stealth virus 1 clone C16128 T3                               379      3e-103
+KY766069.1  Zika virus isolate Pf13/251013-18, complete genome            357      1e-96
+AF058699.1  Bovine viral diarrhea virus strain Rit 4350 polyprote...      329      5e-88
+AF065702.1  Stealth virus 1 clone C16130 T3                               327      1e-87
+KF478765.1  Lassa virus strain Soromba-R segment S, complete sequ...      311      2e-82
+HQ389544.1  Hepatitis E virus strain Kernow-C1, complete genome           300      3e-79
+U89438.1    Pestivirus type 1 nonstructural protein P125-2 (p125) m...    300      2e-79
+HQ709170.1  Hepatitis E virus strain Kernow-C1, complete genome           300      3e-79
+JQ679013.1  Hepatitis E virus clone p6, complete genome                   300      3e-79
+M87813.1    Bovine viral diarrhea virus mRNA sequence                     294      3e-77
+U86599.1    Pestivirus type 1 cytopathic genomic RNA, complete genome     265      2e-68
+M87811.1    Bovine viral diarrhea virus mRNA sequence                     257      3e-66
+D00835.1    Human immunodeficiency virus 2 proviral DNA, complete g...    248      6e-64
+K01100.1    SV 40 variant genome ev-2102 DNA/African green monkey D...    246      3e-63
+AF065699.1  Stealth virus 1 clone C16128 T7                               243      5e-62
+AH002364.2  Human herpesvirus 4 Epstein-Barr virus/human cellular...      222      5e-56
+AF065725.1  Stealth virus 1 clone C16147 T7                               217      3e-54
+KM972720.1  Tete virus strain SaAn 3518 glycoprotein precursor, g...      209      2e-51
+AF067477.1  Stealth virus 4 clone C1151 T3 genomic sequence               200      1e-49
+AF065689.1  Stealth virus 1 clone C16121 T7                               193      1e-46
+AF065688.1  Stealth virus 1 clone C16121 T3                               187      1e-45
+D00735.1    Human papillomavirus type 16 genes for E6 protein, E7 p...    185      5e-45
+AF067487.1  Stealth virus 5 clone C1325 T3 genomic sequence               182      8e-44
+KP317931.1  Human respiratory syncytial virus isolate Kilifi_1089...      176      4e-42
+V01379.1    SV40 genome insert probably stemming from African green...    171      1e-40
+KF892040.1  Zaliv Terpenia virus strain LEIV-21C segment L, compl...      143      3e-31
+X05349.1    Human papilloma virus type 18 DNA for enhancer GA1 (int...    139      3e-31
+AF065658.1  Stealth virus 1 clone C1615 T3                                126      3e-27
+AF065659.1  Stealth virus 1 clone C1615 T7                                126      3e-27
+AF065724.1  Stealth virus 1 clone C16147 T3                               124      1e-26
+JF343788.1  Recombinant Hepatitis C virus J6(5'UTR(Cell-U3)-NS2)/...      117      1e-24
+JX997155.1  Acanthocystis turfacea Chlorella virus Br0604L, parti...      115      2e-23
+KT820662.1  Chrysochromulina ericina virus isolate CeV-01B, compl...      115      2e-23
+DQ333351.1  Choristoneura occidentalis granulovirus, complete genome      115      4e-23
+JF343789.1  Recombinant Hepatitis C virus J6(5'UTR(Cell-U3WTS1)-N...      104      1e-20
+KT254133.1  Pbunalikevirus phiFenriz, complete genome                      95.3    2e-17
+KU978791.1  Machupo mammarenavirus isolate OBT2102 segment L, com...       93.5    2e-16
+AF065703.1  Stealth virus 1 clone C16130 T7                                91.6    9e-17
+AF065684.1  Stealth virus 1 clone C16119 T3                                87.9    1e-15
+AF030039.1  Human endogenous retrovirus K clone P1.6, partial seq...       87.9    1e-15
+KY555145.1  Caulobacter phage Ccr29, complete genome                       87.9    2e-15
+AF030040.1  Human endogenous retrovirus K clone P1.7, partial seq...       87.9    1e-15
+KU978783.1  Machupo mammarenavirus isolate Calomys 221600 segment...       87.9    7e-15
+JF343790.1  Recombinant Hepatitis C virus J6(5'UTR(Cell-U6)-NS2)/...       80.5    2e-13
+KC440852.1  Human herpesvirus 4 strain K4123-MiEBV, partial genome         78.7    1e-11
+KP136319.1  Pandoravirus inopinatum isolate KlaHel, complete genome        78.7    2e-12
+AF030045.1  Human endogenous retrovirus K clone M3.9, partial seq...       78.7    8e-13
+KC977570.1  Pandoravirus dulcis, complete genome                           78.7    2e-12
+KX965989.1  Aeribacillus phage AP45, complete genome                       78.7    9e-12
+KY442063.1  Staphylococcus phage Andhra, complete genome                   75      2e-11
+AF030044.1  Human endogenous retrovirus K clone HP.2, partial seq...       75      1e-11
+KU746275.1  Guanarito mammarenavirus isolate VHF1986 segment L, c...       71.3    7e-10
+KU978779.1  Rift Valley fever virus isolate ZINGA J83 R1 segment ...       69.4    4e-10
+KP968257.1  Human herpesvirus 4 strain CCH, partial genome                 65.8    1e-08
+KP968259.1  Human herpesvirus 4 strain SCL, partial genome                 65.8    1e-08
+KR063345.1  Human herpesvirus 4 strain FNR, partial genome                 65.8    1e-08
+KC440851.1  Human herpesvirus 4 strain K4123-Mi, partial genome            65.8    1e-08
+KT001102.1  Human herpesvirus 4 strain VA, partial genome                  65.8    1e-08
+KP968264.1  Human herpesvirus 4 strain H002213, partial genome             65.8    1e-08
+AF030041.1  Human endogenous retrovirus K clone N5.1, partial seq...       65.8    6e-09
+KR063342.1  Human herpesvirus 4 strain H03753A, partial genome             65.8    1e-08
+KP968260.1  Human herpesvirus 4 strain VGO, partial genome                 65.8    1e-08
+KT783484.1  Tadarida brasiliensis circovirus 1, complete genome            63.9    2e-08
+KR063344.1  Human herpesvirus 4 strain RPF, partial genome                 60.2    6e-07
+KU885989.1  Roseobacter phage RD-1410W1-01, partial genome                 58.4    4e-06
+KU746279.1  Guanarito mammarenavirus isolate CVH-950801 segment L...       58.4    6e-06
+KU978789.1  Machupo mammarenavirus isolate Calomys 14795 segment ...       58.4    6e-06
+KU746284.1  Guanarito mammarenavirus isolate CVH-960201 segment S...       58.4    6e-06
+KU746281.1  Guanarito mammarenavirus isolate CVH-960104 segment S...       56.5    2e-05
+KU746274.1  Guanarito mammarenavirus isolate VHF1750 segment L, c...       56.5    2e-05
+KU746285.1  Guanarito mammarenavirus isolate VHF4016 segment L, c...       56.5    2e-05
+KU746273.1  Guanarito mammarenavirus isolate VHF1750 segment S, c...       56.5    2e-05
+KU746277.1  Guanarito mammarenavirus isolate VHF3900 segment S, c...       56.5    2e-05
+KU978787.1  Machupo mammarenavirus isolate 9430069 segment L, com...       56.5    2e-05
+KU978799.1  Junin mammarenavirus isolate P35032 segment L, comple...       56.5    2e-05
+KU746282.1  Guanarito mammarenavirus isolate CVH-960104 segment L...       56.5    2e-05
+KU746286.1  Guanarito mammarenavirus isolate VHF4016 segment S, c...       56.5    2e-05
+KU746287.1  Guanarito mammarenavirus isolate VHF4696 segment S, c...       54.7    7e-05
+JX863737.1  Bat associated circovirus 1 isolate XOR, complete genome       54.7    1e-05
