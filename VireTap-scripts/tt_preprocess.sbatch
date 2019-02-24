@@ -1,9 +1,9 @@
 #!/bin/bash
 #SBATCH -t 10:00:00
-#SBATCH -p RM
+#SBATCH -p RM-shared
 #SBATCH -N 1
 ##SBATCH --mem=120GB
-#SBATCH --ntasks-per-node 28
+#SBATCH --ntasks-per-node 10
 #SBATCH --output tt_preprocess.%j.log
 #
 # load module

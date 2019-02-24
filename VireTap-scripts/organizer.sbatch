@@ -1,9 +1,9 @@
 #!/bin/bash
 #BATCH -t 10:00:00
-#SBATCH -p RM
+#SBATCH -p RM-small
 #SBATCH -N 1
 ##SBATCH --mem=120GB
-#SBATCH --ntasks-per-node 28
+#SBATCH --ntasks-per-node 4
 ##SBATCH --output organizer.%j.log
 #
 A_NUM=$1

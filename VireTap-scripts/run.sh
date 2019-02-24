@@ -7,6 +7,7 @@
 #SBATCH --output VireTap.%j.log
 #
 #
+OUT_FMT=0
 CORE=8
 MEM_TRINITY=60
 index="GRCh38_cdna_index" 
@@ -25,11 +26,12 @@ if [[ $1 == '-h' ]] || [[ $1 == '--help' ]]; then
 	printf "\t>Trinity"
 	printf "\t\tCores used: $CORE, Max memory: "$MEM_TRINITY"GB, Max runtime: 24h\n"
 	printf "\t>Blast"
-	printf "\t\t\tMax runtime: 10h\n"
+	printf "\t\t\tMax runtime: 10h, Out format: 0\n"
 	printf "\n\t-i|--index <string>\tSpecify index folder for Tophat.\n"
 	printf "\t-a|--accession <string>\tSpecify the accession number.\n"
 	printf "\t--num-cores <int>\tSpecify number of cores to use on node.\n"
 	printf "\t--mem-trinity <int>\tNumber of GBs memory to use for Trinity.\n"
+	printf "\t--out-fmt <int>\tOutput format for Blastn.\n"
 	printf "\nMore parameter modules will be coming soon.\n"
 	exit 1
 fi
@@ -60,6 +62,11 @@ else
 	shift
 	shift
 	;;
+	--out-fmt)
+	OUT_FMT="$2"
+	shift
+	shift
+	;;
 	*)
 	POSITIONAL+=("$1")
 	shift
@@ -71,7 +78,7 @@ fi
 set -- "${POSITIONAL[@]}"
 # readlink for index folder
 index=`readlink -f $index`
-printf "\nRunning with these parameters:\n\tAccession number: $A_NUM\n\tIndex folder: $index\n\tTrinity memory(GB): $MEM_TRINITY\n\tNumber of cores: $CORE\n\n"
+printf "\nRunning with these parameters:\n\tAccession number: $A_NUM\n\tIndex folder: $index\n\tTrinity memory(GB): $MEM_TRINITY\n\tNumber of cores: $CORE\n\tBlast out format: $OUT_FMT\n\n"
 # record cur directory
 DIR=`pwd`
 printf "Working directory is $DIR\n\n"
@@ -208,7 +215,7 @@ sleep 2
 #
 # STEP 4: run blast on Trinity result
 # parameters: [Trinity.fasta location] [accession] [directory]
-blast_job=`sbatch --dependency afterany:"$trinity_job" "$script/blastn.sbatch" $A_NUM\_unmapped\_trinity/Trinity.fasta 0 $A_NUM $DIR`
+blast_job=`sbatch --dependency afterany:"$trinity_job" "$script/blastn.sbatch" $A_NUM\_unmapped\_trinity/Trinity.fasta $OUT_FMT $A_NUM $DIR $script`
 blast_job=`echo $blast_job | cut -d " " -f 4`
 echo "Blast job number is $blast_job"
 sleep 2
