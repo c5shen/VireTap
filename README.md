@@ -71,6 +71,7 @@ Some modules can be modified by specifying them in parameters. For now we suppor
     -a|--accession <string> Specify the accession number.
     --num-cores <int>       Specify number of cores to use on node.
     --mem-trinity <int>     Number of GBs memory to use for Trinity.
+    --out-fmt <int>         Output format for Blast.
 ```
 #### Example 2
 ```bash
