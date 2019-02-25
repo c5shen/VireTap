@@ -1,8 +1,8 @@
 # VireTap
-### A pipline for general viral transcriptome detection in homo sapien RNA-seq data
-A 03-713 Bioinformatics Practicum project. It is focused on virus detections of a given diseased model using RNA-seq data, and some further analyses including SNP analysis etc (not complete yet).
+### A pipeline for general viral transcriptome detection in human RNA-seq data
+A 03-713 Bioinformatics Practicum project. It is focused on virus detections of a given diseased model using RNA-seq data, integrating various bioinformatics tools including TopHat, Trinity, and BLAST.
 
-#### Main contributors (A-Z last name): Ayushi Sood, Chengyang Nie, Chengze Shen, Ian Lee, Shubhakar Reddy.
+#### Main contributors (A-Z last name): Yi-Yuan Lee, Chengyang Nie, Chengze Shen, Ayushi Sood, Shubhakar Tipireddy.
 
 **WARNING:** This program needs to run on computers that have `slurm` activated (i.e. on PSC server, clustering servers).
 
